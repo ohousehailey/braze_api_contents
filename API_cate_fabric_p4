@@ -1,0 +1,686 @@
+{ "API_cate_fabric_p4" : [{
+"admin_category_id": "1701002",
+"cate_1" : "패브릭",
+"cate_2" : "러그/카페트/매트",
+"cate_3" : "러그/카페트"
+},{
+"admin_category_id": "1701003",
+"cate_1" : "패브릭",
+"cate_2" : "러그/카페트/매트",
+"cate_3" : "러그/카페트"
+},{
+"admin_category_id": "1701004",
+"cate_1" : "패브릭",
+"cate_2" : "러그/카페트/매트",
+"cate_3" : "러그/카페트"
+},{
+"admin_category_id": "1701005",
+"cate_1" : "패브릭",
+"cate_2" : "러그/카페트/매트",
+"cate_3" : "러그/카페트"
+},{
+"admin_category_id": "1701006",
+"cate_1" : "패브릭",
+"cate_2" : "러그/카페트/매트",
+"cate_3" : "러그/카페트"
+},{
+"admin_category_id": "1701007",
+"cate_1" : "패브릭",
+"cate_2" : "러그/카페트/매트",
+"cate_3" : "러그/카페트"
+},{
+"admin_category_id": "1701008",
+"cate_1" : "패브릭",
+"cate_2" : "러그/카페트/매트",
+"cate_3" : "러그/카페트"
+},{
+"admin_category_id": "1701009",
+"cate_1" : "패브릭",
+"cate_2" : "러그/카페트/매트",
+"cate_3" : "러그/카페트"
+},{
+"admin_category_id": "1701010",
+"cate_1" : "패브릭",
+"cate_2" : "러그/카페트/매트",
+"cate_3" : "러그/카페트"
+},{
+"admin_category_id": "1701011",
+"cate_1" : "패브릭",
+"cate_2" : "러그/카페트/매트",
+"cate_3" : "러그/카페트"
+},{
+"admin_category_id": "1701012",
+"cate_1" : "패브릭",
+"cate_2" : "러그/카페트/매트",
+"cate_3" : "러그/카페트"
+},{
+"admin_category_id": "1701013",
+"cate_1" : "패브릭",
+"cate_2" : "러그/카페트/매트",
+"cate_3" : "러그/카페트"
+},{
+"admin_category_id": "1701014",
+"cate_1" : "패브릭",
+"cate_2" : "러그/카페트/매트",
+"cate_3" : "러그/카페트"
+},{
+"admin_category_id": "1701015",
+"cate_1" : "패브릭",
+"cate_2" : "러그/카페트/매트",
+"cate_3" : "러그/카페트"
+},{
+"admin_category_id": "1701018",
+"cate_1" : "패브릭",
+"cate_2" : "러그/카페트/매트",
+"cate_3" : "매트"
+},{
+"admin_category_id": "1701022",
+"cate_1" : "패브릭",
+"cate_2" : "러그/카페트/매트",
+"cate_3" : "매트"
+},{
+"admin_category_id": "1701024",
+"cate_1" : "패브릭",
+"cate_2" : "러그/카페트/매트",
+"cate_3" : "매트"
+},{
+"admin_category_id": "1701025",
+"cate_1" : "패브릭",
+"cate_2" : "러그/카페트/매트",
+"cate_3" : "매트"
+},{
+"admin_category_id": "1701027",
+"cate_1" : "패브릭",
+"cate_2" : "러그/카페트/매트",
+"cate_3" : "매트"
+},{
+"admin_category_id": "1701028",
+"cate_1" : "패브릭",
+"cate_2" : "러그/카페트/매트",
+"cate_3" : "매트"
+},{
+"admin_category_id": "1702001",
+"cate_1" : "패브릭",
+"cate_2" : "수예/취미",
+"cate_3" : "기타수예/취미용품"
+},{
+"admin_category_id": "1702002",
+"cate_1" : "패브릭",
+"cate_2" : "수예/취미",
+"cate_3" : "원단"
+},{
+"admin_category_id": "1702003",
+"cate_1" : "패브릭",
+"cate_2" : "수예/취미",
+"cate_3" : "위빙/위빙도구"
+},{
+"admin_category_id": "1702004",
+"cate_1" : "패브릭",
+"cate_2" : "수예/취미",
+"cate_3" : "자수/자수도구"
+},{
+"admin_category_id": "1702005",
+"cate_1" : "패브릭",
+"cate_2" : "수예/취미",
+"cate_3" : "퀼트/퀼트도구"
+},{
+"admin_category_id": "1702006",
+"cate_1" : "패브릭",
+"cate_2" : "수예/취미",
+"cate_3" : "털실/뜨개도구"
+},{
+"admin_category_id": "1702007",
+"cate_1" : "패브릭",
+"cate_2" : "수예/취미",
+"cate_3" : "패턴"
+},{
+"admin_category_id": "1702008",
+"cate_1" : "패브릭",
+"cate_2" : "수예/취미",
+"cate_3" : "펠트/펠트도구"
+},{
+"admin_category_id": "1704003",
+"cate_1" : "패브릭",
+"cate_2" : "침구",
+"cate_3" : "롱쿠션/바디필로우"
+},{
+"admin_category_id": "1704004",
+"cate_1" : "패브릭",
+"cate_2" : "침구",
+"cate_3" : "롱쿠션/바디필로우"
+},{
+"admin_category_id": "1704005",
+"cate_1" : "패브릭",
+"cate_2" : "침구",
+"cate_3" : "롱쿠션/바디필로우"
+},{
+"admin_category_id": "1704007",
+"cate_1" : "패브릭",
+"cate_2" : "침구",
+"cate_3" : "매트/침대커버"
+},{
+"admin_category_id": "1704008",
+"cate_1" : "패브릭",
+"cate_2" : "침구",
+"cate_3" : "매트/침대커버"
+},{
+"admin_category_id": "1704011",
+"cate_1" : "패브릭",
+"cate_2" : "침구",
+"cate_3" : "베개/베개솜"
+},{
+"admin_category_id": "1704012",
+"cate_1" : "패브릭",
+"cate_2" : "침구",
+"cate_3" : "베개/베개솜"
+},{
+"admin_category_id": "1704014",
+"cate_1" : "패브릭",
+"cate_2" : "침구",
+"cate_3" : "베개/베개솜"
+},{
+"admin_category_id": "1704015",
+"cate_1" : "패브릭",
+"cate_2" : "침구",
+"cate_3" : "베개/베개솜"
+},{
+"admin_category_id": "1704016",
+"cate_1" : "패브릭",
+"cate_2" : "침구",
+"cate_3" : "베개/베개솜"
+},{
+"admin_category_id": "1704018",
+"cate_1" : "패브릭",
+"cate_2" : "침구",
+"cate_3" : "베개/베개솜"
+},{
+"admin_category_id": "1704019",
+"cate_1" : "패브릭",
+"cate_2" : "침구",
+"cate_3" : "베개/베개솜"
+},{
+"admin_category_id": "1704021",
+"cate_1" : "패브릭",
+"cate_2" : "침구",
+"cate_3" : "베개/베개솜"
+},{
+"admin_category_id": "1704022",
+"cate_1" : "패브릭",
+"cate_2" : "침구",
+"cate_3" : "베개/베개솜"
+},{
+"admin_category_id": "1704023",
+"cate_1" : "패브릭",
+"cate_2" : "침구",
+"cate_3" : "베개/베개솜"
+},{
+"admin_category_id": "1704025",
+"cate_1" : "패브릭",
+"cate_2" : "침구",
+"cate_3" : "요토퍼"
+},{
+"admin_category_id": "1704026",
+"cate_1" : "패브릭",
+"cate_2" : "침구",
+"cate_3" : "요토퍼"
+},{
+"admin_category_id": "1704040",
+"cate_1" : "패브릭",
+"cate_2" : "침구",
+"cate_3" : "쿨매트"
+},{
+"admin_category_id": "1704045",
+"cate_1" : "패브릭",
+"cate_2" : "침구",
+"cate_3" : "베개/베개솜"
+},{
+"admin_category_id": "1704048",
+"cate_1" : "패브릭",
+"cate_2" : "침구",
+"cate_3" : "이불/이불커버"
+},{
+"admin_category_id": "1704049",
+"cate_1" : "패브릭",
+"cate_2" : "침구",
+"cate_3" : "이불/이불커버"
+},{
+"admin_category_id": "1704050",
+"cate_1" : "패브릭",
+"cate_2" : "침구",
+"cate_3" : "이불/이불커버"
+},{
+"admin_category_id": "1704051",
+"cate_1" : "패브릭",
+"cate_2" : "침구",
+"cate_3" : "이불/이불커버"
+},{
+"admin_category_id": "1704054",
+"cate_1" : "패브릭",
+"cate_2" : "침구",
+"cate_3" : "이불/이불커버"
+},{
+"admin_category_id": "1704055",
+"cate_1" : "패브릭",
+"cate_2" : "침구",
+"cate_3" : "이불/이불커버"
+},{
+"admin_category_id": "1704056",
+"cate_1" : "패브릭",
+"cate_2" : "침구",
+"cate_3" : "이불솜/속통"
+},{
+"admin_category_id": "1704057",
+"cate_1" : "패브릭",
+"cate_2" : "침구",
+"cate_3" : "이불솜/속통"
+},{
+"admin_category_id": "1704058",
+"cate_1" : "패브릭",
+"cate_2" : "침구",
+"cate_3" : "이불솜/속통"
+},{
+"admin_category_id": "1704059",
+"cate_1" : "패브릭",
+"cate_2" : "침구",
+"cate_3" : "이불솜/속통"
+},{
+"admin_category_id": "1704060",
+"cate_1" : "패브릭",
+"cate_2" : "침구",
+"cate_3" : "이불솜/속통"
+},{
+"admin_category_id": "1704061",
+"cate_1" : "패브릭",
+"cate_2" : "침구",
+"cate_3" : "이불솜/속통"
+},{
+"admin_category_id": "1704062",
+"cate_1" : "패브릭",
+"cate_2" : "침구",
+"cate_3" : "이불솜/속통"
+},{
+"admin_category_id": "1704063",
+"cate_1" : "패브릭",
+"cate_2" : "침구",
+"cate_3" : "이불솜/속통"
+},{
+"admin_category_id": "1704064",
+"cate_1" : "패브릭",
+"cate_2" : "침구",
+"cate_3" : "이불솜/속통"
+},{
+"admin_category_id": "1704065",
+"cate_1" : "패브릭",
+"cate_2" : "침구",
+"cate_3" : "이불솜/속통"
+},{
+"admin_category_id": "1704068",
+"cate_1" : "패브릭",
+"cate_2" : "침구",
+"cate_3" : "패드/스프레드"
+},{
+"admin_category_id": "1704069",
+"cate_1" : "패브릭",
+"cate_2" : "침구",
+"cate_3" : "패드/스프레드"
+},{
+"admin_category_id": "1704071",
+"cate_1" : "패브릭",
+"cate_2" : "침구",
+"cate_3" : "패드/스프레드"
+},{
+"admin_category_id": "1704072",
+"cate_1" : "패브릭",
+"cate_2" : "침구",
+"cate_3" : "패드/스프레드"
+},{
+"admin_category_id": "1705001",
+"cate_1" : "패브릭",
+"cate_2" : "커튼/블라인드",
+"cate_3" : "로만쉐이드"
+},{
+"admin_category_id": "1705002",
+"cate_1" : "패브릭",
+"cate_2" : "커튼/블라인드",
+"cate_3" : "롤스크린"
+},{
+"admin_category_id": "1705003",
+"cate_1" : "패브릭",
+"cate_2" : "커튼/블라인드",
+"cate_3" : "버티칼"
+},{
+"admin_category_id": "1705005",
+"cate_1" : "패브릭",
+"cate_2" : "커튼/블라인드",
+"cate_3" : "블라인드"
+},{
+"admin_category_id": "1705006",
+"cate_1" : "패브릭",
+"cate_2" : "커튼/블라인드",
+"cate_3" : "블라인드"
+},{
+"admin_category_id": "1705007",
+"cate_1" : "패브릭",
+"cate_2" : "커튼/블라인드",
+"cate_3" : "블라인드"
+},{
+"admin_category_id": "1705008",
+"cate_1" : "패브릭",
+"cate_2" : "커튼/블라인드",
+"cate_3" : "캐노피"
+},{
+"admin_category_id": "1705010",
+"cate_1" : "패브릭",
+"cate_2" : "커튼/블라인드",
+"cate_3" : "커튼/블라인드부자재"
+},{
+"admin_category_id": "1705011",
+"cate_1" : "패브릭",
+"cate_2" : "커튼/블라인드",
+"cate_3" : "커튼/블라인드부자재"
+},{
+"admin_category_id": "1705012",
+"cate_1" : "패브릭",
+"cate_2" : "커튼/블라인드",
+"cate_3" : "커튼/블라인드부자재"
+},{
+"admin_category_id": "1705013",
+"cate_1" : "패브릭",
+"cate_2" : "커튼/블라인드",
+"cate_3" : "커튼/블라인드부자재"
+},{
+"admin_category_id": "1705014",
+"cate_1" : "패브릭",
+"cate_2" : "커튼/블라인드",
+"cate_3" : "커튼/블라인드부자재"
+},{
+"admin_category_id": "1705015",
+"cate_1" : "패브릭",
+"cate_2" : "커튼/블라인드",
+"cate_3" : "커튼/블라인드부자재"
+},{
+"admin_category_id": "1705016",
+"cate_1" : "패브릭",
+"cate_2" : "커튼/블라인드",
+"cate_3" : "커튼/블라인드부자재"
+},{
+"admin_category_id": "1705017",
+"cate_1" : "패브릭",
+"cate_2" : "커튼/블라인드",
+"cate_3" : "커튼/블라인드부자재"
+},{
+"admin_category_id": "1705019",
+"cate_1" : "패브릭",
+"cate_2" : "커튼/블라인드",
+"cate_3" : "커튼"
+},{
+"admin_category_id": "1705020",
+"cate_1" : "패브릭",
+"cate_2" : "커튼/블라인드",
+"cate_3" : "커튼"
+},{
+"admin_category_id": "1705021",
+"cate_1" : "패브릭",
+"cate_2" : "커튼/블라인드",
+"cate_3" : "커튼"
+},{
+"admin_category_id": "1705022",
+"cate_1" : "패브릭",
+"cate_2" : "커튼/블라인드",
+"cate_3" : "커튼"
+},{
+"admin_category_id": "1705023",
+"cate_1" : "패브릭",
+"cate_2" : "커튼/블라인드",
+"cate_3" : "커튼"
+},{
+"admin_category_id": "1705024",
+"cate_1" : "패브릭",
+"cate_2" : "커튼/블라인드",
+"cate_3" : "블라인드"
+},{
+"admin_category_id": "1705025",
+"cate_1" : "패브릭",
+"cate_2" : "커튼/블라인드",
+"cate_3" : "블라인드"
+},{
+"admin_category_id": "1705026",
+"cate_1" : "패브릭",
+"cate_2" : "커튼/블라인드",
+"cate_3" : "빔스크린"
+},{
+"admin_category_id": "1705027",
+"cate_1" : "패브릭",
+"cate_2" : "커튼/블라인드",
+"cate_3" : "커튼/블라인드부자재"
+},{
+"admin_category_id": "1706002",
+"cate_1" : "패브릭",
+"cate_2" : "쿠션/방석",
+"cate_3" : "방석"
+},{
+"admin_category_id": "1706003",
+"cate_1" : "패브릭",
+"cate_2" : "쿠션/방석",
+"cate_3" : "방석"
+},{
+"admin_category_id": "1706004",
+"cate_1" : "패브릭",
+"cate_2" : "쿠션/방석",
+"cate_3" : "방석"
+},{
+"admin_category_id": "1706005",
+"cate_1" : "패브릭",
+"cate_2" : "쿠션/방석",
+"cate_3" : "방석"
+},{
+"admin_category_id": "1706006",
+"cate_1" : "패브릭",
+"cate_2" : "쿠션/방석",
+"cate_3" : "방석"
+},{
+"admin_category_id": "1706007",
+"cate_1" : "패브릭",
+"cate_2" : "쿠션/방석",
+"cate_3" : "방석"
+},{
+"admin_category_id": "1706008",
+"cate_1" : "패브릭",
+"cate_2" : "쿠션/방석",
+"cate_3" : "방석"
+},{
+"admin_category_id": "1706009",
+"cate_1" : "패브릭",
+"cate_2" : "쿠션/방석",
+"cate_3" : "방석"
+},{
+"admin_category_id": "1706010",
+"cate_1" : "패브릭",
+"cate_2" : "쿠션/방석",
+"cate_3" : "방석"
+},{
+"admin_category_id": "1706011",
+"cate_1" : "패브릭",
+"cate_2" : "쿠션/방석",
+"cate_3" : "소파패드"
+},{
+"admin_category_id": "1706013",
+"cate_1" : "패브릭",
+"cate_2" : "쿠션/방석",
+"cate_3" : "쿠션"
+},{
+"admin_category_id": "1706014",
+"cate_1" : "패브릭",
+"cate_2" : "쿠션/방석",
+"cate_3" : "쿠션"
+},{
+"admin_category_id": "1706015",
+"cate_1" : "패브릭",
+"cate_2" : "쿠션/방석",
+"cate_3" : "쿠션"
+},{
+"admin_category_id": "1706016",
+"cate_1" : "패브릭",
+"cate_2" : "쿠션/방석",
+"cate_3" : "쿠션"
+},{
+"admin_category_id": "1706017",
+"cate_1" : "패브릭",
+"cate_2" : "쿠션/방석",
+"cate_3" : "쿠션"
+},{
+"admin_category_id": "1706018",
+"cate_1" : "패브릭",
+"cate_2" : "쿠션/방석",
+"cate_3" : "쿠션"
+},{
+"admin_category_id": "1706019",
+"cate_1" : "패브릭",
+"cate_2" : "쿠션/방석",
+"cate_3" : "쿠션"
+},{
+"admin_category_id": "1706020",
+"cate_1" : "패브릭",
+"cate_2" : "쿠션/방석",
+"cate_3" : "쿠션"
+},{
+"admin_category_id": "1707002",
+"cate_1" : "패브릭",
+"cate_2" : "홈패브릭/커버",
+"cate_3" : "가구커버류"
+},{
+"admin_category_id": "1707003",
+"cate_1" : "패브릭",
+"cate_2" : "홈패브릭/커버",
+"cate_3" : "가구커버류"
+},{
+"admin_category_id": "1707004",
+"cate_1" : "패브릭",
+"cate_2" : "홈패브릭/커버",
+"cate_3" : "가구커버류"
+},{
+"admin_category_id": "1707006",
+"cate_1" : "패브릭",
+"cate_2" : "홈패브릭/커버",
+"cate_3" : "가전제품커버"
+},{
+"admin_category_id": "1707007",
+"cate_1" : "패브릭",
+"cate_2" : "홈패브릭/커버",
+"cate_3" : "가전제품커버"
+},{
+"admin_category_id": "1707008",
+"cate_1" : "패브릭",
+"cate_2" : "홈패브릭/커버",
+"cate_3" : "가전제품커버"
+},{
+"admin_category_id": "1707010",
+"cate_1" : "패브릭",
+"cate_2" : "홈패브릭/커버",
+"cate_3" : "가전제품커버"
+},{
+"admin_category_id": "1707012",
+"cate_1" : "패브릭",
+"cate_2" : "홈패브릭/커버",
+"cate_3" : "문고리/손잡이커버"
+},{
+"admin_category_id": "1707013",
+"cate_1" : "패브릭",
+"cate_2" : "홈패브릭/커버",
+"cate_3" : "문고리/손잡이커버"
+},{
+"admin_category_id": "1707014",
+"cate_1" : "패브릭",
+"cate_2" : "홈패브릭/커버",
+"cate_3" : "실내화/거실화"
+},{
+"admin_category_id": "1707016",
+"cate_1" : "패브릭",
+"cate_2" : "홈패브릭/커버",
+"cate_3" : "주방패브릭"
+},{
+"admin_category_id": "1707017",
+"cate_1" : "패브릭",
+"cate_2" : "홈패브릭/커버",
+"cate_3" : "주방패브릭"
+},{
+"admin_category_id": "1707018",
+"cate_1" : "패브릭",
+"cate_2" : "홈패브릭/커버",
+"cate_3" : "주방패브릭"
+},{
+"admin_category_id": "1707019",
+"cate_1" : "패브릭",
+"cate_2" : "홈패브릭/커버",
+"cate_3" : "주방패브릭"
+},{
+"admin_category_id": "1707020",
+"cate_1" : "패브릭",
+"cate_2" : "홈패브릭/커버",
+"cate_3" : "주방패브릭"
+},{
+"admin_category_id": "1707021",
+"cate_1" : "패브릭",
+"cate_2" : "홈패브릭/커버",
+"cate_3" : "주방패브릭"
+},{
+"admin_category_id": "1707022",
+"cate_1" : "패브릭",
+"cate_2" : "홈패브릭/커버",
+"cate_3" : "주방패브릭"
+},{
+"admin_category_id": "1707023",
+"cate_1" : "패브릭",
+"cate_2" : "홈패브릭/커버",
+"cate_3" : "패브릭수납/정리포켓"
+},{
+"admin_category_id": "1707025",
+"cate_1" : "패브릭",
+"cate_2" : "홈패브릭/커버",
+"cate_3" : "가전제품커버"
+},{
+"admin_category_id": "1707026",
+"cate_1" : "패브릭",
+"cate_2" : "홈패브릭/커버",
+"cate_3" : "가전제품커버"
+},{
+"admin_category_id": "1707027",
+"cate_1" : "패브릭",
+"cate_2" : "홈패브릭/커버",
+"cate_3" : "홈웨어"
+},{
+"admin_category_id": "1707028",
+"cate_1" : "패브릭",
+"cate_2" : "홈패브릭/커버",
+"cate_3" : "홈웨어"
+},{
+"admin_category_id": "1707029",
+"cate_1" : "패브릭",
+"cate_2" : "홈패브릭/커버",
+"cate_3" : "홈웨어"
+},{
+"admin_category_id": "1707030",
+"cate_1" : "패브릭",
+"cate_2" : "홈패브릭/커버",
+"cate_3" : "홈웨어"
+},{
+"admin_category_id": "1707031",
+"cate_1" : "패브릭",
+"cate_2" : "홈패브릭/커버",
+"cate_3" : "홈웨어"
+},{
+"admin_category_id": "1707032",
+"cate_1" : "패브릭",
+"cate_2" : "홈패브릭/커버",
+"cate_3" : "담요"
+},{
+"admin_category_id": "1707033",
+"cate_1" : "패브릭",
+"cate_2" : "홈패브릭/커버",
+"cate_3" : "홈웨어"
+},{
+"admin_category_id": "1707034",
+"cate_1" : "패브릭",
+"cate_2" : "홈패브릭/커버",
+"cate_3" : "홈웨어"
+}]}
