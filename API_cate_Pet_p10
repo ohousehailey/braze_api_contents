@@ -1,0 +1,831 @@
+{ "API_cate_Pet_p10" : [{
+"admin_category_id": "2601002",
+"cate_1" : "반려동물",
+"cate_2" : "강아지리빙",
+"cate_3" : "급식기/급수기"
+},{
+"admin_category_id": "2601003",
+"cate_1" : "반려동물",
+"cate_2" : "강아지리빙",
+"cate_3" : "급식기/급수기"
+},{
+"admin_category_id": "2601004",
+"cate_1" : "반려동물",
+"cate_2" : "강아지리빙",
+"cate_3" : "급식기/급수기"
+},{
+"admin_category_id": "2601005",
+"cate_1" : "반려동물",
+"cate_2" : "강아지리빙",
+"cate_3" : "급식기/급수기"
+},{
+"admin_category_id": "2601006",
+"cate_1" : "반려동물",
+"cate_2" : "강아지리빙",
+"cate_3" : "급식기/급수기"
+},{
+"admin_category_id": "2601007",
+"cate_1" : "반려동물",
+"cate_2" : "강아지리빙",
+"cate_3" : "급식기/급수기"
+},{
+"admin_category_id": "2601008",
+"cate_1" : "반려동물",
+"cate_2" : "강아지리빙",
+"cate_3" : "급식기/급수기"
+},{
+"admin_category_id": "2601009",
+"cate_1" : "반려동물",
+"cate_2" : "강아지리빙",
+"cate_3" : "담요/이불/침낭"
+},{
+"admin_category_id": "2601011",
+"cate_1" : "반려동물",
+"cate_2" : "강아지리빙",
+"cate_3" : "매트"
+},{
+"admin_category_id": "2601012",
+"cate_1" : "반려동물",
+"cate_2" : "강아지리빙",
+"cate_3" : "매트"
+},{
+"admin_category_id": "2601013",
+"cate_1" : "반려동물",
+"cate_2" : "강아지리빙",
+"cate_3" : "매트"
+},{
+"admin_category_id": "2601014",
+"cate_1" : "반려동물",
+"cate_2" : "강아지리빙",
+"cate_3" : "매트"
+},{
+"admin_category_id": "2601016",
+"cate_1" : "반려동물",
+"cate_2" : "강아지리빙",
+"cate_3" : "옷장/행거/옷걸이"
+},{
+"admin_category_id": "2601017",
+"cate_1" : "반려동물",
+"cate_2" : "강아지리빙",
+"cate_3" : "옷장/행거/옷걸이"
+},{
+"admin_category_id": "2601019",
+"cate_1" : "반려동물",
+"cate_2" : "강아지리빙",
+"cate_3" : "울타리/철장"
+},{
+"admin_category_id": "2601020",
+"cate_1" : "반려동물",
+"cate_2" : "강아지리빙",
+"cate_3" : "울타리/철장"
+},{
+"admin_category_id": "2601021",
+"cate_1" : "반려동물",
+"cate_2" : "강아지리빙",
+"cate_3" : "울타리/철장"
+},{
+"admin_category_id": "2601022",
+"cate_1" : "반려동물",
+"cate_2" : "강아지리빙",
+"cate_3" : "울타리/철장"
+},{
+"admin_category_id": "2601023",
+"cate_1" : "반려동물",
+"cate_2" : "강아지리빙",
+"cate_3" : "울타리/철장"
+},{
+"admin_category_id": "2601025",
+"cate_1" : "반려동물",
+"cate_2" : "강아지리빙",
+"cate_3" : "쿠션/방석"
+},{
+"admin_category_id": "2601026",
+"cate_1" : "반려동물",
+"cate_2" : "강아지리빙",
+"cate_3" : "쿠션/방석"
+},{
+"admin_category_id": "2601027",
+"cate_1" : "반려동물",
+"cate_2" : "강아지리빙",
+"cate_3" : "쿠션/방석"
+},{
+"admin_category_id": "2601028",
+"cate_1" : "반려동물",
+"cate_2" : "강아지리빙",
+"cate_3" : "계단/스텝"
+},{
+"admin_category_id": "2601030",
+"cate_1" : "반려동물",
+"cate_2" : "강아지리빙",
+"cate_3" : "하우스/텐트"
+},{
+"admin_category_id": "2601031",
+"cate_1" : "반려동물",
+"cate_2" : "강아지리빙",
+"cate_3" : "하우스/텐트"
+},{
+"admin_category_id": "2601032",
+"cate_1" : "반려동물",
+"cate_2" : "강아지리빙",
+"cate_3" : "하우스/텐트"
+},{
+"admin_category_id": "2601033",
+"cate_1" : "반려동물",
+"cate_2" : "강아지리빙",
+"cate_3" : "하우스/텐트"
+},{
+"admin_category_id": "2602001",
+"cate_1" : "반려동물",
+"cate_2" : "강아지배변용품",
+"cate_3" : "기저귀/팬티"
+},{
+"admin_category_id": "2602002",
+"cate_1" : "반려동물",
+"cate_2" : "강아지배변용품",
+"cate_3" : "배변봉투"
+},{
+"admin_category_id": "2602003",
+"cate_1" : "반려동물",
+"cate_2" : "강아지배변용품",
+"cate_3" : "배변유도제"
+},{
+"admin_category_id": "2602004",
+"cate_1" : "반려동물",
+"cate_2" : "강아지배변용품",
+"cate_3" : "배변판"
+},{
+"admin_category_id": "2602005",
+"cate_1" : "반려동물",
+"cate_2" : "강아지배변용품",
+"cate_3" : "배변패드"
+},{
+"admin_category_id": "2602006",
+"cate_1" : "반려동물",
+"cate_2" : "강아지배변용품",
+"cate_3" : "탈취제/소독제"
+},{
+"admin_category_id": "2603001",
+"cate_1" : "반려동물",
+"cate_2" : "강아지외출",
+"cate_3" : "가슴줄/하네스"
+},{
+"admin_category_id": "2603002",
+"cate_1" : "반려동물",
+"cate_2" : "강아지외출",
+"cate_3" : "리드줄"
+},{
+"admin_category_id": "2603003",
+"cate_1" : "반려동물",
+"cate_2" : "강아지외출",
+"cate_3" : "목줄"
+},{
+"admin_category_id": "2603004",
+"cate_1" : "반려동물",
+"cate_2" : "강아지외출",
+"cate_3" : "유모차"
+},{
+"admin_category_id": "2603005",
+"cate_1" : "반려동물",
+"cate_2" : "강아지외출",
+"cate_3" : "이동가방"
+},{
+"admin_category_id": "2603006",
+"cate_1" : "반려동물",
+"cate_2" : "강아지외출",
+"cate_3" : "인식표/목걸이"
+},{
+"admin_category_id": "2603007",
+"cate_1" : "반려동물",
+"cate_2" : "강아지외출",
+"cate_3" : "입마개"
+},{
+"admin_category_id": "2603008",
+"cate_1" : "반려동물",
+"cate_2" : "강아지외출",
+"cate_3" : "카시트/안전벨트"
+},{
+"admin_category_id": "2603009",
+"cate_1" : "반려동물",
+"cate_2" : "강아지외출",
+"cate_3" : "켄넬/캐리어"
+},{
+"admin_category_id": "2604001",
+"cate_1" : "반려동물",
+"cate_2" : "강아지위생/미용",
+"cate_3" : "눈/귀/구강관리"
+},{
+"admin_category_id": "2604002",
+"cate_1" : "반려동물",
+"cate_2" : "강아지위생/미용",
+"cate_3" : "발/발톱관리"
+},{
+"admin_category_id": "2604003",
+"cate_1" : "반려동물",
+"cate_2" : "강아지위생/미용",
+"cate_3" : "이발기/드라이/브러쉬"
+},{
+"admin_category_id": "2604004",
+"cate_1" : "반려동물",
+"cate_2" : "강아지위생/미용",
+"cate_3" : "물티슈"
+},{
+"admin_category_id": "2604005",
+"cate_1" : "반려동물",
+"cate_2" : "강아지위생/미용",
+"cate_3" : "샴푸/비누"
+},{
+"admin_category_id": "2604006",
+"cate_1" : "반려동물",
+"cate_2" : "강아지위생/미용",
+"cate_3" : "에센스/향수"
+},{
+"admin_category_id": "2604007",
+"cate_1" : "반려동물",
+"cate_2" : "강아지위생/미용",
+"cate_3" : "욕조/타월"
+},{
+"admin_category_id": "2604008",
+"cate_1" : "반려동물",
+"cate_2" : "강아지위생/미용",
+"cate_3" : "털제거/청소용품"
+},{
+"admin_category_id": "2604009",
+"cate_1" : "반려동물",
+"cate_2" : "강아지위생/미용",
+"cate_3" : "넥카라"
+},{
+"admin_category_id": "2605001",
+"cate_1" : "반려동물",
+"cate_2" : "강아지장난감/훈련",
+"cate_3" : "고무장난감"
+},{
+"admin_category_id": "2605002",
+"cate_1" : "반려동물",
+"cate_2" : "강아지장난감/훈련",
+"cate_3" : "공/원반"
+},{
+"admin_category_id": "2605003",
+"cate_1" : "반려동물",
+"cate_2" : "강아지장난감/훈련",
+"cate_3" : "노즈워크"
+},{
+"admin_category_id": "2605004",
+"cate_1" : "반려동물",
+"cate_2" : "강아지장난감/훈련",
+"cate_3" : "로프/치실장난감"
+},{
+"admin_category_id": "2605005",
+"cate_1" : "반려동물",
+"cate_2" : "강아지장난감/훈련",
+"cate_3" : "봉제장난감"
+},{
+"admin_category_id": "2605006",
+"cate_1" : "반려동물",
+"cate_2" : "강아지장난감/훈련",
+"cate_3" : "훈련용품"
+},{
+"admin_category_id": "2606001",
+"cate_1" : "반려동물",
+"cate_2" : "강아지패션",
+"cate_3" : "신발/양말"
+},{
+"admin_category_id": "2606002",
+"cate_1" : "반려동물",
+"cate_2" : "강아지패션",
+"cate_3" : "액세서리"
+},{
+"admin_category_id": "2606003",
+"cate_1" : "반려동물",
+"cate_2" : "강아지패션",
+"cate_3" : "티셔츠/올인원"
+},{
+"admin_category_id": "2606004",
+"cate_1" : "반려동물",
+"cate_2" : "강아지패션",
+"cate_3" : "패딩/아우터"
+},{
+"admin_category_id": "2606005",
+"cate_1" : "반려동물",
+"cate_2" : "강아지패션",
+"cate_3" : "보호대/보호기구"
+},{
+"admin_category_id": "2607002",
+"cate_1" : "반려동물",
+"cate_2" : "강아지사료/간식",
+"cate_3" : "간식"
+},{
+"admin_category_id": "2607003",
+"cate_1" : "반려동물",
+"cate_2" : "강아지사료/간식",
+"cate_3" : "간식"
+},{
+"admin_category_id": "2607004",
+"cate_1" : "반려동물",
+"cate_2" : "강아지사료/간식",
+"cate_3" : "간식"
+},{
+"admin_category_id": "2607005",
+"cate_1" : "반려동물",
+"cate_2" : "강아지사료/간식",
+"cate_3" : "간식"
+},{
+"admin_category_id": "2607006",
+"cate_1" : "반려동물",
+"cate_2" : "강아지사료/간식",
+"cate_3" : "간식"
+},{
+"admin_category_id": "2607007",
+"cate_1" : "반려동물",
+"cate_2" : "강아지사료/간식",
+"cate_3" : "간식"
+},{
+"admin_category_id": "2607008",
+"cate_1" : "반려동물",
+"cate_2" : "강아지사료/간식",
+"cate_3" : "간식"
+},{
+"admin_category_id": "2607009",
+"cate_1" : "반려동물",
+"cate_2" : "강아지사료/간식",
+"cate_3" : "간식"
+},{
+"admin_category_id": "2607010",
+"cate_1" : "반려동물",
+"cate_2" : "강아지사료/간식",
+"cate_3" : "간식"
+},{
+"admin_category_id": "2607011",
+"cate_1" : "반려동물",
+"cate_2" : "강아지사료/간식",
+"cate_3" : "간식"
+},{
+"admin_category_id": "2607013",
+"cate_1" : "반려동물",
+"cate_2" : "강아지사료/간식",
+"cate_3" : "사료"
+},{
+"admin_category_id": "2607014",
+"cate_1" : "반려동물",
+"cate_2" : "강아지사료/간식",
+"cate_3" : "사료"
+},{
+"admin_category_id": "2607015",
+"cate_1" : "반려동물",
+"cate_2" : "강아지사료/간식",
+"cate_3" : "사료"
+},{
+"admin_category_id": "2607016",
+"cate_1" : "반려동물",
+"cate_2" : "강아지사료/간식",
+"cate_3" : "사료"
+},{
+"admin_category_id": "2607017",
+"cate_1" : "반려동물",
+"cate_2" : "강아지사료/간식",
+"cate_3" : "사료"
+},{
+"admin_category_id": "2607018",
+"cate_1" : "반려동물",
+"cate_2" : "강아지사료/간식",
+"cate_3" : "사료"
+},{
+"admin_category_id": "2607019",
+"cate_1" : "반려동물",
+"cate_2" : "강아지사료/간식",
+"cate_3" : "사료"
+},{
+"admin_category_id": "2607020",
+"cate_1" : "반려동물",
+"cate_2" : "강아지사료/간식",
+"cate_3" : "영양제"
+},{
+"admin_category_id": "2608002",
+"cate_1" : "반려동물",
+"cate_2" : "고양이리빙",
+"cate_3" : "급식기/급수기"
+},{
+"admin_category_id": "2608003",
+"cate_1" : "반려동물",
+"cate_2" : "고양이리빙",
+"cate_3" : "급식기/급수기"
+},{
+"admin_category_id": "2608004",
+"cate_1" : "반려동물",
+"cate_2" : "고양이리빙",
+"cate_3" : "급식기/급수기"
+},{
+"admin_category_id": "2608005",
+"cate_1" : "반려동물",
+"cate_2" : "고양이리빙",
+"cate_3" : "급식기/급수기"
+},{
+"admin_category_id": "2608006",
+"cate_1" : "반려동물",
+"cate_2" : "고양이리빙",
+"cate_3" : "급식기/급수기"
+},{
+"admin_category_id": "2608007",
+"cate_1" : "반려동물",
+"cate_2" : "고양이리빙",
+"cate_3" : "급식기/급수기"
+},{
+"admin_category_id": "2608008",
+"cate_1" : "반려동물",
+"cate_2" : "고양이리빙",
+"cate_3" : "급식기/급수기"
+},{
+"admin_category_id": "2608010",
+"cate_1" : "반려동물",
+"cate_2" : "고양이리빙",
+"cate_3" : "캣타워/캣휠"
+},{
+"admin_category_id": "2608011",
+"cate_1" : "반려동물",
+"cate_2" : "고양이리빙",
+"cate_3" : "캣타워/캣휠"
+},{
+"admin_category_id": "2608012",
+"cate_1" : "반려동물",
+"cate_2" : "고양이리빙",
+"cate_3" : "캣타워/캣휠"
+},{
+"admin_category_id": "2608013",
+"cate_1" : "반려동물",
+"cate_2" : "고양이리빙",
+"cate_3" : "캣타워/캣휠"
+},{
+"admin_category_id": "2608014",
+"cate_1" : "반려동물",
+"cate_2" : "고양이리빙",
+"cate_3" : "해먹"
+},{
+"admin_category_id": "2608015",
+"cate_1" : "반려동물",
+"cate_2" : "고양이리빙",
+"cate_3" : "담요/이불/침낭"
+},{
+"admin_category_id": "2608017",
+"cate_1" : "반려동물",
+"cate_2" : "고양이리빙",
+"cate_3" : "매트"
+},{
+"admin_category_id": "2608018",
+"cate_1" : "반려동물",
+"cate_2" : "고양이리빙",
+"cate_3" : "매트"
+},{
+"admin_category_id": "2608019",
+"cate_1" : "반려동물",
+"cate_2" : "고양이리빙",
+"cate_3" : "매트"
+},{
+"admin_category_id": "2608021",
+"cate_1" : "반려동물",
+"cate_2" : "고양이리빙",
+"cate_3" : "스크래쳐"
+},{
+"admin_category_id": "2608022",
+"cate_1" : "반려동물",
+"cate_2" : "고양이리빙",
+"cate_3" : "스크래쳐"
+},{
+"admin_category_id": "2608023",
+"cate_1" : "반려동물",
+"cate_2" : "고양이리빙",
+"cate_3" : "스크래쳐"
+},{
+"admin_category_id": "2608024",
+"cate_1" : "반려동물",
+"cate_2" : "고양이리빙",
+"cate_3" : "스크래쳐"
+},{
+"admin_category_id": "2608025",
+"cate_1" : "반려동물",
+"cate_2" : "고양이리빙",
+"cate_3" : "스크래쳐"
+},{
+"admin_category_id": "2608026",
+"cate_1" : "반려동물",
+"cate_2" : "고양이리빙",
+"cate_3" : "스크래쳐"
+},{
+"admin_category_id": "2608028",
+"cate_1" : "반려동물",
+"cate_2" : "고양이리빙",
+"cate_3" : "울타리/철장"
+},{
+"admin_category_id": "2608029",
+"cate_1" : "반려동물",
+"cate_2" : "고양이리빙",
+"cate_3" : "울타리/철장"
+},{
+"admin_category_id": "2608030",
+"cate_1" : "반려동물",
+"cate_2" : "고양이리빙",
+"cate_3" : "울타리/철장"
+},{
+"admin_category_id": "2608031",
+"cate_1" : "반려동물",
+"cate_2" : "고양이리빙",
+"cate_3" : "울타리/철장"
+},{
+"admin_category_id": "2608032",
+"cate_1" : "반려동물",
+"cate_2" : "고양이리빙",
+"cate_3" : "쿠션/방석"
+},{
+"admin_category_id": "2608034",
+"cate_1" : "반려동물",
+"cate_2" : "고양이리빙",
+"cate_3" : "하우스/텐트"
+},{
+"admin_category_id": "2608035",
+"cate_1" : "반려동물",
+"cate_2" : "고양이리빙",
+"cate_3" : "하우스/텐트"
+},{
+"admin_category_id": "2608036",
+"cate_1" : "반려동물",
+"cate_2" : "고양이리빙",
+"cate_3" : "하우스/텐트"
+},{
+"admin_category_id": "2608037",
+"cate_1" : "반려동물",
+"cate_2" : "고양이리빙",
+"cate_3" : "하우스/텐트"
+},{
+"admin_category_id": "2609002",
+"cate_1" : "반려동물",
+"cate_2" : "고양이배변/모래용품",
+"cate_3" : "모래/모래용품"
+},{
+"admin_category_id": "2609003",
+"cate_1" : "반려동물",
+"cate_2" : "고양이배변/모래용품",
+"cate_3" : "모래/모래용품"
+},{
+"admin_category_id": "2609004",
+"cate_1" : "반려동물",
+"cate_2" : "고양이배변/모래용품",
+"cate_3" : "화장실/매트"
+},{
+"admin_category_id": "2610001",
+"cate_1" : "반려동물",
+"cate_2" : "고양이위생/미용",
+"cate_3" : "눈/귀/구강관리"
+},{
+"admin_category_id": "2610002",
+"cate_1" : "반려동물",
+"cate_2" : "고양이위생/미용",
+"cate_3" : "발/발톱관리"
+},{
+"admin_category_id": "2610003",
+"cate_1" : "반려동물",
+"cate_2" : "고양이위생/미용",
+"cate_3" : "이발기/드라이/브러쉬"
+},{
+"admin_category_id": "2610004",
+"cate_1" : "반려동물",
+"cate_2" : "고양이위생/미용",
+"cate_3" : "물티슈"
+},{
+"admin_category_id": "2610005",
+"cate_1" : "반려동물",
+"cate_2" : "고양이위생/미용",
+"cate_3" : "샴푸/비누"
+},{
+"admin_category_id": "2610006",
+"cate_1" : "반려동물",
+"cate_2" : "고양이위생/미용",
+"cate_3" : "에센스/향수"
+},{
+"admin_category_id": "2610007",
+"cate_1" : "반려동물",
+"cate_2" : "고양이위생/미용",
+"cate_3" : "욕조/타월"
+},{
+"admin_category_id": "2610008",
+"cate_1" : "반려동물",
+"cate_2" : "고양이위생/미용",
+"cate_3" : "털제거/청소용품"
+},{
+"admin_category_id": "2610009",
+"cate_1" : "반려동물",
+"cate_2" : "고양이위생/미용",
+"cate_3" : "넥카라"
+},{
+"admin_category_id": "2611001",
+"cate_1" : "반려동물",
+"cate_2" : "고양이장난감",
+"cate_3" : "공"
+},{
+"admin_category_id": "2611002",
+"cate_1" : "반려동물",
+"cate_2" : "고양이장난감",
+"cate_3" : "낚시대/막대"
+},{
+"admin_category_id": "2611003",
+"cate_1" : "반려동물",
+"cate_2" : "고양이장난감",
+"cate_3" : "레이저/자동"
+},{
+"admin_category_id": "2611004",
+"cate_1" : "반려동물",
+"cate_2" : "고양이장난감",
+"cate_3" : "인형/쿠션"
+},{
+"admin_category_id": "2611005",
+"cate_1" : "반려동물",
+"cate_2" : "고양이장난감",
+"cate_3" : "캣닢/캣글라스"
+},{
+"admin_category_id": "2611006",
+"cate_1" : "반려동물",
+"cate_2" : "고양이장난감",
+"cate_3" : "터널/주머니"
+},{
+"admin_category_id": "2612001",
+"cate_1" : "반려동물",
+"cate_2" : "고양이패션/외출용품",
+"cate_3" : "이동가방"
+},{
+"admin_category_id": "2612002",
+"cate_1" : "반려동물",
+"cate_2" : "고양이패션/외출용품",
+"cate_3" : "인식표/목걸이"
+},{
+"admin_category_id": "2612003",
+"cate_1" : "반려동물",
+"cate_2" : "고양이패션/외출용품",
+"cate_3" : "켄넬/캐리어"
+},{
+"admin_category_id": "2612004",
+"cate_1" : "반려동물",
+"cate_2" : "고양이패션/외출용품",
+"cate_3" : "티셔츠/액세서리"
+},{
+"admin_category_id": "2613002",
+"cate_1" : "반려동물",
+"cate_2" : "고양이사료/간식",
+"cate_3" : "간식"
+},{
+"admin_category_id": "2613003",
+"cate_1" : "반려동물",
+"cate_2" : "고양이사료/간식",
+"cate_3" : "간식"
+},{
+"admin_category_id": "2613004",
+"cate_1" : "반려동물",
+"cate_2" : "고양이사료/간식",
+"cate_3" : "간식"
+},{
+"admin_category_id": "2613005",
+"cate_1" : "반려동물",
+"cate_2" : "고양이사료/간식",
+"cate_3" : "간식"
+},{
+"admin_category_id": "2613006",
+"cate_1" : "반려동물",
+"cate_2" : "고양이사료/간식",
+"cate_3" : "간식"
+},{
+"admin_category_id": "2613007",
+"cate_1" : "반려동물",
+"cate_2" : "고양이사료/간식",
+"cate_3" : "간식"
+},{
+"admin_category_id": "2613008",
+"cate_1" : "반려동물",
+"cate_2" : "고양이사료/간식",
+"cate_3" : "간식"
+},{
+"admin_category_id": "2613009",
+"cate_1" : "반려동물",
+"cate_2" : "고양이사료/간식",
+"cate_3" : "간식"
+},{
+"admin_category_id": "2613011",
+"cate_1" : "반려동물",
+"cate_2" : "고양이사료/간식",
+"cate_3" : "사료"
+},{
+"admin_category_id": "2613012",
+"cate_1" : "반려동물",
+"cate_2" : "고양이사료/간식",
+"cate_3" : "사료"
+},{
+"admin_category_id": "2613013",
+"cate_1" : "반려동물",
+"cate_2" : "고양이사료/간식",
+"cate_3" : "사료"
+},{
+"admin_category_id": "2613014",
+"cate_1" : "반려동물",
+"cate_2" : "고양이사료/간식",
+"cate_3" : "사료"
+},{
+"admin_category_id": "2613015",
+"cate_1" : "반려동물",
+"cate_2" : "고양이사료/간식",
+"cate_3" : "사료"
+},{
+"admin_category_id": "2613016",
+"cate_1" : "반려동물",
+"cate_2" : "고양이사료/간식",
+"cate_3" : "사료"
+},{
+"admin_category_id": "2613017",
+"cate_1" : "반려동물",
+"cate_2" : "고양이사료/간식",
+"cate_3" : "영양제"
+},{
+"admin_category_id": "2614001",
+"cate_1" : "반려동물",
+"cate_2" : "펫가전",
+"cate_3" : "펫캠/CCTV"
+},{
+"admin_category_id": "2614002",
+"cate_1" : "반려동물",
+"cate_2" : "펫가전",
+"cate_3" : "자동급식기/정수기"
+},{
+"admin_category_id": "2614003",
+"cate_1" : "반려동물",
+"cate_2" : "펫가전",
+"cate_3" : "자동화장실"
+},{
+"admin_category_id": "2614005",
+"cate_1" : "반려동물",
+"cate_2" : "펫가전",
+"cate_3" : "위생/미용가전"
+},{
+"admin_category_id": "2614006",
+"cate_1" : "반려동물",
+"cate_2" : "펫가전",
+"cate_3" : "위생/미용가전"
+},{
+"admin_category_id": "2614007",
+"cate_1" : "반려동물",
+"cate_2" : "펫가전",
+"cate_3" : "위생/미용가전"
+},{
+"admin_category_id": "2615001",
+"cate_1" : "반려동물",
+"cate_2" : "기타반려동물용품",
+"cate_3" : "거북이/달팽이"
+},{
+"admin_category_id": "2615002",
+"cate_1" : "반려동물",
+"cate_2" : "기타반려동물용품",
+"cate_3" : "고슴도치"
+},{
+"admin_category_id": "2615004",
+"cate_1" : "반려동물",
+"cate_2" : "기타반려동물용품",
+"cate_3" : "관상어"
+},{
+"admin_category_id": "2615005",
+"cate_1" : "반려동물",
+"cate_2" : "기타반려동물용품",
+"cate_3" : "관상어"
+},{
+"admin_category_id": "2615006",
+"cate_1" : "반려동물",
+"cate_2" : "기타반려동물용품",
+"cate_3" : "관상어"
+},{
+"admin_category_id": "2615007",
+"cate_1" : "반려동물",
+"cate_2" : "기타반려동물용품",
+"cate_3" : "관상어"
+},{
+"admin_category_id": "2615008",
+"cate_1" : "반려동물",
+"cate_2" : "기타반려동물용품",
+"cate_3" : "장수풍뎅이/곤충"
+},{
+"admin_category_id": "2615009",
+"cate_1" : "반려동물",
+"cate_2" : "기타반려동물용품",
+"cate_3" : "토끼/기니피그"
+},{
+"admin_category_id": "2615010",
+"cate_1" : "반려동물",
+"cate_2" : "기타반려동물용품",
+"cate_3" : "파충류"
+},{
+"admin_category_id": "2615011",
+"cate_1" : "반려동물",
+"cate_2" : "기타반려동물용품",
+"cate_3" : "패럿"
+},{
+"admin_category_id": "2615012",
+"cate_1" : "반려동물",
+"cate_2" : "기타반려동물용품",
+"cate_3" : "햄스터"
+},{
+"admin_category_id": "2615013",
+"cate_1" : "반려동물",
+"cate_2" : "기타반려동물용품",
+"cate_3" : "기타반려동물용품"
+}]}
