@@ -1,0 +1,831 @@
+{ "API_cate_furniture_p3" : [{
+"admin_category_id": "1001001",
+"cate_1" : "가구",
+"cate_2" : "거실테이블",
+"cate_3" : "리프트테이블"
+},{
+"admin_category_id": "1001002",
+"cate_1" : "가구",
+"cate_2" : "거실테이블",
+"cate_3" : "사이드테이블"
+},{
+"admin_category_id": "1001005",
+"cate_1" : "가구",
+"cate_2" : "거실테이블",
+"cate_3" : "소파테이블"
+},{
+"admin_category_id": "1001006",
+"cate_1" : "가구",
+"cate_2" : "거실테이블",
+"cate_3" : "C형테이블"
+},{
+"admin_category_id": "1002001",
+"cate_1" : "가구",
+"cate_2" : "거울",
+"cate_3" : "벽거울"
+},{
+"admin_category_id": "1002002",
+"cate_1" : "가구",
+"cate_2" : "거울",
+"cate_3" : "손거울/휴대거울"
+},{
+"admin_category_id": "1002003",
+"cate_1" : "가구",
+"cate_2" : "거울",
+"cate_3" : "욕실용거울"
+},{
+"admin_category_id": "1002004",
+"cate_1" : "가구",
+"cate_2" : "거울",
+"cate_3" : "전신거울"
+},{
+"admin_category_id": "1002005",
+"cate_1" : "가구",
+"cate_2" : "거울",
+"cate_3" : "탁상거울"
+},{
+"admin_category_id": "1003001",
+"cate_1" : "가구",
+"cate_2" : "리클라이너소파",
+"cate_3" : "리클라이너소파"
+},{
+"admin_category_id": "1003002",
+"cate_1" : "가구",
+"cate_2" : "리클라이너소파",
+"cate_3" : "다인용리클라이너소파"
+},{
+"admin_category_id": "1004001",
+"cate_1" : "가구",
+"cate_2" : "매트리스(150T이상)",
+"cate_3" : "독립스프링매트리스"
+},{
+"admin_category_id": "1004002",
+"cate_1" : "가구",
+"cate_2" : "매트리스(150T이상)",
+"cate_3" : "라텍스매트리스"
+},{
+"admin_category_id": "1004003",
+"cate_1" : "가구",
+"cate_2" : "매트리스(150T이상)",
+"cate_3" : "메모리폼/폼매트리스"
+},{
+"admin_category_id": "1004004",
+"cate_1" : "가구",
+"cate_2" : "매트리스(150T이상)",
+"cate_3" : "본넬스프링매트리스"
+},{
+"admin_category_id": "1005001",
+"cate_1" : "가구",
+"cate_2" : "병풍/파티션",
+"cate_3" : "가벽/파티션"
+},{
+"admin_category_id": "1005002",
+"cate_1" : "가구",
+"cate_2" : "병풍/파티션",
+"cate_3" : "병풍"
+},{
+"admin_category_id": "1006001",
+"cate_1" : "가구",
+"cate_2" : "소파",
+"cate_3" : "소파베드"
+},{
+"admin_category_id": "1006002",
+"cate_1" : "가구",
+"cate_2" : "소파",
+"cate_3" : "소파스툴"
+},{
+"admin_category_id": "1006003",
+"cate_1" : "가구",
+"cate_2" : "소파",
+"cate_3" : "일반소파"
+},{
+"admin_category_id": "1006004",
+"cate_1" : "가구",
+"cate_2" : "소파",
+"cate_3" : "좌식소파"
+},{
+"admin_category_id": "1007002",
+"cate_1" : "가구",
+"cate_2" : "수납가구",
+"cate_3" : "거실장/TV장"
+},{
+"admin_category_id": "1007003",
+"cate_1" : "가구",
+"cate_2" : "수납가구",
+"cate_3" : "거실장/TV장"
+},{
+"admin_category_id": "1007004",
+"cate_1" : "가구",
+"cate_2" : "수납가구",
+"cate_3" : "거실장/TV장"
+},{
+"admin_category_id": "1007005",
+"cate_1" : "가구",
+"cate_2" : "수납가구",
+"cate_3" : "거실장/TV장"
+},{
+"admin_category_id": "1007006",
+"cate_1" : "가구",
+"cate_2" : "수납가구",
+"cate_3" : "거실장/TV장"
+},{
+"admin_category_id": "1007008",
+"cate_1" : "가구",
+"cate_2" : "수납가구",
+"cate_3" : "서랍/수납장"
+},{
+"admin_category_id": "1007009",
+"cate_1" : "가구",
+"cate_2" : "수납가구",
+"cate_3" : "서랍/수납장"
+},{
+"admin_category_id": "1007010",
+"cate_1" : "가구",
+"cate_2" : "수납가구",
+"cate_3" : "서랍/수납장"
+},{
+"admin_category_id": "1007011",
+"cate_1" : "가구",
+"cate_2" : "수납가구",
+"cate_3" : "서랍/수납장"
+},{
+"admin_category_id": "1007012",
+"cate_1" : "가구",
+"cate_2" : "수납가구",
+"cate_3" : "서랍/수납장"
+},{
+"admin_category_id": "1007013",
+"cate_1" : "가구",
+"cate_2" : "수납가구",
+"cate_3" : "서랍/수납장"
+},{
+"admin_category_id": "1007014",
+"cate_1" : "가구",
+"cate_2" : "수납가구",
+"cate_3" : "서랍/수납장"
+},{
+"admin_category_id": "1007017",
+"cate_1" : "가구",
+"cate_2" : "수납가구",
+"cate_3" : "선반"
+},{
+"admin_category_id": "1007018",
+"cate_1" : "가구",
+"cate_2" : "수납가구",
+"cate_3" : "선반"
+},{
+"admin_category_id": "1007019",
+"cate_1" : "가구",
+"cate_2" : "수납가구",
+"cate_3" : "선반"
+},{
+"admin_category_id": "1007020",
+"cate_1" : "가구",
+"cate_2" : "수납가구",
+"cate_3" : "선반"
+},{
+"admin_category_id": "1007021",
+"cate_1" : "가구",
+"cate_2" : "수납가구",
+"cate_3" : "선반"
+},{
+"admin_category_id": "1009002",
+"cate_1" : "가구",
+"cate_2" : "오피스/서재가구",
+"cate_3" : "사무용가구"
+},{
+"admin_category_id": "1009003",
+"cate_1" : "가구",
+"cate_2" : "오피스/서재가구",
+"cate_3" : "사무용가구"
+},{
+"admin_category_id": "1009004",
+"cate_1" : "가구",
+"cate_2" : "오피스/서재가구",
+"cate_3" : "사무용가구"
+},{
+"admin_category_id": "1009005",
+"cate_1" : "가구",
+"cate_2" : "오피스/서재가구",
+"cate_3" : "사무용가구"
+},{
+"admin_category_id": "1009006",
+"cate_1" : "가구",
+"cate_2" : "오피스/서재가구",
+"cate_3" : "사무용가구"
+},{
+"admin_category_id": "1009007",
+"cate_1" : "가구",
+"cate_2" : "오피스/서재가구",
+"cate_3" : "사무용가구"
+},{
+"admin_category_id": "1009009",
+"cate_1" : "가구",
+"cate_2" : "오피스/서재가구",
+"cate_3" : "사무용가구"
+},{
+"admin_category_id": "1009010",
+"cate_1" : "가구",
+"cate_2" : "오피스/서재가구",
+"cate_3" : "사무용가구"
+},{
+"admin_category_id": "1009012",
+"cate_1" : "가구",
+"cate_2" : "오피스/서재가구",
+"cate_3" : "책상"
+},{
+"admin_category_id": "1009013",
+"cate_1" : "가구",
+"cate_2" : "오피스/서재가구",
+"cate_3" : "책상"
+},{
+"admin_category_id": "1009014",
+"cate_1" : "가구",
+"cate_2" : "오피스/서재가구",
+"cate_3" : "책상"
+},{
+"admin_category_id": "1009015",
+"cate_1" : "가구",
+"cate_2" : "오피스/서재가구",
+"cate_3" : "책상"
+},{
+"admin_category_id": "1009016",
+"cate_1" : "가구",
+"cate_2" : "오피스/서재가구",
+"cate_3" : "책상"
+},{
+"admin_category_id": "1009017",
+"cate_1" : "가구",
+"cate_2" : "오피스/서재가구",
+"cate_3" : "책상"
+},{
+"admin_category_id": "1009018",
+"cate_1" : "가구",
+"cate_2" : "오피스/서재가구",
+"cate_3" : "책상서랍장"
+},{
+"admin_category_id": "1009020",
+"cate_1" : "가구",
+"cate_2" : "오피스/서재가구",
+"cate_3" : "책장/책꽂이"
+},{
+"admin_category_id": "1009021",
+"cate_1" : "가구",
+"cate_2" : "오피스/서재가구",
+"cate_3" : "책장/책꽂이"
+},{
+"admin_category_id": "1009023",
+"cate_1" : "가구",
+"cate_2" : "오피스/서재가구",
+"cate_3" : "학생/사무용의자"
+},{
+"admin_category_id": "1009024",
+"cate_1" : "가구",
+"cate_2" : "오피스/서재가구",
+"cate_3" : "학생/사무용의자"
+},{
+"admin_category_id": "1009025",
+"cate_1" : "가구",
+"cate_2" : "오피스/서재가구",
+"cate_3" : "학생/사무용의자"
+},{
+"admin_category_id": "1009027",
+"cate_1" : "가구",
+"cate_2" : "오피스/서재가구",
+"cate_3" : "학생/사무용의자"
+},{
+"admin_category_id": "1009028",
+"cate_1" : "가구",
+"cate_2" : "오피스/서재가구",
+"cate_3" : "학생/사무용의자"
+},{
+"admin_category_id": "1010001",
+"cate_1" : "가구",
+"cate_2" : "옷장/드레스룸",
+"cate_3" : "드레스룸"
+},{
+"admin_category_id": "1010003",
+"cate_1" : "가구",
+"cate_2" : "옷장/드레스룸",
+"cate_3" : "옷장/붙박이장"
+},{
+"admin_category_id": "1010004",
+"cate_1" : "가구",
+"cate_2" : "옷장/드레스룸",
+"cate_3" : "옷장/붙박이장"
+},{
+"admin_category_id": "1010005",
+"cate_1" : "가구",
+"cate_2" : "옷장/드레스룸",
+"cate_3" : "옷장/붙박이장"
+},{
+"admin_category_id": "1011003",
+"cate_1" : "가구",
+"cate_2" : "유아동가구",
+"cate_3" : "유아동수납장"
+},{
+"admin_category_id": "1011004",
+"cate_1" : "가구",
+"cate_2" : "유아동가구",
+"cate_3" : "유아동수납장"
+},{
+"admin_category_id": "1011006",
+"cate_1" : "가구",
+"cate_2" : "유아동가구",
+"cate_3" : "유아동수납장"
+},{
+"admin_category_id": "1011007",
+"cate_1" : "가구",
+"cate_2" : "유아동가구",
+"cate_3" : "유아동수납장"
+},{
+"admin_category_id": "1011008",
+"cate_1" : "가구",
+"cate_2" : "유아동가구",
+"cate_3" : "유아동수납장"
+},{
+"admin_category_id": "1011009",
+"cate_1" : "가구",
+"cate_2" : "유아동가구",
+"cate_3" : "유아동수납장"
+},{
+"admin_category_id": "1011011",
+"cate_1" : "가구",
+"cate_2" : "유아동가구",
+"cate_3" : "유아동수납장"
+},{
+"admin_category_id": "1011015",
+"cate_1" : "가구",
+"cate_2" : "유아동가구",
+"cate_3" : "유아동의자"
+},{
+"admin_category_id": "1011016",
+"cate_1" : "가구",
+"cate_2" : "유아동가구",
+"cate_3" : "유아동의자"
+},{
+"admin_category_id": "1011017",
+"cate_1" : "가구",
+"cate_2" : "유아동가구",
+"cate_3" : "유아동의자"
+},{
+"admin_category_id": "1011018",
+"cate_1" : "가구",
+"cate_2" : "유아동가구",
+"cate_3" : "유아동의자"
+},{
+"admin_category_id": "1011019",
+"cate_1" : "가구",
+"cate_2" : "유아동가구",
+"cate_3" : "유아동의자"
+},{
+"admin_category_id": "1011020",
+"cate_1" : "가구",
+"cate_2" : "유아동가구",
+"cate_3" : "유아동의자"
+},{
+"admin_category_id": "1011022",
+"cate_1" : "가구",
+"cate_2" : "유아동가구",
+"cate_3" : "유아동책상"
+},{
+"admin_category_id": "1011023",
+"cate_1" : "가구",
+"cate_2" : "유아동가구",
+"cate_3" : "유아동책상"
+},{
+"admin_category_id": "1011025",
+"cate_1" : "가구",
+"cate_2" : "유아동가구",
+"cate_3" : "유아동책상"
+},{
+"admin_category_id": "1011026",
+"cate_1" : "가구",
+"cate_2" : "유아동가구",
+"cate_3" : "유아동책상"
+},{
+"admin_category_id": "1011028",
+"cate_1" : "가구",
+"cate_2" : "유아동가구",
+"cate_3" : "유아동책상"
+},{
+"admin_category_id": "1011030",
+"cate_1" : "가구",
+"cate_2" : "유아동가구",
+"cate_3" : "유아동침대"
+},{
+"admin_category_id": "1011032",
+"cate_1" : "가구",
+"cate_2" : "유아동가구",
+"cate_3" : "유아동침대"
+},{
+"admin_category_id": "1011033",
+"cate_1" : "가구",
+"cate_2" : "유아동가구",
+"cate_3" : "유아동침대"
+},{
+"admin_category_id": "1011034",
+"cate_1" : "가구",
+"cate_2" : "유아동가구",
+"cate_3" : "유아동침대"
+},{
+"admin_category_id": "1011035",
+"cate_1" : "가구",
+"cate_2" : "유아동가구",
+"cate_3" : "유아동침대"
+},{
+"admin_category_id": "1011036",
+"cate_1" : "가구",
+"cate_2" : "유아동가구",
+"cate_3" : "유아동침대"
+},{
+"admin_category_id": "1011041",
+"cate_1" : "가구",
+"cate_2" : "유아동가구",
+"cate_3" : "유아동침대"
+},{
+"admin_category_id": "1011042",
+"cate_1" : "가구",
+"cate_2" : "유아동가구",
+"cate_3" : "유아동침대"
+},{
+"admin_category_id": "1012001",
+"cate_1" : "가구",
+"cate_2" : "의자",
+"cate_3" : "발받침"
+},{
+"admin_category_id": "1012002",
+"cate_1" : "가구",
+"cate_2" : "의자",
+"cate_3" : "벤치의자"
+},{
+"admin_category_id": "1012003",
+"cate_1" : "가구",
+"cate_2" : "의자",
+"cate_3" : "빈백"
+},{
+"admin_category_id": "1012004",
+"cate_1" : "가구",
+"cate_2" : "의자",
+"cate_3" : "수납스툴/벤치"
+},{
+"admin_category_id": "1012005",
+"cate_1" : "가구",
+"cate_2" : "의자",
+"cate_3" : "스텝스툴"
+},{
+"admin_category_id": "1012006",
+"cate_1" : "가구",
+"cate_2" : "의자",
+"cate_3" : "스툴"
+},{
+"admin_category_id": "1012007",
+"cate_1" : "가구",
+"cate_2" : "의자",
+"cate_3" : "안락의자"
+},{
+"admin_category_id": "1012008",
+"cate_1" : "가구",
+"cate_2" : "의자",
+"cate_3" : "일반의자/인테리어의자"
+},{
+"admin_category_id": "1012009",
+"cate_1" : "가구",
+"cate_2" : "의자",
+"cate_3" : "좌식의자"
+},{
+"admin_category_id": "1012010",
+"cate_1" : "가구",
+"cate_2" : "의자",
+"cate_3" : "흔들의자"
+},{
+"admin_category_id": "1013002",
+"cate_1" : "가구",
+"cate_2" : "주방가구",
+"cate_3" : "접이식테이블/다용도상"
+},{
+"admin_category_id": "1013003",
+"cate_1" : "가구",
+"cate_2" : "주방가구",
+"cate_3" : "접이식테이블/다용도상"
+},{
+"admin_category_id": "1013004",
+"cate_1" : "가구",
+"cate_2" : "주방가구",
+"cate_3" : "접이식테이블/다용도상"
+},{
+"admin_category_id": "1013007",
+"cate_1" : "가구",
+"cate_2" : "주방가구",
+"cate_3" : "베드트레이"
+},{
+"admin_category_id": "1013009",
+"cate_1" : "가구",
+"cate_2" : "주방가구",
+"cate_3" : "식탁/테이블"
+},{
+"admin_category_id": "1013010",
+"cate_1" : "가구",
+"cate_2" : "주방가구",
+"cate_3" : "식탁/테이블"
+},{
+"admin_category_id": "1013011",
+"cate_1" : "가구",
+"cate_2" : "주방가구",
+"cate_3" : "식탁세트"
+},{
+"admin_category_id": "1013014",
+"cate_1" : "가구",
+"cate_2" : "주방가구",
+"cate_3" : "주방수납장"
+},{
+"admin_category_id": "1013015",
+"cate_1" : "가구",
+"cate_2" : "주방가구",
+"cate_3" : "주방수납장"
+},{
+"admin_category_id": "1013016",
+"cate_1" : "가구",
+"cate_2" : "주방가구",
+"cate_3" : "주방수납장"
+},{
+"admin_category_id": "1013017",
+"cate_1" : "가구",
+"cate_2" : "주방가구",
+"cate_3" : "주방수납장"
+},{
+"admin_category_id": "1013018",
+"cate_1" : "가구",
+"cate_2" : "주방가구",
+"cate_3" : "주방수납장"
+},{
+"admin_category_id": "1013019",
+"cate_1" : "가구",
+"cate_2" : "주방가구",
+"cate_3" : "홈바/아일랜드식탁"
+},{
+"admin_category_id": "1013021",
+"cate_1" : "가구",
+"cate_2" : "주방가구",
+"cate_3" : "주방의자"
+},{
+"admin_category_id": "1013022",
+"cate_1" : "가구",
+"cate_2" : "주방가구",
+"cate_3" : "주방의자"
+},{
+"admin_category_id": "1013023",
+"cate_1" : "가구",
+"cate_2" : "주방가구",
+"cate_3" : "주방의자"
+},{
+"admin_category_id": "1013024",
+"cate_1" : "가구",
+"cate_2" : "주방가구",
+"cate_3" : "주방수납장"
+},{
+"admin_category_id": "1014002",
+"cate_1" : "가구",
+"cate_2" : "침대",
+"cate_3" : "기능성침대"
+},{
+"admin_category_id": "1014003",
+"cate_1" : "가구",
+"cate_2" : "침대",
+"cate_3" : "기능성침대"
+},{
+"admin_category_id": "1014004",
+"cate_1" : "가구",
+"cate_2" : "침대",
+"cate_3" : "기능성침대"
+},{
+"admin_category_id": "1014005",
+"cate_1" : "가구",
+"cate_2" : "침대",
+"cate_3" : "기능성침대"
+},{
+"admin_category_id": "1014020",
+"cate_1" : "가구",
+"cate_2" : "침대",
+"cate_3" : "침대부속가구"
+},{
+"admin_category_id": "1014021",
+"cate_1" : "가구",
+"cate_2" : "침대",
+"cate_3" : "침대부속가구"
+},{
+"admin_category_id": "1014022",
+"cate_1" : "가구",
+"cate_2" : "침대",
+"cate_3" : "침대부속가구"
+},{
+"admin_category_id": "1014023",
+"cate_1" : "가구",
+"cate_2" : "침대",
+"cate_3" : "침대부속가구"
+},{
+"admin_category_id": "1014026",
+"cate_1" : "가구",
+"cate_2" : "침대",
+"cate_3" : "특수침대"
+},{
+"admin_category_id": "1014028",
+"cate_1" : "가구",
+"cate_2" : "침대",
+"cate_3" : "깔판"
+},{
+"admin_category_id": "1014029",
+"cate_1" : "가구",
+"cate_2" : "침대",
+"cate_3" : "깔판"
+},{
+"admin_category_id": "1014030",
+"cate_1" : "가구",
+"cate_2" : "침대",
+"cate_3" : "데이베드"
+},{
+"admin_category_id": "1014031",
+"cate_1" : "가구",
+"cate_2" : "침대",
+"cate_3" : "데이베드"
+},{
+"admin_category_id": "1014032",
+"cate_1" : "가구",
+"cate_2" : "침대",
+"cate_3" : "모션베드/전동침대"
+},{
+"admin_category_id": "1014033",
+"cate_1" : "가구",
+"cate_2" : "침대",
+"cate_3" : "모션베드/전동침대"
+},{
+"admin_category_id": "1014034",
+"cate_1" : "가구",
+"cate_2" : "침대",
+"cate_3" : "수납침대"
+},{
+"admin_category_id": "1014035",
+"cate_1" : "가구",
+"cate_2" : "침대",
+"cate_3" : "수납침대"
+},{
+"admin_category_id": "1014036",
+"cate_1" : "가구",
+"cate_2" : "침대",
+"cate_3" : "이층/이단침대"
+},{
+"admin_category_id": "1014037",
+"cate_1" : "가구",
+"cate_2" : "침대",
+"cate_3" : "이층/이단침대"
+},{
+"admin_category_id": "1014038",
+"cate_1" : "가구",
+"cate_2" : "침대",
+"cate_3" : "이층/이단침대"
+},{
+"admin_category_id": "1014039",
+"cate_1" : "가구",
+"cate_2" : "침대",
+"cate_3" : "이층/이단침대"
+},{
+"admin_category_id": "1014040",
+"cate_1" : "가구",
+"cate_2" : "침대",
+"cate_3" : "이층/이단침대"
+},{
+"admin_category_id": "1014041",
+"cate_1" : "가구",
+"cate_2" : "침대",
+"cate_3" : "이층/이단침대"
+},{
+"admin_category_id": "1014042",
+"cate_1" : "가구",
+"cate_2" : "침대",
+"cate_3" : "일반침대"
+},{
+"admin_category_id": "1014043",
+"cate_1" : "가구",
+"cate_2" : "침대",
+"cate_3" : "일반침대"
+},{
+"admin_category_id": "1014044",
+"cate_1" : "가구",
+"cate_2" : "침대",
+"cate_3" : "저상형침대"
+},{
+"admin_category_id": "1014045",
+"cate_1" : "가구",
+"cate_2" : "침대",
+"cate_3" : "저상형침대"
+},{
+"admin_category_id": "1014046",
+"cate_1" : "가구",
+"cate_2" : "침대",
+"cate_3" : "저상형침대"
+},{
+"admin_category_id": "1014047",
+"cate_1" : "가구",
+"cate_2" : "침대",
+"cate_3" : "저상형침대"
+},{
+"admin_category_id": "1014048",
+"cate_1" : "가구",
+"cate_2" : "침대",
+"cate_3" : "특수침대"
+},{
+"admin_category_id": "1014049",
+"cate_1" : "가구",
+"cate_2" : "침대",
+"cate_3" : "특수침대"
+},{
+"admin_category_id": "1014050",
+"cate_1" : "가구",
+"cate_2" : "침대",
+"cate_3" : "하단매트리스/파운데이션"
+},{
+"admin_category_id": "1014051",
+"cate_1" : "가구",
+"cate_2" : "침대",
+"cate_3" : "하단매트리스/파운데이션"
+},{
+"admin_category_id": "1015001",
+"cate_1" : "가구",
+"cate_2" : "토퍼",
+"cate_3" : "라텍스토퍼"
+},{
+"admin_category_id": "1015002",
+"cate_1" : "가구",
+"cate_2" : "토퍼",
+"cate_3" : "메모리폼/폼토퍼"
+},{
+"admin_category_id": "1016001",
+"cate_1" : "가구",
+"cate_2" : "행거",
+"cate_3" : "고정/설치형행거"
+},{
+"admin_category_id": "1016002",
+"cate_1" : "가구",
+"cate_2" : "행거",
+"cate_3" : "수납/선반행거"
+},{
+"admin_category_id": "1016003",
+"cate_1" : "가구",
+"cate_2" : "행거",
+"cate_3" : "스탠드행거"
+},{
+"admin_category_id": "1016004",
+"cate_1" : "가구",
+"cate_2" : "행거",
+"cate_3" : "스탠드형옷걸이"
+},{
+"admin_category_id": "1016005",
+"cate_1" : "가구",
+"cate_2" : "행거",
+"cate_3" : "이동식행거"
+},{
+"admin_category_id": "1017001",
+"cate_1" : "가구",
+"cate_2" : "화장대/콘솔",
+"cate_3" : "미니화장대"
+},{
+"admin_category_id": "1017002",
+"cate_1" : "가구",
+"cate_2" : "화장대/콘솔",
+"cate_3" : "벽걸이화장대"
+},{
+"admin_category_id": "1017004",
+"cate_1" : "가구",
+"cate_2" : "화장대/콘솔",
+"cate_3" : "입식화장대"
+},{
+"admin_category_id": "1017005",
+"cate_1" : "가구",
+"cate_2" : "화장대/콘솔",
+"cate_3" : "입식화장대"
+},{
+"admin_category_id": "1017006",
+"cate_1" : "가구",
+"cate_2" : "화장대/콘솔",
+"cate_3" : "입식화장대"
+},{
+"admin_category_id": "1017007",
+"cate_1" : "가구",
+"cate_2" : "화장대/콘솔",
+"cate_3" : "전신거울화장대"
+},{
+"admin_category_id": "1017008",
+"cate_1" : "가구",
+"cate_2" : "화장대/콘솔",
+"cate_3" : "좌식화장대"
+},{
+"admin_category_id": "1017009",
+"cate_1" : "가구",
+"cate_2" : "화장대/콘솔",
+"cate_3" : "콘솔"
+},{
+"admin_category_id": "1017010",
+"cate_1" : "가구",
+"cate_2" : "화장대/콘솔",
+"cate_3" : "화장대세트"
+}]}
