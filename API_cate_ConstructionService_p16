@@ -1,0 +1,231 @@
+{ "API_cate_ConstructionService_p16" : [{
+"admin_category_id": "1504001",
+"cate_1" : "시공/서비스",
+"cate_2" : "빌트인수납",
+"cate_3" : "드레스룸"
+},{
+"admin_category_id": "1504002",
+"cate_1" : "시공/서비스",
+"cate_2" : "빌트인수납",
+"cate_3" : "붙박이장"
+},{
+"admin_category_id": "1504004",
+"cate_1" : "시공/서비스",
+"cate_2" : "빌트인수납",
+"cate_3" : "현관장"
+},{
+"admin_category_id": "1504024",
+"cate_1" : "시공/서비스",
+"cate_2" : "빌트인수납",
+"cate_3" : "TV장"
+},{
+"admin_category_id": "1504025",
+"cate_1" : "시공/서비스",
+"cate_2" : "빌트인수납",
+"cate_3" : "책장/장식장"
+},{
+"admin_category_id": "1507004",
+"cate_1" : "시공/서비스",
+"cate_2" : "창호",
+"cate_3" : "폴딩도어"
+},{
+"admin_category_id": "1507005",
+"cate_1" : "시공/서비스",
+"cate_2" : "창호",
+"cate_3" : "시스템창호"
+},{
+"admin_category_id": "1509000",
+"cate_1" : "시공/서비스",
+"cate_2" : "패키지시공",
+"cate_3" : "패키지시공"
+},{
+"admin_category_id": "1510002",
+"cate_1" : "시공/서비스",
+"cate_2" : "설치조명",
+"cate_3" : "방등"
+},{
+"admin_category_id": "1510003",
+"cate_1" : "시공/서비스",
+"cate_2" : "설치조명",
+"cate_3" : "거실등"
+},{
+"admin_category_id": "1510004",
+"cate_1" : "시공/서비스",
+"cate_2" : "설치조명",
+"cate_3" : "주방/식탁등"
+},{
+"admin_category_id": "1510005",
+"cate_1" : "시공/서비스",
+"cate_2" : "설치조명",
+"cate_3" : "욕실등"
+},{
+"admin_category_id": "1510006",
+"cate_1" : "시공/서비스",
+"cate_2" : "설치조명",
+"cate_3" : "현관/베란다등"
+},{
+"admin_category_id": "1510007",
+"cate_1" : "시공/서비스",
+"cate_2" : "설치조명",
+"cate_3" : "실외조명"
+},{
+"admin_category_id": "1510008",
+"cate_1" : "시공/서비스",
+"cate_2" : "설치조명",
+"cate_3" : "조명패키지"
+},{
+"admin_category_id": "1512001",
+"cate_1" : "시공/서비스",
+"cate_2" : "홈케어",
+"cate_3" : "에어컨"
+},{
+"admin_category_id": "1512002",
+"cate_1" : "시공/서비스",
+"cate_2" : "홈케어",
+"cate_3" : "세탁기"
+},{
+"admin_category_id": "1512003",
+"cate_1" : "시공/서비스",
+"cate_2" : "홈케어",
+"cate_3" : "냉장고"
+},{
+"admin_category_id": "1512004",
+"cate_1" : "시공/서비스",
+"cate_2" : "홈케어",
+"cate_3" : "매트리스"
+},{
+"admin_category_id": "1512015",
+"cate_1" : "시공/서비스",
+"cate_2" : "홈케어",
+"cate_3" : "방충망"
+},{
+"admin_category_id": "1512016",
+"cate_1" : "시공/서비스",
+"cate_2" : "홈케어",
+"cate_3" : "살균소독"
+},{
+"admin_category_id": "1512017",
+"cate_1" : "시공/서비스",
+"cate_2" : "홈케어",
+"cate_3" : "청소/리폼"
+},{
+"admin_category_id": "1512018",
+"cate_1" : "시공/서비스",
+"cate_2" : "홈케어",
+"cate_3" : "철거/이전설치"
+},{
+"admin_category_id": "1512019",
+"cate_1" : "시공/서비스",
+"cate_2" : "홈케어",
+"cate_3" : "도배/페인트"
+},{
+"admin_category_id": "1512020",
+"cate_1" : "시공/서비스",
+"cate_2" : "홈케어",
+"cate_3" : "기타홈케어"
+},{
+"admin_category_id": "1513001",
+"cate_1" : "시공/서비스",
+"cate_2" : "주방",
+"cate_3" : "종합시공"
+},{
+"admin_category_id": "1513003",
+"cate_1" : "시공/서비스",
+"cate_2" : "주방",
+"cate_3" : "부분시공"
+},{
+"admin_category_id": "1513004",
+"cate_1" : "시공/서비스",
+"cate_2" : "주방",
+"cate_3" : "부분시공"
+},{
+"admin_category_id": "1513006",
+"cate_1" : "시공/서비스",
+"cate_2" : "주방",
+"cate_3" : "부분시공"
+},{
+"admin_category_id": "1513007",
+"cate_1" : "시공/서비스",
+"cate_2" : "주방",
+"cate_3" : "부분시공"
+},{
+"admin_category_id": "1514001",
+"cate_1" : "시공/서비스",
+"cate_2" : "욕실",
+"cate_3" : "종합시공"
+},{
+"admin_category_id": "1514006",
+"cate_1" : "시공/서비스",
+"cate_2" : "욕실",
+"cate_3" : "부분시공"
+},{
+"admin_category_id": "1514007",
+"cate_1" : "시공/서비스",
+"cate_2" : "욕실",
+"cate_3" : "부분시공"
+},{
+"admin_category_id": "1514008",
+"cate_1" : "시공/서비스",
+"cate_2" : "욕실",
+"cate_3" : "부분시공"
+},{
+"admin_category_id": "1514009",
+"cate_1" : "시공/서비스",
+"cate_2" : "욕실",
+"cate_3" : "부분시공"
+},{
+"admin_category_id": "1514010",
+"cate_1" : "시공/서비스",
+"cate_2" : "욕실",
+"cate_3" : "부분시공"
+},{
+"admin_category_id": "1514011",
+"cate_1" : "시공/서비스",
+"cate_2" : "욕실",
+"cate_3" : "부분시공"
+},{
+"admin_category_id": "1514012",
+"cate_1" : "시공/서비스",
+"cate_2" : "욕실",
+"cate_3" : "부분시공"
+},{
+"admin_category_id": "1514013",
+"cate_1" : "시공/서비스",
+"cate_2" : "욕실",
+"cate_3" : "부분시공"
+},{
+"admin_category_id": "1516000",
+"cate_1" : "시공/서비스",
+"cate_2" : "중문",
+"cate_3" : "중문"
+},{
+"admin_category_id": "1517000",
+"cate_1" : "시공/서비스",
+"cate_2" : "도어",
+"cate_3" : "도어"
+},{
+"admin_category_id": "1520000",
+"cate_1" : "시공/서비스",
+"cate_2" : "창문/샷시",
+"cate_3" : "창문/샷시"
+},{
+"admin_category_id": "1521001",
+"cate_1" : "시공/서비스",
+"cate_2" : "마루/장판",
+"cate_3" : "장판"
+},{
+"admin_category_id": "1521002",
+"cate_1" : "시공/서비스",
+"cate_2" : "마루/장판",
+"cate_3" : "마루/바닥재"
+},{
+"admin_category_id": "1522001",
+"cate_1" : "시공/서비스",
+"cate_2" : "도배/페인트",
+"cate_3" : "벽지"
+},{
+"admin_category_id": "1522002",
+"cate_1" : "시공/서비스",
+"cate_2" : "도배/페인트",
+"cate_3" : "페인트"
+}]}
