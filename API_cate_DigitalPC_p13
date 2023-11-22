@@ -1,0 +1,601 @@
+{ "API_cate_DigitalPC_p13" : [{
+"admin_category_id": "2401002",
+"cate_1" : "디지털/PC",
+"cate_2" : "음향가전",
+"cate_3" : "스피커"
+},{
+"admin_category_id": "2401003",
+"cate_1" : "디지털/PC",
+"cate_2" : "음향가전",
+"cate_3" : "스피커"
+},{
+"admin_category_id": "2401004",
+"cate_1" : "디지털/PC",
+"cate_2" : "음향가전",
+"cate_3" : "스피커"
+},{
+"admin_category_id": "2401005",
+"cate_1" : "디지털/PC",
+"cate_2" : "음향가전",
+"cate_3" : "스피커"
+},{
+"admin_category_id": "2401006",
+"cate_1" : "디지털/PC",
+"cate_2" : "음향가전",
+"cate_3" : "스피커"
+},{
+"admin_category_id": "2401007",
+"cate_1" : "디지털/PC",
+"cate_2" : "음향가전",
+"cate_3" : "스피커"
+},{
+"admin_category_id": "2401009",
+"cate_1" : "디지털/PC",
+"cate_2" : "음향가전",
+"cate_3" : "이어폰"
+},{
+"admin_category_id": "2401010",
+"cate_1" : "디지털/PC",
+"cate_2" : "음향가전",
+"cate_3" : "이어폰"
+},{
+"admin_category_id": "2401012",
+"cate_1" : "디지털/PC",
+"cate_2" : "음향가전",
+"cate_3" : "헤드셋"
+},{
+"admin_category_id": "2401013",
+"cate_1" : "디지털/PC",
+"cate_2" : "음향가전",
+"cate_3" : "헤드셋"
+},{
+"admin_category_id": "2401014",
+"cate_1" : "디지털/PC",
+"cate_2" : "음향가전",
+"cate_3" : "이어폰/헤드셋 액세서리"
+},{
+"admin_category_id": "2401015",
+"cate_1" : "디지털/PC",
+"cate_2" : "음향가전",
+"cate_3" : "턴테이블"
+},{
+"admin_category_id": "2401016",
+"cate_1" : "디지털/PC",
+"cate_2" : "음향가전",
+"cate_3" : "플레이어"
+},{
+"admin_category_id": "2401017",
+"cate_1" : "디지털/PC",
+"cate_2" : "음향가전",
+"cate_3" : "라디오/카세트"
+},{
+"admin_category_id": "2401018",
+"cate_1" : "디지털/PC",
+"cate_2" : "음향가전",
+"cate_3" : "녹음기"
+},{
+"admin_category_id": "2401019",
+"cate_1" : "디지털/PC",
+"cate_2" : "음향가전",
+"cate_3" : "어학학습기/학습보조기"
+},{
+"admin_category_id": "2401020",
+"cate_1" : "디지털/PC",
+"cate_2" : "음향가전",
+"cate_3" : "스피커"
+},{
+"admin_category_id": "2401021",
+"cate_1" : "디지털/PC",
+"cate_2" : "음향가전",
+"cate_3" : "마이크"
+},{
+"admin_category_id": "2401022",
+"cate_1" : "디지털/PC",
+"cate_2" : "음향가전",
+"cate_3" : "노래반주기"
+},{
+"admin_category_id": "2402001",
+"cate_1" : "디지털/PC",
+"cate_2" : "RC/드론",
+"cate_3" : "기타RC기기"
+},{
+"admin_category_id": "2402002",
+"cate_1" : "디지털/PC",
+"cate_2" : "RC/드론",
+"cate_3" : "드론"
+},{
+"admin_category_id": "2402003",
+"cate_1" : "디지털/PC",
+"cate_2" : "RC/드론",
+"cate_3" : "드론부품/액세서리"
+},{
+"admin_category_id": "2402004",
+"cate_1" : "디지털/PC",
+"cate_2" : "RC/드론",
+"cate_3" : "RC부품/액세서리"
+},{
+"admin_category_id": "2402005",
+"cate_1" : "디지털/PC",
+"cate_2" : "RC/드론",
+"cate_3" : "RC카"
+},{
+"admin_category_id": "2403001",
+"cate_1" : "디지털/PC",
+"cate_2" : "게이밍",
+"cate_3" : "PC게임"
+},{
+"admin_category_id": "2403002",
+"cate_1" : "디지털/PC",
+"cate_2" : "게이밍",
+"cate_3" : "컨트롤러"
+},{
+"admin_category_id": "2403003",
+"cate_1" : "디지털/PC",
+"cate_2" : "게이밍",
+"cate_3" : "VR"
+},{
+"admin_category_id": "2403004",
+"cate_1" : "디지털/PC",
+"cate_2" : "게이밍",
+"cate_3" : "휴대용게임기"
+},{
+"admin_category_id": "2403005",
+"cate_1" : "디지털/PC",
+"cate_2" : "게이밍",
+"cate_3" : "게임타이틀"
+},{
+"admin_category_id": "2403006",
+"cate_1" : "디지털/PC",
+"cate_2" : "게이밍",
+"cate_3" : "게임기주변기기"
+},{
+"admin_category_id": "2404001",
+"cate_1" : "디지털/PC",
+"cate_2" : "노트북",
+"cate_3" : "노트북"
+},{
+"admin_category_id": "2404002",
+"cate_1" : "디지털/PC",
+"cate_2" : "노트북",
+"cate_3" : "거치대/받침대"
+},{
+"admin_category_id": "2404003",
+"cate_1" : "디지털/PC",
+"cate_2" : "노트북",
+"cate_3" : "파우치/가방"
+},{
+"admin_category_id": "2404004",
+"cate_1" : "디지털/PC",
+"cate_2" : "노트북",
+"cate_3" : "리퍼/중고"
+},{
+"admin_category_id": "2404005",
+"cate_1" : "디지털/PC",
+"cate_2" : "노트북",
+"cate_3" : "기타노트북액세서리"
+},{
+"admin_category_id": "2405001",
+"cate_1" : "디지털/PC",
+"cate_2" : "데스크탑",
+"cate_3" : "데스크탑"
+},{
+"admin_category_id": "2405002",
+"cate_1" : "디지털/PC",
+"cate_2" : "데스크탑",
+"cate_3" : "올인원PC"
+},{
+"admin_category_id": "2405003",
+"cate_1" : "디지털/PC",
+"cate_2" : "데스크탑",
+"cate_3" : "조립PC/베어본"
+},{
+"admin_category_id": "2405004",
+"cate_1" : "디지털/PC",
+"cate_2" : "데스크탑",
+"cate_3" : "리퍼/중고"
+},{
+"admin_category_id": "2405005",
+"cate_1" : "디지털/PC",
+"cate_2" : "데스크탑",
+"cate_3" : "기타"
+},{
+"admin_category_id": "2406000",
+"cate_1" : "디지털/PC",
+"cate_2" : "마우스",
+"cate_3" : "마우스"
+},{
+"admin_category_id": "2407000",
+"cate_1" : "디지털/PC",
+"cate_2" : "키보드",
+"cate_3" : "키보드"
+},{
+"admin_category_id": "2408000",
+"cate_1" : "디지털/PC",
+"cate_2" : "소프트웨어",
+"cate_3" : "소프트웨어"
+},{
+"admin_category_id": "2409000",
+"cate_1" : "디지털/PC",
+"cate_2" : "PC케이스",
+"cate_3" : "PC케이스"
+},{
+"admin_category_id": "2410001",
+"cate_1" : "디지털/PC",
+"cate_2" : "주변기기",
+"cate_3" : "공유기"
+},{
+"admin_category_id": "2410002",
+"cate_1" : "디지털/PC",
+"cate_2" : "주변기기",
+"cate_3" : "USB허브"
+},{
+"admin_category_id": "2410003",
+"cate_1" : "디지털/PC",
+"cate_2" : "주변기기",
+"cate_3" : "케이블/젠더"
+},{
+"admin_category_id": "2410004",
+"cate_1" : "디지털/PC",
+"cate_2" : "주변기기",
+"cate_3" : "웹캠"
+},{
+"admin_category_id": "2410005",
+"cate_1" : "디지털/PC",
+"cate_2" : "주변기기",
+"cate_3" : "주변기기 기타"
+},{
+"admin_category_id": "2411001",
+"cate_1" : "디지털/PC",
+"cate_2" : "모니터",
+"cate_3" : "리퍼/중고"
+},{
+"admin_category_id": "2411002",
+"cate_1" : "디지털/PC",
+"cate_2" : "모니터",
+"cate_3" : "모니터용 주변기기"
+},{
+"admin_category_id": "2411003",
+"cate_1" : "디지털/PC",
+"cate_2" : "모니터",
+"cate_3" : "모니터"
+},{
+"admin_category_id": "2412002",
+"cate_1" : "디지털/PC",
+"cate_2" : "복합기/프린터/스캐너",
+"cate_3" : "복합기"
+},{
+"admin_category_id": "2412003",
+"cate_1" : "디지털/PC",
+"cate_2" : "복합기/프린터/스캐너",
+"cate_3" : "복합기"
+},{
+"admin_category_id": "2412004",
+"cate_1" : "디지털/PC",
+"cate_2" : "복합기/프린터/스캐너",
+"cate_3" : "복합기"
+},{
+"admin_category_id": "2412005",
+"cate_1" : "디지털/PC",
+"cate_2" : "복합기/프린터/스캐너",
+"cate_3" : "스캐너"
+},{
+"admin_category_id": "2412006",
+"cate_1" : "디지털/PC",
+"cate_2" : "복합기/프린터/스캐너",
+"cate_3" : "복사기"
+},{
+"admin_category_id": "2412008",
+"cate_1" : "디지털/PC",
+"cate_2" : "복합기/프린터/스캐너",
+"cate_3" : "잉크/토너"
+},{
+"admin_category_id": "2412009",
+"cate_1" : "디지털/PC",
+"cate_2" : "복합기/프린터/스캐너",
+"cate_3" : "잉크/토너"
+},{
+"admin_category_id": "2412011",
+"cate_1" : "디지털/PC",
+"cate_2" : "복합기/프린터/스캐너",
+"cate_3" : "프린터"
+},{
+"admin_category_id": "2412012",
+"cate_1" : "디지털/PC",
+"cate_2" : "복합기/프린터/스캐너",
+"cate_3" : "프린터"
+},{
+"admin_category_id": "2412013",
+"cate_1" : "디지털/PC",
+"cate_2" : "복합기/프린터/스캐너",
+"cate_3" : "프린터"
+},{
+"admin_category_id": "2412014",
+"cate_1" : "디지털/PC",
+"cate_2" : "복합기/프린터/스캐너",
+"cate_3" : "프린터"
+},{
+"admin_category_id": "2412015",
+"cate_1" : "디지털/PC",
+"cate_2" : "복합기/프린터/스캐너",
+"cate_3" : "프린터"
+},{
+"admin_category_id": "2413001",
+"cate_1" : "디지털/PC",
+"cate_2" : "태블릿PC",
+"cate_3" : "전자책/전자사전"
+},{
+"admin_category_id": "2413002",
+"cate_1" : "디지털/PC",
+"cate_2" : "태블릿PC",
+"cate_3" : "태블릿PC"
+},{
+"admin_category_id": "2413004",
+"cate_1" : "디지털/PC",
+"cate_2" : "태블릿PC",
+"cate_3" : "태블릿PC 액세서리"
+},{
+"admin_category_id": "2413005",
+"cate_1" : "디지털/PC",
+"cate_2" : "태블릿PC",
+"cate_3" : "태블릿PC 액세서리"
+},{
+"admin_category_id": "2413006",
+"cate_1" : "디지털/PC",
+"cate_2" : "태블릿PC",
+"cate_3" : "태블릿PC 액세서리"
+},{
+"admin_category_id": "2413007",
+"cate_1" : "디지털/PC",
+"cate_2" : "태블릿PC",
+"cate_3" : "태블릿PC 액세서리"
+},{
+"admin_category_id": "2413008",
+"cate_1" : "디지털/PC",
+"cate_2" : "태블릿PC",
+"cate_3" : "태블릿PC 액세서리"
+},{
+"admin_category_id": "2413009",
+"cate_1" : "디지털/PC",
+"cate_2" : "태블릿PC",
+"cate_3" : "태블릿PC 액세서리"
+},{
+"admin_category_id": "2414002",
+"cate_1" : "디지털/PC",
+"cate_2" : "카메라",
+"cate_3" : "디지털카메라"
+},{
+"admin_category_id": "2414003",
+"cate_1" : "디지털/PC",
+"cate_2" : "카메라",
+"cate_3" : "디지털카메라"
+},{
+"admin_category_id": "2414004",
+"cate_1" : "디지털/PC",
+"cate_2" : "카메라",
+"cate_3" : "디지털카메라"
+},{
+"admin_category_id": "2414006",
+"cate_1" : "디지털/PC",
+"cate_2" : "카메라",
+"cate_3" : "즉석카메라"
+},{
+"admin_category_id": "2414007",
+"cate_1" : "디지털/PC",
+"cate_2" : "카메라",
+"cate_3" : "즉석카메라"
+},{
+"admin_category_id": "2414009",
+"cate_1" : "디지털/PC",
+"cate_2" : "카메라",
+"cate_3" : "카메라액세서리"
+},{
+"admin_category_id": "2414010",
+"cate_1" : "디지털/PC",
+"cate_2" : "카메라",
+"cate_3" : "카메라액세서리"
+},{
+"admin_category_id": "2414011",
+"cate_1" : "디지털/PC",
+"cate_2" : "카메라",
+"cate_3" : "카메라액세서리"
+},{
+"admin_category_id": "2414012",
+"cate_1" : "디지털/PC",
+"cate_2" : "카메라",
+"cate_3" : "카메라액세서리"
+},{
+"admin_category_id": "2414013",
+"cate_1" : "디지털/PC",
+"cate_2" : "카메라",
+"cate_3" : "카메라액세서리"
+},{
+"admin_category_id": "2414014",
+"cate_1" : "디지털/PC",
+"cate_2" : "카메라",
+"cate_3" : "카메라액세서리"
+},{
+"admin_category_id": "2414015",
+"cate_1" : "디지털/PC",
+"cate_2" : "카메라",
+"cate_3" : "카메라액세서리"
+},{
+"admin_category_id": "2414017",
+"cate_1" : "디지털/PC",
+"cate_2" : "카메라",
+"cate_3" : "캠코더/액션캠"
+},{
+"admin_category_id": "2414018",
+"cate_1" : "디지털/PC",
+"cate_2" : "카메라",
+"cate_3" : "캠코더/액션캠"
+},{
+"admin_category_id": "2414020",
+"cate_1" : "디지털/PC",
+"cate_2" : "카메라",
+"cate_3" : "필름카메라"
+},{
+"admin_category_id": "2414021",
+"cate_1" : "디지털/PC",
+"cate_2" : "카메라",
+"cate_3" : "필름카메라"
+},{
+"admin_category_id": "2414022",
+"cate_1" : "디지털/PC",
+"cate_2" : "카메라",
+"cate_3" : "필름카메라"
+},{
+"admin_category_id": "2414023",
+"cate_1" : "디지털/PC",
+"cate_2" : "카메라",
+"cate_3" : "필름카메라"
+},{
+"admin_category_id": "2414024",
+"cate_1" : "디지털/PC",
+"cate_2" : "카메라",
+"cate_3" : "필름카메라"
+},{
+"admin_category_id": "2414025",
+"cate_1" : "디지털/PC",
+"cate_2" : "카메라",
+"cate_3" : "필름카메라"
+},{
+"admin_category_id": "2414026",
+"cate_1" : "디지털/PC",
+"cate_2" : "카메라",
+"cate_3" : "디지털카메라"
+},{
+"admin_category_id": "2414027",
+"cate_1" : "디지털/PC",
+"cate_2" : "카메라",
+"cate_3" : "CCTV"
+},{
+"admin_category_id": "2415001",
+"cate_1" : "디지털/PC",
+"cate_2" : "스마트워치/밴드",
+"cate_3" : "스마트워치/밴드"
+},{
+"admin_category_id": "2415002",
+"cate_1" : "디지털/PC",
+"cate_2" : "스마트워치/밴드",
+"cate_3" : "스마트워치/밴드 액세서리"
+},{
+"admin_category_id": "2416001",
+"cate_1" : "디지털/PC",
+"cate_2" : "휴대폰",
+"cate_3" : "자급제"
+},{
+"admin_category_id": "2416002",
+"cate_1" : "디지털/PC",
+"cate_2" : "휴대폰",
+"cate_3" : "통신사"
+},{
+"admin_category_id": "2416003",
+"cate_1" : "디지털/PC",
+"cate_2" : "휴대폰",
+"cate_3" : "중고/리퍼폰"
+},{
+"admin_category_id": "2416005",
+"cate_1" : "디지털/PC",
+"cate_2" : "휴대폰",
+"cate_3" : "모바일액세서리"
+},{
+"admin_category_id": "2416006",
+"cate_1" : "디지털/PC",
+"cate_2" : "휴대폰",
+"cate_3" : "모바일액세서리"
+},{
+"admin_category_id": "2416007",
+"cate_1" : "디지털/PC",
+"cate_2" : "휴대폰",
+"cate_3" : "모바일액세서리"
+},{
+"admin_category_id": "2416008",
+"cate_1" : "디지털/PC",
+"cate_2" : "휴대폰",
+"cate_3" : "모바일액세서리"
+},{
+"admin_category_id": "2416009",
+"cate_1" : "디지털/PC",
+"cate_2" : "휴대폰",
+"cate_3" : "모바일액세서리"
+},{
+"admin_category_id": "2416010",
+"cate_1" : "디지털/PC",
+"cate_2" : "휴대폰",
+"cate_3" : "모바일액세서리"
+},{
+"admin_category_id": "2416011",
+"cate_1" : "디지털/PC",
+"cate_2" : "휴대폰",
+"cate_3" : "모바일액세서리"
+},{
+"admin_category_id": "2416013",
+"cate_1" : "디지털/PC",
+"cate_2" : "휴대폰",
+"cate_3" : "모바일액세서리"
+},{
+"admin_category_id": "2416014",
+"cate_1" : "디지털/PC",
+"cate_2" : "휴대폰",
+"cate_3" : "모바일액세서리"
+},{
+"admin_category_id": "2416016",
+"cate_1" : "디지털/PC",
+"cate_2" : "휴대폰",
+"cate_3" : "모바일액세서리"
+},{
+"admin_category_id": "2416017",
+"cate_1" : "디지털/PC",
+"cate_2" : "휴대폰",
+"cate_3" : "모바일액세서리"
+},{
+"admin_category_id": "2416018",
+"cate_1" : "디지털/PC",
+"cate_2" : "휴대폰",
+"cate_3" : "모바일액세서리"
+},{
+"admin_category_id": "2416019",
+"cate_1" : "디지털/PC",
+"cate_2" : "휴대폰",
+"cate_3" : "모바일액세서리"
+},{
+"admin_category_id": "2416020",
+"cate_1" : "디지털/PC",
+"cate_2" : "휴대폰",
+"cate_3" : "모바일액세서리"
+},{
+"admin_category_id": "2417001",
+"cate_1" : "디지털/PC",
+"cate_2" : "저장장치",
+"cate_3" : "USB/OTG 메모리"
+},{
+"admin_category_id": "2417002",
+"cate_1" : "디지털/PC",
+"cate_2" : "저장장치",
+"cate_3" : "외장하드/외장SSD"
+},{
+"admin_category_id": "2417003",
+"cate_1" : "디지털/PC",
+"cate_2" : "저장장치",
+"cate_3" : "SSD"
+},{
+"admin_category_id": "2417004",
+"cate_1" : "디지털/PC",
+"cate_2" : "저장장치",
+"cate_3" : "HDD"
+},{
+"admin_category_id": "2417005",
+"cate_1" : "디지털/PC",
+"cate_2" : "저장장치",
+"cate_3" : "NAS"
+},{
+"admin_category_id": "2417006",
+"cate_1" : "디지털/PC",
+"cate_2" : "저장장치",
+"cate_3" : "메모리카드"
+},{
+"admin_category_id": "2417007",
+"cate_1" : "디지털/PC",
+"cate_2" : "저장장치",
+"cate_3" : "기타 저장장치"
+}]}
