@@ -1,0 +1,781 @@
+{ "API_cate_dailynecessity_p9" : [{
+"admin_category_id": "2701002",
+"cate_1" : "생필품",
+"cate_2" : "세탁세제",
+"cate_3" : "액체세제"
+},{
+"admin_category_id": "2701003",
+"cate_1" : "생필품",
+"cate_2" : "세탁세제",
+"cate_3" : "액체세제"
+},{
+"admin_category_id": "2701005",
+"cate_1" : "생필품",
+"cate_2" : "세탁세제",
+"cate_3" : "분말세제"
+},{
+"admin_category_id": "2701006",
+"cate_1" : "생필품",
+"cate_2" : "세탁세제",
+"cate_3" : "분말세제"
+},{
+"admin_category_id": "2701007",
+"cate_1" : "생필품",
+"cate_2" : "세탁세제",
+"cate_3" : "캡슐세제"
+},{
+"admin_category_id": "2701008",
+"cate_1" : "생필품",
+"cate_2" : "세탁세제",
+"cate_3" : "시트세제"
+},{
+"admin_category_id": "2701010",
+"cate_1" : "생필품",
+"cate_2" : "세탁세제",
+"cate_3" : "섬유유연제"
+},{
+"admin_category_id": "2701011",
+"cate_1" : "생필품",
+"cate_2" : "세탁세제",
+"cate_3" : "섬유유연제"
+},{
+"admin_category_id": "2701012",
+"cate_1" : "생필품",
+"cate_2" : "세탁세제",
+"cate_3" : "울/중성세제"
+},{
+"admin_category_id": "2701013",
+"cate_1" : "생필품",
+"cate_2" : "세탁세제",
+"cate_3" : "홈드라이세제"
+},{
+"admin_category_id": "2701014",
+"cate_1" : "생필품",
+"cate_2" : "세탁세제",
+"cate_3" : "운동화클리너"
+},{
+"admin_category_id": "2701015",
+"cate_1" : "생필품",
+"cate_2" : "세탁세제",
+"cate_3" : "세탁비누"
+},{
+"admin_category_id": "2701016",
+"cate_1" : "생필품",
+"cate_2" : "세탁세제",
+"cate_3" : "얼룩/찌든때제거제"
+},{
+"admin_category_id": "2701017",
+"cate_1" : "생필품",
+"cate_2" : "세탁세제",
+"cate_3" : "표백제"
+},{
+"admin_category_id": "2701018",
+"cate_1" : "생필품",
+"cate_2" : "세탁세제",
+"cate_3" : "베이킹소다/구연산/과탄산소다"
+},{
+"admin_category_id": "2701019",
+"cate_1" : "생필품",
+"cate_2" : "세탁세제",
+"cate_3" : "이염방지제"
+},{
+"admin_category_id": "2701020",
+"cate_1" : "생필품",
+"cate_2" : "세탁세제",
+"cate_3" : "향기지속제"
+},{
+"admin_category_id": "2701021",
+"cate_1" : "생필품",
+"cate_2" : "세탁세제",
+"cate_3" : "세제분할용기"
+},{
+"admin_category_id": "2702001",
+"cate_1" : "생필품",
+"cate_2" : "주방세제",
+"cate_3" : "식기세척기용세제"
+},{
+"admin_category_id": "2702002",
+"cate_1" : "생필품",
+"cate_2" : "주방세제",
+"cate_3" : "야채/과일세정제"
+},{
+"admin_category_id": "2702003",
+"cate_1" : "생필품",
+"cate_2" : "주방세제",
+"cate_3" : "일반주방세제"
+},{
+"admin_category_id": "2702004",
+"cate_1" : "생필품",
+"cate_2" : "주방세제",
+"cate_3" : "텀블러클리너"
+},{
+"admin_category_id": "2702005",
+"cate_1" : "생필품",
+"cate_2" : "주방세제",
+"cate_3" : "행주/도마전용세제"
+},{
+"admin_category_id": "2703001",
+"cate_1" : "생필품",
+"cate_2" : "청소세제",
+"cate_3" : "곰팡이제거제"
+},{
+"admin_category_id": "2703002",
+"cate_1" : "생필품",
+"cate_2" : "청소세제",
+"cate_3" : "광택왁스/클리너"
+},{
+"admin_category_id": "2703003",
+"cate_1" : "생필품",
+"cate_2" : "청소세제",
+"cate_3" : "다목적세정제"
+},{
+"admin_category_id": "2703004",
+"cate_1" : "생필품",
+"cate_2" : "청소세제",
+"cate_3" : "락스/살균소독제"
+},{
+"admin_category_id": "2703005",
+"cate_1" : "생필품",
+"cate_2" : "청소세제",
+"cate_3" : "배수구세정제"
+},{
+"admin_category_id": "2703006",
+"cate_1" : "생필품",
+"cate_2" : "청소세제",
+"cate_3" : "변기세정제"
+},{
+"admin_category_id": "2703007",
+"cate_1" : "생필품",
+"cate_2" : "청소세제",
+"cate_3" : "세탁조세정제"
+},{
+"admin_category_id": "2703008",
+"cate_1" : "생필품",
+"cate_2" : "청소세제",
+"cate_3" : "에어컨세정제"
+},{
+"admin_category_id": "2703009",
+"cate_1" : "생필품",
+"cate_2" : "청소세제",
+"cate_3" : "욕실세정제"
+},{
+"admin_category_id": "2703010",
+"cate_1" : "생필품",
+"cate_2" : "청소세제",
+"cate_3" : "유리세정제"
+},{
+"admin_category_id": "2703011",
+"cate_1" : "생필품",
+"cate_2" : "청소세제",
+"cate_3" : "가죽클리너"
+},{
+"admin_category_id": "2703013",
+"cate_1" : "생필품",
+"cate_2" : "청소세제",
+"cate_3" : "주방/싱크세정제"
+},{
+"admin_category_id": "2703014",
+"cate_1" : "생필품",
+"cate_2" : "청소세제",
+"cate_3" : "주방/싱크세정제"
+},{
+"admin_category_id": "2704002",
+"cate_1" : "생필품",
+"cate_2" : "화장지/물티슈",
+"cate_3" : "갑티슈/여행티슈"
+},{
+"admin_category_id": "2704003",
+"cate_1" : "생필품",
+"cate_2" : "화장지/물티슈",
+"cate_3" : "갑티슈/여행티슈"
+},{
+"admin_category_id": "2704005",
+"cate_1" : "생필품",
+"cate_2" : "화장지/물티슈",
+"cate_3" : "물티슈/비데티슈"
+},{
+"admin_category_id": "2704006",
+"cate_1" : "생필품",
+"cate_2" : "화장지/물티슈",
+"cate_3" : "물티슈/비데티슈"
+},{
+"admin_category_id": "2704007",
+"cate_1" : "생필품",
+"cate_2" : "화장지/물티슈",
+"cate_3" : "물티슈/비데티슈"
+},{
+"admin_category_id": "2704008",
+"cate_1" : "생필품",
+"cate_2" : "화장지/물티슈",
+"cate_3" : "물티슈/비데티슈"
+},{
+"admin_category_id": "2704010",
+"cate_1" : "생필품",
+"cate_2" : "화장지/물티슈",
+"cate_3" : "키친타올"
+},{
+"admin_category_id": "2704011",
+"cate_1" : "생필품",
+"cate_2" : "화장지/물티슈",
+"cate_3" : "키친타올"
+},{
+"admin_category_id": "2704012",
+"cate_1" : "생필품",
+"cate_2" : "화장지/물티슈",
+"cate_3" : "키친타올"
+},{
+"admin_category_id": "2704015",
+"cate_1" : "생필품",
+"cate_2" : "화장지/물티슈",
+"cate_3" : "화장지"
+},{
+"admin_category_id": "2704017",
+"cate_1" : "생필품",
+"cate_2" : "화장지/물티슈",
+"cate_3" : "화장지"
+},{
+"admin_category_id": "2704018",
+"cate_1" : "생필품",
+"cate_2" : "화장지/물티슈",
+"cate_3" : "화장지"
+},{
+"admin_category_id": "2705002",
+"cate_1" : "생필품",
+"cate_2" : "생리대/성인기저귀",
+"cate_3" : "패드형생리대"
+},{
+"admin_category_id": "2705003",
+"cate_1" : "생필품",
+"cate_2" : "생리대/성인기저귀",
+"cate_3" : "패드형생리대"
+},{
+"admin_category_id": "2705004",
+"cate_1" : "생필품",
+"cate_2" : "생리대/성인기저귀",
+"cate_3" : "패드형생리대"
+},{
+"admin_category_id": "2705005",
+"cate_1" : "생필품",
+"cate_2" : "생리대/성인기저귀",
+"cate_3" : "패드형생리대"
+},{
+"admin_category_id": "2705006",
+"cate_1" : "생필품",
+"cate_2" : "생리대/성인기저귀",
+"cate_3" : "패드형생리대"
+},{
+"admin_category_id": "2705007",
+"cate_1" : "생필품",
+"cate_2" : "생리대/성인기저귀",
+"cate_3" : "면생리대"
+},{
+"admin_category_id": "2705008",
+"cate_1" : "생필품",
+"cate_2" : "생리대/성인기저귀",
+"cate_3" : "생리컵"
+},{
+"admin_category_id": "2705009",
+"cate_1" : "생필품",
+"cate_2" : "생리대/성인기저귀",
+"cate_3" : "체내형생리대/탐폰"
+},{
+"admin_category_id": "2705010",
+"cate_1" : "생필품",
+"cate_2" : "생리대/성인기저귀",
+"cate_3" : "산모패드"
+},{
+"admin_category_id": "2705011",
+"cate_1" : "생필품",
+"cate_2" : "생리대/성인기저귀",
+"cate_3" : "성인기저귀/패드"
+},{
+"admin_category_id": "2706001",
+"cate_1" : "생필품",
+"cate_2" : "제습/탈취/방향제",
+"cate_3" : "가습제/제습제"
+},{
+"admin_category_id": "2706002",
+"cate_1" : "생필품",
+"cate_2" : "제습/탈취/방향제",
+"cate_3" : "살균/소독제"
+},{
+"admin_category_id": "2706004",
+"cate_1" : "생필품",
+"cate_2" : "제습/탈취/방향제",
+"cate_3" : "탈취/방향제"
+},{
+"admin_category_id": "2706005",
+"cate_1" : "생필품",
+"cate_2" : "제습/탈취/방향제",
+"cate_3" : "탈취/방향제"
+},{
+"admin_category_id": "2706006",
+"cate_1" : "생필품",
+"cate_2" : "제습/탈취/방향제",
+"cate_3" : "탈취/방향제"
+},{
+"admin_category_id": "2706007",
+"cate_1" : "생필품",
+"cate_2" : "제습/탈취/방향제",
+"cate_3" : "탈취/방향제"
+},{
+"admin_category_id": "2706008",
+"cate_1" : "생필품",
+"cate_2" : "제습/탈취/방향제",
+"cate_3" : "탈취/방향제"
+},{
+"admin_category_id": "2707001",
+"cate_1" : "생필품",
+"cate_2" : "살충/방충제",
+"cate_3" : "개미/바퀴벌레약"
+},{
+"admin_category_id": "2707002",
+"cate_1" : "생필품",
+"cate_2" : "살충/방충제",
+"cate_3" : "기타살충/방충제"
+},{
+"admin_category_id": "2707004",
+"cate_1" : "생필품",
+"cate_2" : "살충/방충제",
+"cate_3" : "모기/파리약"
+},{
+"admin_category_id": "2707005",
+"cate_1" : "생필품",
+"cate_2" : "살충/방충제",
+"cate_3" : "모기/파리약"
+},{
+"admin_category_id": "2707006",
+"cate_1" : "생필품",
+"cate_2" : "살충/방충제",
+"cate_3" : "모기/파리약"
+},{
+"admin_category_id": "2707007",
+"cate_1" : "생필품",
+"cate_2" : "살충/방충제",
+"cate_3" : "좀벌레약/나프탈렌"
+},{
+"admin_category_id": "2707008",
+"cate_1" : "생필품",
+"cate_2" : "살충/방충제",
+"cate_3" : "쥐덫/쥐약"
+},{
+"admin_category_id": "2708002",
+"cate_1" : "생필품",
+"cate_2" : "스킨케어",
+"cate_3" : "페이셜케어"
+},{
+"admin_category_id": "2708003",
+"cate_1" : "생필품",
+"cate_2" : "스킨케어",
+"cate_3" : "페이셜케어"
+},{
+"admin_category_id": "2708004",
+"cate_1" : "생필품",
+"cate_2" : "스킨케어",
+"cate_3" : "페이셜케어"
+},{
+"admin_category_id": "2708005",
+"cate_1" : "생필품",
+"cate_2" : "스킨케어",
+"cate_3" : "페이셜케어"
+},{
+"admin_category_id": "2708006",
+"cate_1" : "생필품",
+"cate_2" : "스킨케어",
+"cate_3" : "페이셜케어"
+},{
+"admin_category_id": "2708007",
+"cate_1" : "생필품",
+"cate_2" : "스킨케어",
+"cate_3" : "페이셜케어"
+},{
+"admin_category_id": "2708008",
+"cate_1" : "생필품",
+"cate_2" : "스킨케어",
+"cate_3" : "페이셜케어"
+},{
+"admin_category_id": "2708009",
+"cate_1" : "생필품",
+"cate_2" : "스킨케어",
+"cate_3" : "페이셜케어"
+},{
+"admin_category_id": "2708011",
+"cate_1" : "생필품",
+"cate_2" : "스킨케어",
+"cate_3" : "클렌징"
+},{
+"admin_category_id": "2708012",
+"cate_1" : "생필품",
+"cate_2" : "스킨케어",
+"cate_3" : "클렌징"
+},{
+"admin_category_id": "2708013",
+"cate_1" : "생필품",
+"cate_2" : "스킨케어",
+"cate_3" : "클렌징"
+},{
+"admin_category_id": "2708014",
+"cate_1" : "생필품",
+"cate_2" : "스킨케어",
+"cate_3" : "클렌징"
+},{
+"admin_category_id": "2708015",
+"cate_1" : "생필품",
+"cate_2" : "스킨케어",
+"cate_3" : "클렌징"
+},{
+"admin_category_id": "2708016",
+"cate_1" : "생필품",
+"cate_2" : "스킨케어",
+"cate_3" : "클렌징"
+},{
+"admin_category_id": "2708017",
+"cate_1" : "생필품",
+"cate_2" : "스킨케어",
+"cate_3" : "클렌징"
+},{
+"admin_category_id": "2708018",
+"cate_1" : "생필품",
+"cate_2" : "스킨케어",
+"cate_3" : "클렌징"
+},{
+"admin_category_id": "2708020",
+"cate_1" : "생필품",
+"cate_2" : "스킨케어",
+"cate_3" : "마스크팩"
+},{
+"admin_category_id": "2708021",
+"cate_1" : "생필품",
+"cate_2" : "스킨케어",
+"cate_3" : "마스크팩"
+},{
+"admin_category_id": "2708022",
+"cate_1" : "생필품",
+"cate_2" : "스킨케어",
+"cate_3" : "마스크팩"
+},{
+"admin_category_id": "2708023",
+"cate_1" : "생필품",
+"cate_2" : "스킨케어",
+"cate_3" : "마스크팩"
+},{
+"admin_category_id": "2708024",
+"cate_1" : "생필품",
+"cate_2" : "스킨케어",
+"cate_3" : "마스크팩"
+},{
+"admin_category_id": "2708025",
+"cate_1" : "생필품",
+"cate_2" : "스킨케어",
+"cate_3" : "마스크팩"
+},{
+"admin_category_id": "2708026",
+"cate_1" : "생필품",
+"cate_2" : "스킨케어",
+"cate_3" : "마스크팩"
+},{
+"admin_category_id": "2708028",
+"cate_1" : "생필품",
+"cate_2" : "스킨케어",
+"cate_3" : "선케어"
+},{
+"admin_category_id": "2708029",
+"cate_1" : "생필품",
+"cate_2" : "스킨케어",
+"cate_3" : "선케어"
+},{
+"admin_category_id": "2708030",
+"cate_1" : "생필품",
+"cate_2" : "스킨케어",
+"cate_3" : "선케어"
+},{
+"admin_category_id": "2708031",
+"cate_1" : "생필품",
+"cate_2" : "스킨케어",
+"cate_3" : "선케어"
+},{
+"admin_category_id": "2708032",
+"cate_1" : "생필품",
+"cate_2" : "스킨케어",
+"cate_3" : "남성화장품"
+},{
+"admin_category_id": "2708033",
+"cate_1" : "생필품",
+"cate_2" : "스킨케어",
+"cate_3" : "뷰티소품"
+},{
+"admin_category_id": "2709002",
+"cate_1" : "생필품",
+"cate_2" : "바디케어",
+"cate_3" : "로션/크림"
+},{
+"admin_category_id": "2709003",
+"cate_1" : "생필품",
+"cate_2" : "바디케어",
+"cate_3" : "로션/크림"
+},{
+"admin_category_id": "2709005",
+"cate_1" : "생필품",
+"cate_2" : "바디케어",
+"cate_3" : "워시/스크럽/입욕용품"
+},{
+"admin_category_id": "2709006",
+"cate_1" : "생필품",
+"cate_2" : "바디케어",
+"cate_3" : "워시/스크럽/입욕용품"
+},{
+"admin_category_id": "2709007",
+"cate_1" : "생필품",
+"cate_2" : "바디케어",
+"cate_3" : "워시/스크럽/입욕용품"
+},{
+"admin_category_id": "2709008",
+"cate_1" : "생필품",
+"cate_2" : "바디케어",
+"cate_3" : "워시/스크럽/입욕용품"
+},{
+"admin_category_id": "2709010",
+"cate_1" : "생필품",
+"cate_2" : "바디케어",
+"cate_3" : "미스트/오일"
+},{
+"admin_category_id": "2709011",
+"cate_1" : "생필품",
+"cate_2" : "바디케어",
+"cate_3" : "미스트/오일"
+},{
+"admin_category_id": "2709013",
+"cate_1" : "생필품",
+"cate_2" : "바디케어",
+"cate_3" : "핸드/풋"
+},{
+"admin_category_id": "2709014",
+"cate_1" : "생필품",
+"cate_2" : "바디케어",
+"cate_3" : "핸드/풋"
+},{
+"admin_category_id": "2709015",
+"cate_1" : "생필품",
+"cate_2" : "바디케어",
+"cate_3" : "핸드/풋"
+},{
+"admin_category_id": "2709016",
+"cate_1" : "생필품",
+"cate_2" : "바디케어",
+"cate_3" : "핸드/풋"
+},{
+"admin_category_id": "2709017",
+"cate_1" : "생필품",
+"cate_2" : "바디케어",
+"cate_3" : "핸드/풋"
+},{
+"admin_category_id": "2709018",
+"cate_1" : "생필품",
+"cate_2" : "바디케어",
+"cate_3" : "핸드/풋"
+},{
+"admin_category_id": "2709019",
+"cate_1" : "생필품",
+"cate_2" : "바디케어",
+"cate_3" : "핸드/풋"
+},{
+"admin_category_id": "2709020",
+"cate_1" : "생필품",
+"cate_2" : "바디케어",
+"cate_3" : "핸드/풋"
+},{
+"admin_category_id": "2709021",
+"cate_1" : "생필품",
+"cate_2" : "바디케어",
+"cate_3" : "데오도란트"
+},{
+"admin_category_id": "2709022",
+"cate_1" : "생필품",
+"cate_2" : "바디케어",
+"cate_3" : "립케어"
+},{
+"admin_category_id": "2709023",
+"cate_1" : "생필품",
+"cate_2" : "바디케어",
+"cate_3" : "청결제"
+},{
+"admin_category_id": "2710002",
+"cate_1" : "생필품",
+"cate_2" : "헤어케어",
+"cate_3" : "샴푸/린스"
+},{
+"admin_category_id": "2710003",
+"cate_1" : "생필품",
+"cate_2" : "헤어케어",
+"cate_3" : "샴푸/린스"
+},{
+"admin_category_id": "2710005",
+"cate_1" : "생필품",
+"cate_2" : "헤어케어",
+"cate_3" : "트리트먼트/팩"
+},{
+"admin_category_id": "2710006",
+"cate_1" : "생필품",
+"cate_2" : "헤어케어",
+"cate_3" : "트리트먼트/팩"
+},{
+"admin_category_id": "2710008",
+"cate_1" : "생필품",
+"cate_2" : "헤어케어",
+"cate_3" : "스타일링/에센스/앰플"
+},{
+"admin_category_id": "2710009",
+"cate_1" : "생필품",
+"cate_2" : "헤어케어",
+"cate_3" : "스타일링/에센스/앰플"
+},{
+"admin_category_id": "2710010",
+"cate_1" : "생필품",
+"cate_2" : "헤어케어",
+"cate_3" : "스타일링/에센스/앰플"
+},{
+"admin_category_id": "2710011",
+"cate_1" : "생필품",
+"cate_2" : "헤어케어",
+"cate_3" : "스타일링/에센스/앰플"
+},{
+"admin_category_id": "2710012",
+"cate_1" : "생필품",
+"cate_2" : "헤어케어",
+"cate_3" : "스타일링/에센스/앰플"
+},{
+"admin_category_id": "2710013",
+"cate_1" : "생필품",
+"cate_2" : "헤어케어",
+"cate_3" : "스타일링/에센스/앰플"
+},{
+"admin_category_id": "2710014",
+"cate_1" : "생필품",
+"cate_2" : "헤어케어",
+"cate_3" : "스타일링/에센스/앰플"
+},{
+"admin_category_id": "2710015",
+"cate_1" : "생필품",
+"cate_2" : "헤어케어",
+"cate_3" : "스타일링/에센스/앰플"
+},{
+"admin_category_id": "2710016",
+"cate_1" : "생필품",
+"cate_2" : "헤어케어",
+"cate_3" : "스타일링/에센스/앰플"
+},{
+"admin_category_id": "2710017",
+"cate_1" : "생필품",
+"cate_2" : "헤어케어",
+"cate_3" : "스타일링/에센스/앰플"
+},{
+"admin_category_id": "2710019",
+"cate_1" : "생필품",
+"cate_2" : "헤어케어",
+"cate_3" : "염색/펌/코팅"
+},{
+"admin_category_id": "2710020",
+"cate_1" : "생필품",
+"cate_2" : "헤어케어",
+"cate_3" : "염색/펌/코팅"
+},{
+"admin_category_id": "2710021",
+"cate_1" : "생필품",
+"cate_2" : "헤어케어",
+"cate_3" : "염색/펌/코팅"
+},{
+"admin_category_id": "2710022",
+"cate_1" : "생필품",
+"cate_2" : "헤어케어",
+"cate_3" : "헤어브러쉬"
+},{
+"admin_category_id": "2710023",
+"cate_1" : "생필품",
+"cate_2" : "헤어케어",
+"cate_3" : "스타일링/에센스/앰플"
+},{
+"admin_category_id": "2711001",
+"cate_1" : "생필품",
+"cate_2" : "양치용품",
+"cate_3" : "치약"
+},{
+"admin_category_id": "2711002",
+"cate_1" : "생필품",
+"cate_2" : "양치용품",
+"cate_3" : "칫솔"
+},{
+"admin_category_id": "2711003",
+"cate_1" : "생필품",
+"cate_2" : "양치용품",
+"cate_3" : "치실"
+},{
+"admin_category_id": "2711004",
+"cate_1" : "생필품",
+"cate_2" : "양치용품",
+"cate_3" : "치간칫솔"
+},{
+"admin_category_id": "2711005",
+"cate_1" : "생필품",
+"cate_2" : "양치용품",
+"cate_3" : "치아미백용품"
+},{
+"admin_category_id": "2711006",
+"cate_1" : "생필품",
+"cate_2" : "양치용품",
+"cate_3" : "치약칫솔세트"
+},{
+"admin_category_id": "2711007",
+"cate_1" : "생필품",
+"cate_2" : "양치용품",
+"cate_3" : "혀클리너"
+},{
+"admin_category_id": "2711008",
+"cate_1" : "생필품",
+"cate_2" : "양치용품",
+"cate_3" : "구강청결제"
+},{
+"admin_category_id": "2711009",
+"cate_1" : "생필품",
+"cate_2" : "양치용품",
+"cate_3" : "틀니세정제"
+},{
+"admin_category_id": "2712001",
+"cate_1" : "생필품",
+"cate_2" : "면도용품",
+"cate_3" : "면도기/날세트"
+},{
+"admin_category_id": "2712002",
+"cate_1" : "생필품",
+"cate_2" : "면도용품",
+"cate_3" : "면도기날"
+},{
+"admin_category_id": "2712003",
+"cate_1" : "생필품",
+"cate_2" : "면도용품",
+"cate_3" : "면도기액세서리"
+},{
+"admin_category_id": "2712004",
+"cate_1" : "생필품",
+"cate_2" : "면도용품",
+"cate_3" : "면도크림/젤"
+},{
+"admin_category_id": "2712005",
+"cate_1" : "생필품",
+"cate_2" : "면도용품",
+"cate_3" : "여성면도기/날세트"
+},{
+"admin_category_id": "2712006",
+"cate_1" : "생필품",
+"cate_2" : "면도용품",
+"cate_3" : "여성면도날"
+},{
+"admin_category_id": "2712007",
+"cate_1" : "생필품",
+"cate_2" : "면도용품",
+"cate_3" : "제모제"
+},{
+"admin_category_id": "2713000",
+"cate_1" : "생필품",
+"cate_2" : "생활선물세트",
+"cate_3" : "생활선물세트"
+}]}
