@@ -1,0 +1,771 @@
+{ "API_cate_DIYTools_p8" : [{
+"admin_category_id": "1901001",
+"cate_1" : "DIY/공구",
+"cate_2" : "가구부속품",
+"cate_3" : "가구부속자재"
+},{
+"admin_category_id": "1901002",
+"cate_1" : "DIY/공구",
+"cate_2" : "가구부속품",
+"cate_3" : "의자부속품"
+},{
+"admin_category_id": "1901003",
+"cate_1" : "DIY/공구",
+"cate_2" : "가구부속품",
+"cate_3" : "책상부속품"
+},{
+"admin_category_id": "1902001",
+"cate_1" : "DIY/공구",
+"cate_2" : "공구",
+"cate_3" : "가정용공구세트"
+},{
+"admin_category_id": "1902002",
+"cate_1" : "DIY/공구",
+"cate_2" : "공구",
+"cate_3" : "공구함"
+},{
+"admin_category_id": "1902004",
+"cate_1" : "DIY/공구",
+"cate_2" : "공구",
+"cate_3" : "나사/못/체결도구"
+},{
+"admin_category_id": "1902005",
+"cate_1" : "DIY/공구",
+"cate_2" : "공구",
+"cate_3" : "나사/못/체결도구"
+},{
+"admin_category_id": "1902006",
+"cate_1" : "DIY/공구",
+"cate_2" : "공구",
+"cate_3" : "나사/못/체결도구"
+},{
+"admin_category_id": "1902007",
+"cate_1" : "DIY/공구",
+"cate_2" : "공구",
+"cate_3" : "나사/못/체결도구"
+},{
+"admin_category_id": "1902008",
+"cate_1" : "DIY/공구",
+"cate_2" : "공구",
+"cate_3" : "나사/못/체결도구"
+},{
+"admin_category_id": "1902009",
+"cate_1" : "DIY/공구",
+"cate_2" : "공구",
+"cate_3" : "나사/못/체결도구"
+},{
+"admin_category_id": "1902010",
+"cate_1" : "DIY/공구",
+"cate_2" : "공구",
+"cate_3" : "나사/못/체결도구"
+},{
+"admin_category_id": "1902012",
+"cate_1" : "DIY/공구",
+"cate_2" : "공구",
+"cate_3" : "사다리/운반용품"
+},{
+"admin_category_id": "1902013",
+"cate_1" : "DIY/공구",
+"cate_2" : "공구",
+"cate_3" : "사다리/운반용품"
+},{
+"admin_category_id": "1902014",
+"cate_1" : "DIY/공구",
+"cate_2" : "공구",
+"cate_3" : "사다리/운반용품"
+},{
+"admin_category_id": "1902016",
+"cate_1" : "DIY/공구",
+"cate_2" : "공구",
+"cate_3" : "수공구/절단도구"
+},{
+"admin_category_id": "1902017",
+"cate_1" : "DIY/공구",
+"cate_2" : "공구",
+"cate_3" : "수공구/절단도구"
+},{
+"admin_category_id": "1902018",
+"cate_1" : "DIY/공구",
+"cate_2" : "공구",
+"cate_3" : "수공구/절단도구"
+},{
+"admin_category_id": "1902019",
+"cate_1" : "DIY/공구",
+"cate_2" : "공구",
+"cate_3" : "수공구/절단도구"
+},{
+"admin_category_id": "1902020",
+"cate_1" : "DIY/공구",
+"cate_2" : "공구",
+"cate_3" : "수공구/절단도구"
+},{
+"admin_category_id": "1902021",
+"cate_1" : "DIY/공구",
+"cate_2" : "공구",
+"cate_3" : "수공구/절단도구"
+},{
+"admin_category_id": "1902023",
+"cate_1" : "DIY/공구",
+"cate_2" : "공구",
+"cate_3" : "전동공구"
+},{
+"admin_category_id": "1902024",
+"cate_1" : "DIY/공구",
+"cate_2" : "공구",
+"cate_3" : "전동공구"
+},{
+"admin_category_id": "1902025",
+"cate_1" : "DIY/공구",
+"cate_2" : "공구",
+"cate_3" : "전동공구"
+},{
+"admin_category_id": "1902026",
+"cate_1" : "DIY/공구",
+"cate_2" : "공구",
+"cate_3" : "전동공구"
+},{
+"admin_category_id": "1902028",
+"cate_1" : "DIY/공구",
+"cate_2" : "공구",
+"cate_3" : "측정/측량도구"
+},{
+"admin_category_id": "1902029",
+"cate_1" : "DIY/공구",
+"cate_2" : "공구",
+"cate_3" : "측정/측량도구"
+},{
+"admin_category_id": "1902030",
+"cate_1" : "DIY/공구",
+"cate_2" : "공구",
+"cate_3" : "측정/측량도구"
+},{
+"admin_category_id": "1902031",
+"cate_1" : "DIY/공구",
+"cate_2" : "공구",
+"cate_3" : "측정/측량도구"
+},{
+"admin_category_id": "1903001",
+"cate_1" : "DIY/공구",
+"cate_2" : "목재/시멘트/벽돌",
+"cate_3" : "기타건자재"
+},{
+"admin_category_id": "1903002",
+"cate_1" : "DIY/공구",
+"cate_2" : "목재/시멘트/벽돌",
+"cate_3" : "목재/패널"
+},{
+"admin_category_id": "1903003",
+"cate_1" : "DIY/공구",
+"cate_2" : "목재/시멘트/벽돌",
+"cate_3" : "벽돌"
+},{
+"admin_category_id": "1903004",
+"cate_1" : "DIY/공구",
+"cate_2" : "목재/시멘트/벽돌",
+"cate_3" : "시멘트/몰탈"
+},{
+"admin_category_id": "1904001",
+"cate_1" : "DIY/공구",
+"cate_2" : "방문/손잡이",
+"cate_3" : "기타손잡이부속"
+},{
+"admin_category_id": "1904002",
+"cate_1" : "DIY/공구",
+"cate_2" : "방문/손잡이",
+"cate_3" : "방문/현관손잡이"
+},{
+"admin_category_id": "1904004",
+"cate_1" : "DIY/공구",
+"cate_2" : "방문/손잡이",
+"cate_3" : "유리문손잡이"
+},{
+"admin_category_id": "1904006",
+"cate_1" : "DIY/공구",
+"cate_2" : "방문/손잡이",
+"cate_3" : "방문"
+},{
+"admin_category_id": "1904007",
+"cate_1" : "DIY/공구",
+"cate_2" : "방문/손잡이",
+"cate_3" : "유리문"
+},{
+"admin_category_id": "1905002",
+"cate_1" : "DIY/공구",
+"cate_2" : "벽지도배용품",
+"cate_3" : "도배용품"
+},{
+"admin_category_id": "1905003",
+"cate_1" : "DIY/공구",
+"cate_2" : "벽지도배용품",
+"cate_3" : "도배용품"
+},{
+"admin_category_id": "1905004",
+"cate_1" : "DIY/공구",
+"cate_2" : "벽지도배용품",
+"cate_3" : "도배용품"
+},{
+"admin_category_id": "1905005",
+"cate_1" : "DIY/공구",
+"cate_2" : "벽지도배용품",
+"cate_3" : "도배용품"
+},{
+"admin_category_id": "1905006",
+"cate_1" : "DIY/공구",
+"cate_2" : "벽지도배용품",
+"cate_3" : "도배용품"
+},{
+"admin_category_id": "1905007",
+"cate_1" : "DIY/공구",
+"cate_2" : "벽지도배용품",
+"cate_3" : "도배용품"
+},{
+"admin_category_id": "1905009",
+"cate_1" : "DIY/공구",
+"cate_2" : "벽지도배용품",
+"cate_3" : "벽지"
+},{
+"admin_category_id": "1905010",
+"cate_1" : "DIY/공구",
+"cate_2" : "벽지도배용품",
+"cate_3" : "벽지"
+},{
+"admin_category_id": "1905011",
+"cate_1" : "DIY/공구",
+"cate_2" : "벽지도배용품",
+"cate_3" : "벽지"
+},{
+"admin_category_id": "1905012",
+"cate_1" : "DIY/공구",
+"cate_2" : "벽지도배용품",
+"cate_3" : "벽지"
+},{
+"admin_category_id": "1905013",
+"cate_1" : "DIY/공구",
+"cate_2" : "벽지도배용품",
+"cate_3" : "벽지"
+},{
+"admin_category_id": "1905014",
+"cate_1" : "DIY/공구",
+"cate_2" : "벽지도배용품",
+"cate_3" : "벽지"
+},{
+"admin_category_id": "1905015",
+"cate_1" : "DIY/공구",
+"cate_2" : "벽지도배용품",
+"cate_3" : "벽지"
+},{
+"admin_category_id": "1906001",
+"cate_1" : "DIY/공구",
+"cate_2" : "시트지/필름지",
+"cate_3" : "바닥필름/시트지"
+},{
+"admin_category_id": "1906002",
+"cate_1" : "DIY/공구",
+"cate_2" : "시트지/필름지",
+"cate_3" : "방문/현관필름/시트지"
+},{
+"admin_category_id": "1906003",
+"cate_1" : "DIY/공구",
+"cate_2" : "시트지/필름지",
+"cate_3" : "일반필름/시트지"
+},{
+"admin_category_id": "1906004",
+"cate_1" : "DIY/공구",
+"cate_2" : "시트지/필름지",
+"cate_3" : "창문필름/시트지"
+},{
+"admin_category_id": "1906006",
+"cate_1" : "DIY/공구",
+"cate_2" : "시트지/필름지",
+"cate_3" : "특수필름/시트지"
+},{
+"admin_category_id": "1906007",
+"cate_1" : "DIY/공구",
+"cate_2" : "시트지/필름지",
+"cate_3" : "특수필름/시트지"
+},{
+"admin_category_id": "1906008",
+"cate_1" : "DIY/공구",
+"cate_2" : "시트지/필름지",
+"cate_3" : "특수필름/시트지"
+},{
+"admin_category_id": "1906009",
+"cate_1" : "DIY/공구",
+"cate_2" : "시트지/필름지",
+"cate_3" : "특수필름/시트지"
+},{
+"admin_category_id": "1907001",
+"cate_1" : "DIY/공구",
+"cate_2" : "장판/바닥재",
+"cate_3" : "걸레받이/몰딩"
+},{
+"admin_category_id": "1907002",
+"cate_1" : "DIY/공구",
+"cate_2" : "장판/바닥재",
+"cate_3" : "데코타일"
+},{
+"admin_category_id": "1907003",
+"cate_1" : "DIY/공구",
+"cate_2" : "장판/바닥재",
+"cate_3" : "마루/데크"
+},{
+"admin_category_id": "1907005",
+"cate_1" : "DIY/공구",
+"cate_2" : "장판/바닥재",
+"cate_3" : "매트/카페트"
+},{
+"admin_category_id": "1907006",
+"cate_1" : "DIY/공구",
+"cate_2" : "장판/바닥재",
+"cate_3" : "매트/카페트"
+},{
+"admin_category_id": "1907007",
+"cate_1" : "DIY/공구",
+"cate_2" : "장판/바닥재",
+"cate_3" : "매트/카페트"
+},{
+"admin_category_id": "1907008",
+"cate_1" : "DIY/공구",
+"cate_2" : "장판/바닥재",
+"cate_3" : "매트/카페트"
+},{
+"admin_category_id": "1907009",
+"cate_1" : "DIY/공구",
+"cate_2" : "장판/바닥재",
+"cate_3" : "매트/카페트"
+},{
+"admin_category_id": "1907010",
+"cate_1" : "DIY/공구",
+"cate_2" : "장판/바닥재",
+"cate_3" : "장판"
+},{
+"admin_category_id": "1907012",
+"cate_1" : "DIY/공구",
+"cate_2" : "장판/바닥재",
+"cate_3" : "장판/바닥재용품"
+},{
+"admin_category_id": "1907013",
+"cate_1" : "DIY/공구",
+"cate_2" : "장판/바닥재",
+"cate_3" : "장판/바닥재용품"
+},{
+"admin_category_id": "1907014",
+"cate_1" : "DIY/공구",
+"cate_2" : "장판/바닥재",
+"cate_3" : "장판/바닥재용품"
+},{
+"admin_category_id": "1908001",
+"cate_1" : "DIY/공구",
+"cate_2" : "접착제/보수용품",
+"cate_3" : "공업용테이프"
+},{
+"admin_category_id": "1908002",
+"cate_1" : "DIY/공구",
+"cate_2" : "접착제/보수용품",
+"cate_3" : "글루건/심"
+},{
+"admin_category_id": "1908003",
+"cate_1" : "DIY/공구",
+"cate_2" : "접착제/보수용품",
+"cate_3" : "기타접착제"
+},{
+"admin_category_id": "1908004",
+"cate_1" : "DIY/공구",
+"cate_2" : "접착제/보수용품",
+"cate_3" : "녹방지/윤활제"
+},{
+"admin_category_id": "1908005",
+"cate_1" : "DIY/공구",
+"cate_2" : "접착제/보수용품",
+"cate_3" : "박스테이프"
+},{
+"admin_category_id": "1908006",
+"cate_1" : "DIY/공구",
+"cate_2" : "접착제/보수용품",
+"cate_3" : "본드/접착제"
+},{
+"admin_category_id": "1908007",
+"cate_1" : "DIY/공구",
+"cate_2" : "접착제/보수용품",
+"cate_3" : "우드필러/스틱"
+},{
+"admin_category_id": "1908008",
+"cate_1" : "DIY/공구",
+"cate_2" : "접착제/보수용품",
+"cate_3" : "청테이프"
+},{
+"admin_category_id": "1908009",
+"cate_1" : "DIY/공구",
+"cate_2" : "접착제/보수용품",
+"cate_3" : "틈새메꿈이"
+},{
+"admin_category_id": "1908010",
+"cate_1" : "DIY/공구",
+"cate_2" : "접착제/보수용품",
+"cate_3" : "보수용품"
+},{
+"admin_category_id": "1909002",
+"cate_1" : "DIY/공구",
+"cate_2" : "페인트/부자재",
+"cate_3" : "페인트"
+},{
+"admin_category_id": "1909003",
+"cate_1" : "DIY/공구",
+"cate_2" : "페인트/부자재",
+"cate_3" : "페인트"
+},{
+"admin_category_id": "1909005",
+"cate_1" : "DIY/공구",
+"cate_2" : "페인트/부자재",
+"cate_3" : "페인트"
+},{
+"admin_category_id": "1909006",
+"cate_1" : "DIY/공구",
+"cate_2" : "페인트/부자재",
+"cate_3" : "페인트"
+},{
+"admin_category_id": "1909007",
+"cate_1" : "DIY/공구",
+"cate_2" : "페인트/부자재",
+"cate_3" : "페인트"
+},{
+"admin_category_id": "1909008",
+"cate_1" : "DIY/공구",
+"cate_2" : "페인트/부자재",
+"cate_3" : "페인트"
+},{
+"admin_category_id": "1909010",
+"cate_1" : "DIY/공구",
+"cate_2" : "페인트/부자재",
+"cate_3" : "페인트보조제"
+},{
+"admin_category_id": "1909011",
+"cate_1" : "DIY/공구",
+"cate_2" : "페인트/부자재",
+"cate_3" : "페인트보조제"
+},{
+"admin_category_id": "1909012",
+"cate_1" : "DIY/공구",
+"cate_2" : "페인트/부자재",
+"cate_3" : "페인트보조제"
+},{
+"admin_category_id": "1909013",
+"cate_1" : "DIY/공구",
+"cate_2" : "페인트/부자재",
+"cate_3" : "페인트보조제"
+},{
+"admin_category_id": "1909014",
+"cate_1" : "DIY/공구",
+"cate_2" : "페인트/부자재",
+"cate_3" : "페인트보조제"
+},{
+"admin_category_id": "1909016",
+"cate_1" : "DIY/공구",
+"cate_2" : "페인트/부자재",
+"cate_3" : "페인트용품"
+},{
+"admin_category_id": "1909017",
+"cate_1" : "DIY/공구",
+"cate_2" : "페인트/부자재",
+"cate_3" : "페인트용품"
+},{
+"admin_category_id": "1909018",
+"cate_1" : "DIY/공구",
+"cate_2" : "페인트/부자재",
+"cate_3" : "페인트용품"
+},{
+"admin_category_id": "1909019",
+"cate_1" : "DIY/공구",
+"cate_2" : "페인트/부자재",
+"cate_3" : "페인트용품"
+},{
+"admin_category_id": "1909020",
+"cate_1" : "DIY/공구",
+"cate_2" : "페인트/부자재",
+"cate_3" : "페인트용품"
+},{
+"admin_category_id": "1909021",
+"cate_1" : "DIY/공구",
+"cate_2" : "페인트/부자재",
+"cate_3" : "페인트용품"
+},{
+"admin_category_id": "1909022",
+"cate_1" : "DIY/공구",
+"cate_2" : "페인트/부자재",
+"cate_3" : "페인트용품"
+},{
+"admin_category_id": "1909023",
+"cate_1" : "DIY/공구",
+"cate_2" : "페인트/부자재",
+"cate_3" : "페인트용품"
+},{
+"admin_category_id": "1909024",
+"cate_1" : "DIY/공구",
+"cate_2" : "페인트/부자재",
+"cate_3" : "페인트용품"
+},{
+"admin_category_id": "1909025",
+"cate_1" : "DIY/공구",
+"cate_2" : "페인트/부자재",
+"cate_3" : "페인트용품"
+},{
+"admin_category_id": "1909026",
+"cate_1" : "DIY/공구",
+"cate_2" : "페인트/부자재",
+"cate_3" : "페인트용품"
+},{
+"admin_category_id": "1910001",
+"cate_1" : "DIY/공구",
+"cate_2" : "폼블럭/타일",
+"cate_3" : "타일"
+},{
+"admin_category_id": "1910003",
+"cate_1" : "DIY/공구",
+"cate_2" : "폼블럭/타일",
+"cate_3" : "타일시공용품"
+},{
+"admin_category_id": "1910004",
+"cate_1" : "DIY/공구",
+"cate_2" : "폼블럭/타일",
+"cate_3" : "타일시공용품"
+},{
+"admin_category_id": "1910005",
+"cate_1" : "DIY/공구",
+"cate_2" : "폼블럭/타일",
+"cate_3" : "타일시공용품"
+},{
+"admin_category_id": "1910006",
+"cate_1" : "DIY/공구",
+"cate_2" : "폼블럭/타일",
+"cate_3" : "타일시공용품"
+},{
+"admin_category_id": "1910007",
+"cate_1" : "DIY/공구",
+"cate_2" : "폼블럭/타일",
+"cate_3" : "타일시공용품"
+},{
+"admin_category_id": "1910008",
+"cate_1" : "DIY/공구",
+"cate_2" : "폼블럭/타일",
+"cate_3" : "타일시공용품"
+},{
+"admin_category_id": "1910009",
+"cate_1" : "DIY/공구",
+"cate_2" : "폼블럭/타일",
+"cate_3" : "타일시공용품"
+},{
+"admin_category_id": "1910010",
+"cate_1" : "DIY/공구",
+"cate_2" : "폼블럭/타일",
+"cate_3" : "파벽돌"
+},{
+"admin_category_id": "1910011",
+"cate_1" : "DIY/공구",
+"cate_2" : "폼블럭/타일",
+"cate_3" : "폼블럭/폼타일"
+},{
+"admin_category_id": "1911001",
+"cate_1" : "DIY/공구",
+"cate_2" : "전기용품",
+"cate_3" : "멀티탭"
+},{
+"admin_category_id": "1911002",
+"cate_1" : "DIY/공구",
+"cate_2" : "전기용품",
+"cate_3" : "스마트플러그"
+},{
+"admin_category_id": "1911003",
+"cate_1" : "DIY/공구",
+"cate_2" : "전기용품",
+"cate_3" : "릴선"
+},{
+"admin_category_id": "1911004",
+"cate_1" : "DIY/공구",
+"cate_2" : "전기용품",
+"cate_3" : "플러그/어댑터"
+},{
+"admin_category_id": "1911005",
+"cate_1" : "DIY/공구",
+"cate_2" : "전기용품",
+"cate_3" : "기타전기용품"
+},{
+"admin_category_id": "1911006",
+"cate_1" : "DIY/공구",
+"cate_2" : "전기용품",
+"cate_3" : "스위치"
+},{
+"admin_category_id": "1911007",
+"cate_1" : "DIY/공구",
+"cate_2" : "전기용품",
+"cate_3" : "스위치코드"
+},{
+"admin_category_id": "1911008",
+"cate_1" : "DIY/공구",
+"cate_2" : "전기용품",
+"cate_3" : "콘센트"
+},{
+"admin_category_id": "1912001",
+"cate_1" : "DIY/공구",
+"cate_2" : "도어락/인터폰",
+"cate_3" : "도어락"
+},{
+"admin_category_id": "1912003",
+"cate_1" : "DIY/공구",
+"cate_2" : "도어락/인터폰",
+"cate_3" : "인터폰/초인종"
+},{
+"admin_category_id": "1913002",
+"cate_1" : "DIY/공구",
+"cate_2" : "안전/방범용품",
+"cate_3" : "소화기/재난용품"
+},{
+"admin_category_id": "1913003",
+"cate_1" : "DIY/공구",
+"cate_2" : "안전/방범용품",
+"cate_3" : "소화기/재난용품"
+},{
+"admin_category_id": "1913004",
+"cate_1" : "DIY/공구",
+"cate_2" : "안전/방범용품",
+"cate_3" : "소화기/재난용품"
+},{
+"admin_category_id": "1913005",
+"cate_1" : "DIY/공구",
+"cate_2" : "안전/방범용품",
+"cate_3" : "소화기/재난용품"
+},{
+"admin_category_id": "1913006",
+"cate_1" : "DIY/공구",
+"cate_2" : "안전/방범용품",
+"cate_3" : "소화기/재난용품"
+},{
+"admin_category_id": "1913008",
+"cate_1" : "DIY/공구",
+"cate_2" : "안전/방범용품",
+"cate_3" : "안전가드/안전테이프"
+},{
+"admin_category_id": "1913009",
+"cate_1" : "DIY/공구",
+"cate_2" : "안전/방범용품",
+"cate_3" : "안전가드/안전테이프"
+},{
+"admin_category_id": "1913010",
+"cate_1" : "DIY/공구",
+"cate_2" : "안전/방범용품",
+"cate_3" : "안전가드/안전테이프"
+},{
+"admin_category_id": "1913011",
+"cate_1" : "DIY/공구",
+"cate_2" : "안전/방범용품",
+"cate_3" : "안전가드/안전테이프"
+},{
+"admin_category_id": "1913012",
+"cate_1" : "DIY/공구",
+"cate_2" : "안전/방범용품",
+"cate_3" : "안전가드/안전테이프"
+},{
+"admin_category_id": "1913014",
+"cate_1" : "DIY/공구",
+"cate_2" : "안전/방범용품",
+"cate_3" : "잠금고정/방범용품"
+},{
+"admin_category_id": "1913015",
+"cate_1" : "DIY/공구",
+"cate_2" : "안전/방범용품",
+"cate_3" : "잠금고정/방범용품"
+},{
+"admin_category_id": "1913016",
+"cate_1" : "DIY/공구",
+"cate_2" : "안전/방범용품",
+"cate_3" : "잠금고정/방범용품"
+},{
+"admin_category_id": "1913017",
+"cate_1" : "DIY/공구",
+"cate_2" : "안전/방범용품",
+"cate_3" : "잠금고정/방범용품"
+},{
+"admin_category_id": "1913018",
+"cate_1" : "DIY/공구",
+"cate_2" : "안전/방범용품",
+"cate_3" : "잠금고정/방범용품"
+},{
+"admin_category_id": "1913019",
+"cate_1" : "DIY/공구",
+"cate_2" : "안전/방범용품",
+"cate_3" : "잠금고정/방범용품"
+},{
+"admin_category_id": "1913020",
+"cate_1" : "DIY/공구",
+"cate_2" : "안전/방범용품",
+"cate_3" : "잠금고정/방범용품"
+},{
+"admin_category_id": "1914001",
+"cate_1" : "DIY/공구",
+"cate_2" : "건전지/배터리",
+"cate_3" : "건전지충전기"
+},{
+"admin_category_id": "1914002",
+"cate_1" : "DIY/공구",
+"cate_2" : "건전지/배터리",
+"cate_3" : "멀티배터리/대형배터리"
+},{
+"admin_category_id": "1914003",
+"cate_1" : "DIY/공구",
+"cate_2" : "건전지/배터리",
+"cate_3" : "일반건전지"
+},{
+"admin_category_id": "1914004",
+"cate_1" : "DIY/공구",
+"cate_2" : "건전지/배터리",
+"cate_3" : "점프스타터"
+},{
+"admin_category_id": "1914006",
+"cate_1" : "DIY/공구",
+"cate_2" : "건전지/배터리",
+"cate_3" : "충전지"
+},{
+"admin_category_id": "1914007",
+"cate_1" : "DIY/공구",
+"cate_2" : "건전지/배터리",
+"cate_3" : "코인건전지"
+},{
+"admin_category_id": "1914008",
+"cate_1" : "DIY/공구",
+"cate_2" : "건전지/배터리",
+"cate_3" : "특수건전지(C,D,V형)"
+},{
+"admin_category_id": "1915001",
+"cate_1" : "DIY/공구",
+"cate_2" : "수전/변기용품",
+"cate_3" : "세면대/세면기"
+},{
+"admin_category_id": "1915002",
+"cate_1" : "DIY/공구",
+"cate_2" : "수전/변기용품",
+"cate_3" : "세면대부속품"
+},{
+"admin_category_id": "1915004",
+"cate_1" : "DIY/공구",
+"cate_2" : "수전/변기용품",
+"cate_3" : "수도꼭지필터"
+},{
+"admin_category_id": "1915005",
+"cate_1" : "DIY/공구",
+"cate_2" : "수전/변기용품",
+"cate_3" : "양변기"
+},{
+"admin_category_id": "1915006",
+"cate_1" : "DIY/공구",
+"cate_2" : "수전/변기용품",
+"cate_3" : "양변기부속"
+},{
+"admin_category_id": "1915007",
+"cate_1" : "DIY/공구",
+"cate_2" : "수전/변기용품",
+"cate_3" : "주방수전"
+},{
+"admin_category_id": "1915008",
+"cate_1" : "DIY/공구",
+"cate_2" : "수전/변기용품",
+"cate_3" : "욕실샤워수전"
+}]}
