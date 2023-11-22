@@ -1,0 +1,1524 @@
+{
+"data": [
+{
+"basis_tag": "#20평대",
+"recomm_tag_1": "#수납의달인",
+"recomm_tag_2": "#혼자사는법"
+},
+{
+"basis_tag": "#3D인테리어",
+"recomm_tag_1": "#오홈스토랑",
+"recomm_tag_2": "#식집사성장기"
+},
+{
+"basis_tag": "#3d인테리어",
+"recomm_tag_1": "#오홈스토랑",
+"recomm_tag_2": "#수납의달인"
+},
+{
+"basis_tag": "#가을캠핑",
+"recomm_tag_1": "#혼자사는법",
+"recomm_tag_2": "#예쁜템최고야"
+},
+{
+"basis_tag": "#가을피크닉",
+"recomm_tag_1": "#식집사성장기",
+"recomm_tag_2": "#오늘뭐하집"
+},
+{
+"basis_tag": "#간단요리",
+"recomm_tag_1": "#수납의달인",
+"recomm_tag_2": "#예쁜템최고야"
+},
+{
+"basis_tag": "#감성인테리어",
+"recomm_tag_1": "#수납의달인",
+"recomm_tag_2": "#혼자사는법"
+},
+{
+"basis_tag": "#감성캠핑",
+"recomm_tag_1": "#예쁜템최고야",
+"recomm_tag_2": "#오늘뭐하집"
+},
+{
+"basis_tag": "#감성펫테리어",
+"recomm_tag_1": "#혼자사는법",
+"recomm_tag_2": "#예쁜템최고야"
+},
+{
+"basis_tag": "#강마루",
+"recomm_tag_1": "#혼자사는법",
+"recomm_tag_2": "#오홈스토랑"
+},
+{
+"basis_tag": "#거실",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#수납의달인"
+},
+{
+"basis_tag": "#거실꾸미기",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#예쁜템최고야"
+},
+{
+"basis_tag": "#거실매트",
+"recomm_tag_1": "#수납의달인",
+"recomm_tag_2": "#혼자사는법"
+},
+{
+"basis_tag": "#거실인테리어",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#예쁜템최고야"
+},
+{
+"basis_tag": "#거실조명",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#수납의달인"
+},
+{
+"basis_tag": "#거실천장",
+"recomm_tag_1": "#수납의달인",
+"recomm_tag_2": "#혼자사는법"
+},
+{
+"basis_tag": "#거실테이블",
+"recomm_tag_1": "#예쁜템최고야",
+"recomm_tag_2": "#수납의달인"
+},
+{
+"basis_tag": "#게이밍의자",
+"recomm_tag_1": "#수납의달인",
+"recomm_tag_2": "#혼자사는법"
+},
+{
+"basis_tag": "#고시원",
+"recomm_tag_1": "#혼자사는법",
+"recomm_tag_2": "#예쁜템최고야"
+},
+{
+"basis_tag": "#고시텔",
+"recomm_tag_1": "#수납의달인",
+"recomm_tag_2": "#혼자사는법"
+},
+{
+"basis_tag": "#고양이",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#수납의달인"
+},
+{
+"basis_tag": "#그레이인테리어",
+"recomm_tag_1": "#수납의달인",
+"recomm_tag_2": "#혼자사는법"
+},
+{
+"basis_tag": "#그릇",
+"recomm_tag_1": "#오홈스토랑",
+"recomm_tag_2": "#예쁜템최고야"
+},
+{
+"basis_tag": "#그린인테리어",
+"recomm_tag_1": "#수납의달인",
+"recomm_tag_2": "#혼자사는법"
+},
+{
+"basis_tag": "#꽃",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#예쁜템최고야"
+},
+{
+"basis_tag": "#꽃정기구독",
+"recomm_tag_1": "#수납의달인",
+"recomm_tag_2": "#혼자사는법"
+},
+{
+"basis_tag": "#나그참파",
+"recomm_tag_1": "#수납의달인",
+"recomm_tag_2": "#혼자사는법"
+},
+{
+"basis_tag": "#내돈내산",
+"recomm_tag_1": "#예쁜템최고야",
+"recomm_tag_2": "#수납의달인"
+},
+{
+"basis_tag": "#내돈주고사기싫어",
+"recomm_tag_1": "#예쁜템최고야",
+"recomm_tag_2": "#수납의달인"
+},
+{
+"basis_tag": "#내추럴",
+"recomm_tag_1": "#오홈스토랑",
+"recomm_tag_2": "#식집사성장기"
+},
+{
+"basis_tag": "#냥테리어",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#수납의달인"
+},
+{
+"basis_tag": "#노르딕네스트",
+"recomm_tag_1": "#수납의달인",
+"recomm_tag_2": "#혼자사는법"
+},
+{
+"basis_tag": "#놀개기타프",
+"recomm_tag_1": "#오홈스토랑",
+"recomm_tag_2": "#수납의달인"
+},
+{
+"basis_tag": "#다이닝룸",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#오홈스토랑"
+},
+{
+"basis_tag": "#다이소꿀템",
+"recomm_tag_1": "#수납의달인",
+"recomm_tag_2": "#혼자사는법"
+},
+{
+"basis_tag": "#다이소자석후크",
+"recomm_tag_1": "#수납의달인",
+"recomm_tag_2": "#혼자사는법"
+},
+{
+"basis_tag": "#다이소추천템",
+"recomm_tag_1": "#수납의달인",
+"recomm_tag_2": "#혼자사는법"
+},
+{
+"basis_tag": "#데스커",
+"recomm_tag_1": "#혼자사는법",
+"recomm_tag_2": "#오홈스토랑"
+},
+{
+"basis_tag": "#데스크소품",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#예쁜템최고야"
+},
+{
+"basis_tag": "#데스크테리어",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#예쁜템최고야"
+},
+{
+"basis_tag": "#덴스",
+"recomm_tag_1": "#오홈스토랑",
+"recomm_tag_2": "#식집사성장기"
+},
+{
+"basis_tag": "#도촌동",
+"recomm_tag_1": "#혼자사는법",
+"recomm_tag_2": "#오홈스토랑"
+},
+{
+"basis_tag": "#도촌동인테리어",
+"recomm_tag_1": "#오홈스토랑",
+"recomm_tag_2": "#수납의달인"
+},
+{
+"basis_tag": "#둘째아들방",
+"recomm_tag_1": "#수납의달인",
+"recomm_tag_2": "#혼자사는법"
+},
+{
+"basis_tag": "#드레스룸",
+"recomm_tag_1": "#식집사성장기",
+"recomm_tag_2": "#수납의달인"
+},
+{
+"basis_tag": "#드레스룸인테리어",
+"recomm_tag_1": "#수납의달인",
+"recomm_tag_2": "#혼자사는법"
+},
+{
+"basis_tag": "#떼어내는페인트",
+"recomm_tag_1": "#수납의달인",
+"recomm_tag_2": "#혼자사는법"
+},
+{
+"basis_tag": "#라이헨바흐",
+"recomm_tag_1": "#오홈스토랑",
+"recomm_tag_2": "#식집사성장기"
+},
+{
+"basis_tag": "#러그",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#예쁜템최고야"
+},
+{
+"basis_tag": "#레시피",
+"recomm_tag_1": "#수납의달인",
+"recomm_tag_2": "#오늘뭐하집"
+},
+{
+"basis_tag": "#리모델링",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#예쁜템최고야"
+},
+{
+"basis_tag": "#매일기록챌린지",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#수납의달인"
+},
+{
+"basis_tag": "#모던",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#예쁜템최고야"
+},
+{
+"basis_tag": "#모던인테리어",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#예쁜템최고야"
+},
+{
+"basis_tag": "#모듈가구",
+"recomm_tag_1": "#예쁜템최고야",
+"recomm_tag_2": "#오홈스토랑"
+},
+{
+"basis_tag": "#몰딩",
+"recomm_tag_1": "#수납의달인",
+"recomm_tag_2": "#혼자사는법"
+},
+{
+"basis_tag": "#몰딩인테리어",
+"recomm_tag_1": "#수납의달인",
+"recomm_tag_2": "#혼자사는법"
+},
+{
+"basis_tag": "#몰딩페인트",
+"recomm_tag_1": "#오홈스토랑",
+"recomm_tag_2": "#수납의달인"
+},
+{
+"basis_tag": "#무인양품",
+"recomm_tag_1": "#수납의달인",
+"recomm_tag_2": "#식집사성장기"
+},
+{
+"basis_tag": "#미니멀",
+"recomm_tag_1": "#혼자사는법",
+"recomm_tag_2": "#오홈스토랑"
+},
+{
+"basis_tag": "#미니멀라이프",
+"recomm_tag_1": "#수납의달인",
+"recomm_tag_2": "#예쁜템최고야"
+},
+{
+"basis_tag": "#미니멀인테리어",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#예쁜템최고야"
+},
+{
+"basis_tag": "#미니멀주방",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#오홈스토랑"
+},
+{
+"basis_tag": "#미드센츄리",
+"recomm_tag_1": "#오홈스토랑",
+"recomm_tag_2": "#식집사성장기"
+},
+{
+"basis_tag": "#미드센츄리모던",
+"recomm_tag_1": "#오홈스토랑",
+"recomm_tag_2": "#수납의달인"
+},
+{
+"basis_tag": "#미키램프",
+"recomm_tag_1": "#수납의달인",
+"recomm_tag_2": "#혼자사는법"
+},
+{
+"basis_tag": "#반려동물",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#혼자사는법"
+},
+{
+"basis_tag": "#반려묘",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#수납의달인"
+},
+{
+"basis_tag": "#반려식물",
+"recomm_tag_1": "#식집사성장기",
+"recomm_tag_2": "#예쁜템최고야"
+},
+{
+"basis_tag": "#방꾸미기",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#예쁜템최고야"
+},
+{
+"basis_tag": "#베란다",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#오홈스토랑"
+},
+{
+"basis_tag": "#베란다꾸미기",
+"recomm_tag_1": "#예쁜템최고야",
+"recomm_tag_2": "#혼자사는법"
+},
+{
+"basis_tag": "#베란다인테리어",
+"recomm_tag_1": "#수납의달인",
+"recomm_tag_2": "#혼자사는법"
+},
+{
+"basis_tag": "#베스트매치",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#예쁜템최고야"
+},
+{
+"basis_tag": "#벽꾸미기",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#예쁜템최고야"
+},
+{
+"basis_tag": "#벽선반",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#수납의달인"
+},
+{
+"basis_tag": "#복층",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#혼자사는법"
+},
+{
+"basis_tag": "#복층오피스텔",
+"recomm_tag_1": "#오홈스토랑",
+"recomm_tag_2": "#식집사성장기"
+},
+{
+"basis_tag": "#복층인테리어",
+"recomm_tag_1": "#수납의달인",
+"recomm_tag_2": "#혼자사는법"
+},
+{
+"basis_tag": "#블루투스이어폰",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#수납의달인"
+},
+{
+"basis_tag": "#빈티지",
+"recomm_tag_1": "#예쁜템최고야",
+"recomm_tag_2": "#오늘뭐하집"
+},
+{
+"basis_tag": "#빈티지인테리어",
+"recomm_tag_1": "#예쁜템최고야",
+"recomm_tag_2": "#오늘뭐하집"
+},
+{
+"basis_tag": "#빔프로젝터",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#수납의달인"
+},
+{
+"basis_tag": "#사선테이프클리너",
+"recomm_tag_1": "#수납의달인",
+"recomm_tag_2": "#혼자사는법"
+},
+{
+"basis_tag": "#살림꿀팁",
+"recomm_tag_1": "#수납의달인",
+"recomm_tag_2": "#예쁜템최고야"
+},
+{
+"basis_tag": "#살림수납",
+"recomm_tag_1": "#수납의달인",
+"recomm_tag_2": "#혼자사는법"
+},
+{
+"basis_tag": "#살림정보",
+"recomm_tag_1": "#수납의달인",
+"recomm_tag_2": "#혼자사는법"
+},
+{
+"basis_tag": "#살림템",
+"recomm_tag_1": "#수납의달인",
+"recomm_tag_2": "#혼자사는법"
+},
+{
+"basis_tag": "#살림팁",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#수납의달인"
+},
+{
+"basis_tag": "#서재",
+"recomm_tag_1": "#예쁜템최고야",
+"recomm_tag_2": "#오홈스토랑"
+},
+{
+"basis_tag": "#서재인테리어",
+"recomm_tag_1": "#예쁜템최고야",
+"recomm_tag_2": "#오늘뭐하집"
+},
+{
+"basis_tag": "#선반",
+"recomm_tag_1": "#오홈스토랑",
+"recomm_tag_2": "#예쁜템최고야"
+},
+{
+"basis_tag": "#셀프인테리어",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#예쁜템최고야"
+},
+{
+"basis_tag": "#셀프페인트",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#식집사성장기"
+},
+{
+"basis_tag": "#셀프페인트칠",
+"recomm_tag_1": "#수납의달인",
+"recomm_tag_2": "#혼자사는법"
+},
+{
+"basis_tag": "#셀프페인팅",
+"recomm_tag_1": "#예쁜템최고야",
+"recomm_tag_2": "#오늘뭐하집"
+},
+{
+"basis_tag": "#소파",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#오홈스토랑"
+},
+{
+"basis_tag": "#소품",
+"recomm_tag_1": "#오홈스토랑",
+"recomm_tag_2": "#예쁜템최고야"
+},
+{
+"basis_tag": "#수납의달인",
+"recomm_tag_1": "#예쁜템최고야",
+"recomm_tag_2": "#오늘뭐하집"
+},
+{
+"basis_tag": "#수납장",
+"recomm_tag_1": "#예쁜템최고야",
+"recomm_tag_2": "#수납의달인"
+},
+{
+"basis_tag": "#수상한수건",
+"recomm_tag_1": "#수납의달인",
+"recomm_tag_2": "#혼자사는법"
+},
+{
+"basis_tag": "#수성페인트",
+"recomm_tag_1": "#수납의달인",
+"recomm_tag_2": "#혼자사는법"
+},
+{
+"basis_tag": "#숨은오늘찾기",
+"recomm_tag_1": "#예쁜템최고야",
+"recomm_tag_2": "#수납의달인"
+},
+{
+"basis_tag": "#스타일링샷",
+"recomm_tag_1": "#수납의달인",
+"recomm_tag_2": "#혼자사는법"
+},
+{
+"basis_tag": "#식물인테리어",
+"recomm_tag_1": "#식집사성장기",
+"recomm_tag_2": "#수납의달인"
+},
+{
+"basis_tag": "#식물집사",
+"recomm_tag_1": "#식집사성장기",
+"recomm_tag_2": "#예쁜템최고야"
+},
+{
+"basis_tag": "#식물키우기",
+"recomm_tag_1": "#혼자사는법",
+"recomm_tag_2": "#예쁜템최고야"
+},
+{
+"basis_tag": "#식집사",
+"recomm_tag_1": "#오홈스토랑",
+"recomm_tag_2": "#혼자사는법"
+},
+{
+"basis_tag": "#식집사성장기",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#예쁜템최고야"
+},
+{
+"basis_tag": "#식탁",
+"recomm_tag_1": "#수납의달인",
+"recomm_tag_2": "#혼자사는법"
+},
+{
+"basis_tag": "#신혼부부",
+"recomm_tag_1": "#예쁜템최고야",
+"recomm_tag_2": "#혼자사는법"
+},
+{
+"basis_tag": "#신혼집",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#수납의달인"
+},
+{
+"basis_tag": "#신혼집인테리어",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#오홈스토랑"
+},
+{
+"basis_tag": "#실링팬",
+"recomm_tag_1": "#수납의달인",
+"recomm_tag_2": "#혼자사는법"
+},
+{
+"basis_tag": "#싱글침대",
+"recomm_tag_1": "#수납의달인",
+"recomm_tag_2": "#혼자사는법"
+},
+{
+"basis_tag": "#아기가사는집",
+"recomm_tag_1": "#오홈스토랑",
+"recomm_tag_2": "#식집사성장기"
+},
+{
+"basis_tag": "#아기방",
+"recomm_tag_1": "#식집사성장기",
+"recomm_tag_2": "#예쁜템최고야"
+},
+{
+"basis_tag": "#아이가있는집",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#수납의달인"
+},
+{
+"basis_tag": "#아이방",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#예쁜템최고야"
+},
+{
+"basis_tag": "#아이방꾸미기",
+"recomm_tag_1": "#예쁜템최고야",
+"recomm_tag_2": "#오늘뭐하집"
+},
+{
+"basis_tag": "#아이방소품",
+"recomm_tag_1": "#예쁜템최고야",
+"recomm_tag_2": "#오늘뭐하집"
+},
+{
+"basis_tag": "#아이방인테리어",
+"recomm_tag_1": "#예쁜템최고야",
+"recomm_tag_2": "#오늘뭐하집"
+},
+{
+"basis_tag": "#아이와함께",
+"recomm_tag_1": "#오홈스토랑",
+"recomm_tag_2": "#식집사성장기"
+},
+{
+"basis_tag": "#아치게이트",
+"recomm_tag_1": "#오홈스토랑",
+"recomm_tag_2": "#수납의달인"
+},
+{
+"basis_tag": "#아파트",
+"recomm_tag_1": "#혼자사는법",
+"recomm_tag_2": "#수납의달인"
+},
+{
+"basis_tag": "#아파트리모델링",
+"recomm_tag_1": "#수납의달인",
+"recomm_tag_2": "#혼자사는법"
+},
+{
+"basis_tag": "#아파트인테리어",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#예쁜템최고야"
+},
+{
+"basis_tag": "#안방",
+"recomm_tag_1": "#예쁜템최고야",
+"recomm_tag_2": "#오늘뭐하집"
+},
+{
+"basis_tag": "#액자",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#예쁜템최고야"
+},
+{
+"basis_tag": "#액자리폼",
+"recomm_tag_1": "#예쁜템최고야",
+"recomm_tag_2": "#오늘뭐하집"
+},
+{
+"basis_tag": "#여행",
+"recomm_tag_1": "#오홈스토랑",
+"recomm_tag_2": "#수납의달인"
+},
+{
+"basis_tag": "#예쁜주방아이템",
+"recomm_tag_1": "#예쁜템최고야",
+"recomm_tag_2": "#수납의달인"
+},
+{
+"basis_tag": "#예쁜템최고야",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#수납의달인"
+},
+{
+"basis_tag": "#옐로우앤화이트",
+"recomm_tag_1": "#오홈스토랑",
+"recomm_tag_2": "#식집사성장기"
+},
+{
+"basis_tag": "#오남친",
+"recomm_tag_1": "#혼자사는법",
+"recomm_tag_2": "#예쁜템최고야"
+},
+{
+"basis_tag": "#오남친꽃",
+"recomm_tag_1": "#식집사성장기",
+"recomm_tag_2": "#오홈스토랑"
+},
+{
+"basis_tag": "#오늘머하집",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#수납의달인"
+},
+{
+"basis_tag": "#오늘뭐하집",
+"recomm_tag_1": "#오홈스토랑",
+"recomm_tag_2": "#예쁜템최고야"
+},
+{
+"basis_tag": "#오늘뭐하집기록",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#수납의달인"
+},
+{
+"basis_tag": "#오늘뭐하집챌린지",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#오홈스토랑"
+},
+{
+"basis_tag": "#오늘의기록",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#예쁜템최고야"
+},
+{
+"basis_tag": "#오늘의기록챌린지",
+"recomm_tag_1": "#수납의달인",
+"recomm_tag_2": "#혼자사는법"
+},
+{
+"basis_tag": "#오늘의냠냠",
+"recomm_tag_1": "#혼자사는법",
+"recomm_tag_2": "#예쁜템최고야"
+},
+{
+"basis_tag": "#오늘의발견",
+"recomm_tag_1": "#오홈스토랑",
+"recomm_tag_2": "#식집사성장기"
+},
+{
+"basis_tag": "#오늘의식탁",
+"recomm_tag_1": "#예쁜템최고야",
+"recomm_tag_2": "#오늘뭐하집"
+},
+{
+"basis_tag": "#오늘의우리집",
+"recomm_tag_1": "#예쁜템최고야",
+"recomm_tag_2": "#오늘뭐하집"
+},
+{
+"basis_tag": "#오늘의우리집콘테스트",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#수납의달인"
+},
+{
+"basis_tag": "#오늘의집",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#오홈스토랑"
+},
+{
+"basis_tag": "#오늘의집역대베스트",
+"recomm_tag_1": "#식집사성장기",
+"recomm_tag_2": "#오늘뭐하집"
+},
+{
+"basis_tag": "#오늘의집큐레이터",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#수납의달인"
+},
+{
+"basis_tag": "#오라이프",
+"recomm_tag_1": "#오홈스토랑",
+"recomm_tag_2": "#예쁜템최고야"
+},
+{
+"basis_tag": "#오라이프추천",
+"recomm_tag_1": "#예쁜템최고야",
+"recomm_tag_2": "#수납의달인"
+},
+{
+"basis_tag": "#오리뷰어",
+"recomm_tag_1": "#수납의달인",
+"recomm_tag_2": "#혼자사는법"
+},
+{
+"basis_tag": "#오스타일북",
+"recomm_tag_1": "#수납의달인",
+"recomm_tag_2": "#혼자사는법"
+},
+{
+"basis_tag": "#오집잇템",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#수납의달인"
+},
+{
+"basis_tag": "#오픈갤러리",
+"recomm_tag_1": "#수납의달인",
+"recomm_tag_2": "#혼자사는법"
+},
+{
+"basis_tag": "#오피스텔",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#혼자사는법"
+},
+{
+"basis_tag": "#오하우스",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#오홈스토랑"
+},
+{
+"basis_tag": "#오하우스9",
+"recomm_tag_1": "#수납의달인",
+"recomm_tag_2": "#혼자사는법"
+},
+{
+"basis_tag": "#오하우스시즌5멤버소개",
+"recomm_tag_1": "#수납의달인",
+"recomm_tag_2": "#혼자사는법"
+},
+{
+"basis_tag": "#오하우스시즌9",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#예쁜템최고야"
+},
+{
+"basis_tag": "#오하우스시즌9멤버소개",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#예쁜템최고야"
+},
+{
+"basis_tag": "#오하우스시즌9자기소개",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#수납의달인"
+},
+{
+"basis_tag": "#오하우스픽",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#예쁜템최고야"
+},
+{
+"basis_tag": "#오홈스토랑",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#예쁜템최고야"
+},
+{
+"basis_tag": "#온더테이블",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#예쁜템최고야"
+},
+{
+"basis_tag": "#옷방인테리어",
+"recomm_tag_1": "#수납의달인",
+"recomm_tag_2": "#혼자사는법"
+},
+{
+"basis_tag": "#욕실인테리어",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#예쁜템최고야"
+},
+{
+"basis_tag": "#우드",
+"recomm_tag_1": "#식집사성장기",
+"recomm_tag_2": "#오홈스토랑"
+},
+{
+"basis_tag": "#우드앤화이트인테리어",
+"recomm_tag_1": "#혼자사는법",
+"recomm_tag_2": "#오홈스토랑"
+},
+{
+"basis_tag": "#우드인테리어",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#예쁜템최고야"
+},
+{
+"basis_tag": "#울산더조은창",
+"recomm_tag_1": "#식집사성장기",
+"recomm_tag_2": "#오홈스토랑"
+},
+{
+"basis_tag": "#워셔블방수러그거실사계절카페트",
+"recomm_tag_1": "#혼자사는법",
+"recomm_tag_2": "#수납의달인"
+},
+{
+"basis_tag": "#원두",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#예쁜템최고야"
+},
+{
+"basis_tag": "#원룸",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#혼자사는법"
+},
+{
+"basis_tag": "#원룸꾸미기",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#식집사성장기"
+},
+{
+"basis_tag": "#원룸인테리어",
+"recomm_tag_1": "#혼자사는법",
+"recomm_tag_2": "#예쁜템최고야"
+},
+{
+"basis_tag": "#원목루버하부장",
+"recomm_tag_1": "#오홈스토랑",
+"recomm_tag_2": "#수납의달인"
+},
+{
+"basis_tag": "#원형테이블",
+"recomm_tag_1": "#오홈스토랑",
+"recomm_tag_2": "#예쁜템최고야"
+},
+{
+"basis_tag": "#육아",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#수납의달인"
+},
+{
+"basis_tag": "#육아일상",
+"recomm_tag_1": "#수납의달인",
+"recomm_tag_2": "#예쁜템최고야"
+},
+{
+"basis_tag": "#의자",
+"recomm_tag_1": "#오홈스토랑",
+"recomm_tag_2": "#예쁜템최고야"
+},
+{
+"basis_tag": "#이불빨래",
+"recomm_tag_1": "#식집사성장기",
+"recomm_tag_2": "#수납의달인"
+},
+{
+"basis_tag": "#이불추천",
+"recomm_tag_1": "#수납의달인",
+"recomm_tag_2": "#혼자사는법"
+},
+{
+"basis_tag": "#이케아",
+"recomm_tag_1": "#예쁜템최고야",
+"recomm_tag_2": "#수납의달인"
+},
+{
+"basis_tag": "#인테리어소품",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#예쁜템최고야"
+},
+{
+"basis_tag": "#인테리어포스터",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#예쁜템최고야"
+},
+{
+"basis_tag": "#일러스트액자",
+"recomm_tag_1": "#혼자사는법",
+"recomm_tag_2": "#예쁜템최고야"
+},
+{
+"basis_tag": "#자취방",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#혼자사는법"
+},
+{
+"basis_tag": "#자취방꾸미기",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#예쁜템최고야"
+},
+{
+"basis_tag": "#자취방인테리어",
+"recomm_tag_1": "#수납의달인",
+"recomm_tag_2": "#오홈스토랑"
+},
+{
+"basis_tag": "#자취요리",
+"recomm_tag_1": "#혼자사는법",
+"recomm_tag_2": "#예쁜템최고야"
+},
+{
+"basis_tag": "#자취인테리어",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#예쁜템최고야"
+},
+{
+"basis_tag": "#작업실",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#예쁜템최고야"
+},
+{
+"basis_tag": "#잘산템",
+"recomm_tag_1": "#예쁜템최고야",
+"recomm_tag_2": "#혼자사는법"
+},
+{
+"basis_tag": "#잼민이방",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#수납의달인"
+},
+{
+"basis_tag": "#접시",
+"recomm_tag_1": "#수납의달인",
+"recomm_tag_2": "#예쁜템최고야"
+},
+{
+"basis_tag": "#정리정돈",
+"recomm_tag_1": "#수납의달인",
+"recomm_tag_2": "#혼자사는법"
+},
+{
+"basis_tag": "#정원",
+"recomm_tag_1": "#오홈스토랑",
+"recomm_tag_2": "#수납의달인"
+},
+{
+"basis_tag": "#제품협찬",
+"recomm_tag_1": "#수납의달인",
+"recomm_tag_2": "#혼자사는법"
+},
+{
+"basis_tag": "#조명",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#오홈스토랑"
+},
+{
+"basis_tag": "#조명인테리어",
+"recomm_tag_1": "#예쁜템최고야",
+"recomm_tag_2": "#오늘뭐하집"
+},
+{
+"basis_tag": "#주방",
+"recomm_tag_1": "#오홈스토랑",
+"recomm_tag_2": "#예쁜템최고야"
+},
+{
+"basis_tag": "#주방꾸미기",
+"recomm_tag_1": "#혼자사는법",
+"recomm_tag_2": "#수납의달인"
+},
+{
+"basis_tag": "#주방수납",
+"recomm_tag_1": "#수납의달인",
+"recomm_tag_2": "#혼자사는법"
+},
+{
+"basis_tag": "#주방아이템",
+"recomm_tag_1": "#예쁜템최고야",
+"recomm_tag_2": "#수납의달인"
+},
+{
+"basis_tag": "#주방용품",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#오홈스토랑"
+},
+{
+"basis_tag": "#주방인테리어",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#예쁜템최고야"
+},
+{
+"basis_tag": "#주방정리",
+"recomm_tag_1": "#수납의달인",
+"recomm_tag_2": "#예쁜템최고야"
+},
+{
+"basis_tag": "#지니츄",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#예쁜템최고야"
+},
+{
+"basis_tag": "#집꾸미기",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#예쁜템최고야"
+},
+{
+"basis_tag": "#집들이선물",
+"recomm_tag_1": "#예쁜템최고야",
+"recomm_tag_2": "#혼자사는법"
+},
+{
+"basis_tag": "#집들이선물추천",
+"recomm_tag_1": "#예쁜템최고야",
+"recomm_tag_2": "#수납의달인"
+},
+{
+"basis_tag": "#집밥",
+"recomm_tag_1": "#오홈스토랑",
+"recomm_tag_2": "#오늘뭐하집"
+},
+{
+"basis_tag": "#집순이",
+"recomm_tag_1": "#혼자사는법",
+"recomm_tag_2": "#수납의달인"
+},
+{
+"basis_tag": "#집주인",
+"recomm_tag_1": "#혼자사는법",
+"recomm_tag_2": "#수납의달인"
+},
+{
+"basis_tag": "#책상",
+"recomm_tag_1": "#예쁜템최고야",
+"recomm_tag_2": "#오늘뭐하집"
+},
+{
+"basis_tag": "#책상꾸미기",
+"recomm_tag_1": "#예쁜템최고야",
+"recomm_tag_2": "#오늘뭐하집"
+},
+{
+"basis_tag": "#책장",
+"recomm_tag_1": "#수납의달인",
+"recomm_tag_2": "#예쁜템최고야"
+},
+{
+"basis_tag": "#청소꿀팁",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#오홈스토랑"
+},
+{
+"basis_tag": "#체크인",
+"recomm_tag_1": "#예쁜템최고야",
+"recomm_tag_2": "#오늘뭐하집"
+},
+{
+"basis_tag": "#초등학생방",
+"recomm_tag_1": "#수납의달인",
+"recomm_tag_2": "#혼자사는법"
+},
+{
+"basis_tag": "#초등학생방꾸미기",
+"recomm_tag_1": "#예쁜템최고야",
+"recomm_tag_2": "#수납의달인"
+},
+{
+"basis_tag": "#취미일상",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#수납의달인"
+},
+{
+"basis_tag": "#친환경페인트",
+"recomm_tag_1": "#수납의달인",
+"recomm_tag_2": "#혼자사는법"
+},
+{
+"basis_tag": "#침구",
+"recomm_tag_1": "#예쁜템최고야",
+"recomm_tag_2": "#오홈스토랑"
+},
+{
+"basis_tag": "#침구빨래",
+"recomm_tag_1": "#수납의달인",
+"recomm_tag_2": "#혼자사는법"
+},
+{
+"basis_tag": "#침구세탁",
+"recomm_tag_1": "#예쁜템최고야",
+"recomm_tag_2": "#식집사성장기"
+},
+{
+"basis_tag": "#침구세트",
+"recomm_tag_1": "#수납의달인",
+"recomm_tag_2": "#혼자사는법"
+},
+{
+"basis_tag": "#침구추천",
+"recomm_tag_1": "#식집사성장기",
+"recomm_tag_2": "#수납의달인"
+},
+{
+"basis_tag": "#침대",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#예쁜템최고야"
+},
+{
+"basis_tag": "#침실",
+"recomm_tag_1": "#예쁜템최고야",
+"recomm_tag_2": "#오홈스토랑"
+},
+{
+"basis_tag": "#침실가구",
+"recomm_tag_1": "#수납의달인",
+"recomm_tag_2": "#혼자사는법"
+},
+{
+"basis_tag": "#침실꾸미기",
+"recomm_tag_1": "#예쁜템최고야",
+"recomm_tag_2": "#혼자사는법"
+},
+{
+"basis_tag": "#침실스타일링",
+"recomm_tag_1": "#수납의달인",
+"recomm_tag_2": "#혼자사는법"
+},
+{
+"basis_tag": "#침실인테리어",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#예쁜템최고야"
+},
+{
+"basis_tag": "#침실정리",
+"recomm_tag_1": "#식집사성장기",
+"recomm_tag_2": "#오홈스토랑"
+},
+{
+"basis_tag": "#침실청소",
+"recomm_tag_1": "#수납의달인",
+"recomm_tag_2": "#혼자사는법"
+},
+{
+"basis_tag": "#침실향테리어",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#식집사성장기"
+},
+{
+"basis_tag": "#카페",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#혼자사는법"
+},
+{
+"basis_tag": "#카페투어",
+"recomm_tag_1": "#오홈스토랑",
+"recomm_tag_2": "#식집사성장기"
+},
+{
+"basis_tag": "#캠핑",
+"recomm_tag_1": "#예쁜템최고야",
+"recomm_tag_2": "#오홈스토랑"
+},
+{
+"basis_tag": "#캠핑용품",
+"recomm_tag_1": "#예쁜템최고야",
+"recomm_tag_2": "#혼자사는법"
+},
+{
+"basis_tag": "#캠핑장소추천",
+"recomm_tag_1": "#예쁜템최고야",
+"recomm_tag_2": "#수납의달인"
+},
+{
+"basis_tag": "#커튼",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#예쁜템최고야"
+},
+{
+"basis_tag": "#커피잔",
+"recomm_tag_1": "#오홈스토랑",
+"recomm_tag_2": "#오늘뭐하집"
+},
+{
+"basis_tag": "#코스트코",
+"recomm_tag_1": "#수납의달인",
+"recomm_tag_2": "#혼자사는법"
+},
+{
+"basis_tag": "#쿠킹",
+"recomm_tag_1": "#예쁜템최고야",
+"recomm_tag_2": "#오늘뭐하집"
+},
+{
+"basis_tag": "#크리스마스",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#혼자사는법"
+},
+{
+"basis_tag": "#키덜트애정템",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#예쁜템최고야"
+},
+{
+"basis_tag": "#타일",
+"recomm_tag_1": "#오홈스토랑",
+"recomm_tag_2": "#식집사성장기"
+},
+{
+"basis_tag": "#턴테이블",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#혼자사는법"
+},
+{
+"basis_tag": "#테이블",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#예쁜템최고야"
+},
+{
+"basis_tag": "#틈새수납",
+"recomm_tag_1": "#식집사성장기",
+"recomm_tag_2": "#수납의달인"
+},
+{
+"basis_tag": "#팬트리정리함",
+"recomm_tag_1": "#수납의달인",
+"recomm_tag_2": "#혼자사는법"
+},
+{
+"basis_tag": "#페인트",
+"recomm_tag_1": "#수납의달인",
+"recomm_tag_2": "#혼자사는법"
+},
+{
+"basis_tag": "#페인트시공",
+"recomm_tag_1": "#오홈스토랑",
+"recomm_tag_2": "#식집사성장기"
+},
+{
+"basis_tag": "#페인트인테리어",
+"recomm_tag_1": "#수납의달인",
+"recomm_tag_2": "#혼자사는법"
+},
+{
+"basis_tag": "#펫테리어",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#예쁜템최고야"
+},
+{
+"basis_tag": "#포스터",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#예쁜템최고야"
+},
+{
+"basis_tag": "#프레디1200책상세트",
+"recomm_tag_1": "#수납의달인",
+"recomm_tag_2": "#혼자사는법"
+},
+{
+"basis_tag": "#프로쉬",
+"recomm_tag_1": "#예쁜템최고야",
+"recomm_tag_2": "#수납의달인"
+},
+{
+"basis_tag": "#플라워기프트",
+"recomm_tag_1": "#식집사성장기",
+"recomm_tag_2": "#수납의달인"
+},
+{
+"basis_tag": "#플랜테리어",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#식집사성장기"
+},
+{
+"basis_tag": "#플레이트",
+"recomm_tag_1": "#오홈스토랑",
+"recomm_tag_2": "#혼자사는법"
+},
+{
+"basis_tag": "#플레이팅",
+"recomm_tag_1": "#예쁜템최고야",
+"recomm_tag_2": "#오홈스토랑"
+},
+{
+"basis_tag": "#피규어",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#예쁜템최고야"
+},
+{
+"basis_tag": "#피크",
+"recomm_tag_1": "#수납의달인",
+"recomm_tag_2": "#혼자사는법"
+},
+{
+"basis_tag": "#피크페인트",
+"recomm_tag_1": "#예쁜템최고야",
+"recomm_tag_2": "#수납의달인"
+},
+{
+"basis_tag": "#핑크인테리어",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#수납의달인"
+},
+{
+"basis_tag": "#하늘",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#예쁜템최고야"
+},
+{
+"basis_tag": "#하루뚝딱",
+"recomm_tag_1": "#수납의달인",
+"recomm_tag_2": "#혼자사는법"
+},
+{
+"basis_tag": "#하루뚝딱인테리어",
+"recomm_tag_1": "#혼자사는법",
+"recomm_tag_2": "#오늘뭐하집"
+},
+{
+"basis_tag": "#햇살맛집",
+"recomm_tag_1": "#오홈스토랑",
+"recomm_tag_2": "#식집사성장기"
+},
+{
+"basis_tag": "#향테리어",
+"recomm_tag_1": "#혼자사는법",
+"recomm_tag_2": "#수납의달인"
+},
+{
+"basis_tag": "#현관",
+"recomm_tag_1": "#예쁜템최고야",
+"recomm_tag_2": "#오늘뭐하집"
+},
+{
+"basis_tag": "#현관인테리어",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#예쁜템최고야"
+},
+{
+"basis_tag": "#호텔",
+"recomm_tag_1": "#오홈스토랑",
+"recomm_tag_2": "#오늘뭐하집"
+},
+{
+"basis_tag": "#혼자사는법",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#예쁜템최고야"
+},
+{
+"basis_tag": "#홈데코",
+"recomm_tag_1": "#예쁜템최고야",
+"recomm_tag_2": "#오늘뭐하집"
+},
+{
+"basis_tag": "#홈바",
+"recomm_tag_1": "#예쁜템최고야",
+"recomm_tag_2": "#오늘뭐하집"
+},
+{
+"basis_tag": "#홈브런치",
+"recomm_tag_1": "#예쁜템최고야",
+"recomm_tag_2": "#수납의달인"
+},
+{
+"basis_tag": "#홈스타일링",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#예쁜템최고야"
+},
+{
+"basis_tag": "#홈스토랑",
+"recomm_tag_1": "#예쁜템최고야",
+"recomm_tag_2": "#식집사성장기"
+},
+{
+"basis_tag": "#홈오피스",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#혼자사는법"
+},
+{
+"basis_tag": "#홈오피스인테리어",
+"recomm_tag_1": "#수납의달인",
+"recomm_tag_2": "#혼자사는법"
+},
+{
+"basis_tag": "#홈인테리어",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#예쁜템최고야"
+},
+{
+"basis_tag": "#홈카페",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#오홈스토랑"
+},
+{
+"basis_tag": "#홈카페인테리어",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#수납의달인"
+},
+{
+"basis_tag": "#홈카페존",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#수납의달인"
+},
+{
+"basis_tag": "#홈캠핑",
+"recomm_tag_1": "#예쁜템최고야",
+"recomm_tag_2": "#혼자사는법"
+},
+{
+"basis_tag": "#홈쿡",
+"recomm_tag_1": "#오홈스토랑",
+"recomm_tag_2": "#수납의달인"
+},
+{
+"basis_tag": "#홈트",
+"recomm_tag_1": "#오홈스토랑",
+"recomm_tag_2": "#오늘뭐하집"
+},
+{
+"basis_tag": "#홈파티",
+"recomm_tag_1": "#수납의달인",
+"recomm_tag_2": "#오홈스토랑"
+},
+{
+"basis_tag": "#화이트우드",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#예쁜템최고야"
+},
+{
+"basis_tag": "#화이트인테리어",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#예쁜템최고야"
+},
+{
+"basis_tag": "#화장대",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#예쁜템최고야"
+},
+{
+"basis_tag": "#화장실수전",
+"recomm_tag_1": "#수납의달인",
+"recomm_tag_2": "#혼자사는법"
+},
+{
+"basis_tag": "#화장실인테리어",
+"recomm_tag_1": "#수납의달인",
+"recomm_tag_2": "#혼자사는법"
+},
+{
+"basis_tag": "#DIY",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#예쁜템최고야"
+},
+{
+"basis_tag": "#pf51oqa",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#오홈스토랑"
+},
+{
+"basis_tag": "#pieke",
+"recomm_tag_1": "#식집사성장기",
+"recomm_tag_2": "#오홈스토랑"
+},
+{
+"basis_tag": "#polypop",
+"recomm_tag_1": "#오늘뭐하집",
+"recomm_tag_2": "#수납의달인"
+},
+{
+"basis_tag": "#TV다이",
+"recomm_tag_1": "#예쁜템최고야",
+"recomm_tag_2": "#오늘뭐하집"
+}
+]
+}
