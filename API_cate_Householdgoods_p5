@@ -1,0 +1,736 @@
+{ "API_cate_Householdgoods_p5" : [{
+"admin_category_id": "1302022",
+"cate_1" : "생활용품",
+"cate_2" : "생활잡화",
+"cate_3" : "건강용품"
+},{
+"admin_category_id": "1302023",
+"cate_1" : "생활용품",
+"cate_2" : "생활잡화",
+"cate_3" : "건강용품"
+},{
+"admin_category_id": "1302025",
+"cate_1" : "생활용품",
+"cate_2" : "생활잡화",
+"cate_3" : "건강용품"
+},{
+"admin_category_id": "1302026",
+"cate_1" : "생활용품",
+"cate_2" : "생활잡화",
+"cate_3" : "건강용품"
+},{
+"admin_category_id": "1302027",
+"cate_1" : "생활용품",
+"cate_2" : "생활잡화",
+"cate_3" : "건강용품"
+},{
+"admin_category_id": "1302028",
+"cate_1" : "생활용품",
+"cate_2" : "생활잡화",
+"cate_3" : "건강용품"
+},{
+"admin_category_id": "1302030",
+"cate_1" : "생활용품",
+"cate_2" : "생활잡화",
+"cate_3" : "건강용품"
+},{
+"admin_category_id": "1302031",
+"cate_1" : "생활용품",
+"cate_2" : "생활잡화",
+"cate_3" : "건강용품"
+},{
+"admin_category_id": "1302041",
+"cate_1" : "생활용품",
+"cate_2" : "생활잡화",
+"cate_3" : "기타생활잡화"
+},{
+"admin_category_id": "1302043",
+"cate_1" : "생활용품",
+"cate_2" : "생활잡화",
+"cate_3" : "방충용품"
+},{
+"admin_category_id": "1302044",
+"cate_1" : "생활용품",
+"cate_2" : "생활잡화",
+"cate_3" : "방충용품"
+},{
+"admin_category_id": "1302045",
+"cate_1" : "생활용품",
+"cate_2" : "생활잡화",
+"cate_3" : "방충용품"
+},{
+"admin_category_id": "1302046",
+"cate_1" : "생활용품",
+"cate_2" : "생활잡화",
+"cate_3" : "방충용품"
+},{
+"admin_category_id": "1302048",
+"cate_1" : "생활용품",
+"cate_2" : "생활잡화",
+"cate_3" : "비닐봉투"
+},{
+"admin_category_id": "1302049",
+"cate_1" : "생활용품",
+"cate_2" : "생활잡화",
+"cate_3" : "비닐봉투"
+},{
+"admin_category_id": "1302052",
+"cate_1" : "생활용품",
+"cate_2" : "생활잡화",
+"cate_3" : "실내보온용품"
+},{
+"admin_category_id": "1302053",
+"cate_1" : "생활용품",
+"cate_2" : "생활잡화",
+"cate_3" : "실내보온용품"
+},{
+"admin_category_id": "1302054",
+"cate_1" : "생활용품",
+"cate_2" : "생활잡화",
+"cate_3" : "실내보온용품"
+},{
+"admin_category_id": "1302055",
+"cate_1" : "생활용품",
+"cate_2" : "생활잡화",
+"cate_3" : "실내보온용품"
+},{
+"admin_category_id": "1302056",
+"cate_1" : "생활용품",
+"cate_2" : "생활잡화",
+"cate_3" : "실내보온용품"
+},{
+"admin_category_id": "1302059",
+"cate_1" : "생활용품",
+"cate_2" : "생활잡화",
+"cate_3" : "여행용품"
+},{
+"admin_category_id": "1302062",
+"cate_1" : "생활용품",
+"cate_2" : "생활잡화",
+"cate_3" : "포장용품"
+},{
+"admin_category_id": "1302063",
+"cate_1" : "생활용품",
+"cate_2" : "생활잡화",
+"cate_3" : "포장용품"
+},{
+"admin_category_id": "1302064",
+"cate_1" : "생활용품",
+"cate_2" : "생활잡화",
+"cate_3" : "포장용품"
+},{
+"admin_category_id": "1302065",
+"cate_1" : "생활용품",
+"cate_2" : "생활잡화",
+"cate_3" : "포장용품"
+},{
+"admin_category_id": "1302066",
+"cate_1" : "생활용품",
+"cate_2" : "생활잡화",
+"cate_3" : "포장용품"
+},{
+"admin_category_id": "1302067",
+"cate_1" : "생활용품",
+"cate_2" : "생활잡화",
+"cate_3" : "포장용품"
+},{
+"admin_category_id": "1302069",
+"cate_1" : "생활용품",
+"cate_2" : "생활잡화",
+"cate_3" : "포장용품"
+},{
+"admin_category_id": "1302070",
+"cate_1" : "생활용품",
+"cate_2" : "생활잡화",
+"cate_3" : "포장용품"
+},{
+"admin_category_id": "1302071",
+"cate_1" : "생활용품",
+"cate_2" : "생활잡화",
+"cate_3" : "포장용품"
+},{
+"admin_category_id": "1302072",
+"cate_1" : "생활용품",
+"cate_2" : "생활잡화",
+"cate_3" : "포장용품"
+},{
+"admin_category_id": "1302073",
+"cate_1" : "생활용품",
+"cate_2" : "생활잡화",
+"cate_3" : "우산"
+},{
+"admin_category_id": "1302074",
+"cate_1" : "생활용품",
+"cate_2" : "생활잡화",
+"cate_3" : "우의"
+},{
+"admin_category_id": "1302076",
+"cate_1" : "생활용품",
+"cate_2" : "생활잡화",
+"cate_3" : "여행용품"
+},{
+"admin_category_id": "1302077",
+"cate_1" : "생활용품",
+"cate_2" : "생활잡화",
+"cate_3" : "여행용품"
+},{
+"admin_category_id": "1302078",
+"cate_1" : "생활용품",
+"cate_2" : "생활잡화",
+"cate_3" : "여행용품"
+},{
+"admin_category_id": "1302079",
+"cate_1" : "생활용품",
+"cate_2" : "생활잡화",
+"cate_3" : "여행용품"
+},{
+"admin_category_id": "1302080",
+"cate_1" : "생활용품",
+"cate_2" : "생활잡화",
+"cate_3" : "장바구니"
+},{
+"admin_category_id": "1302082",
+"cate_1" : "생활용품",
+"cate_2" : "생활잡화",
+"cate_3" : "구둣주걱/신발용품"
+},{
+"admin_category_id": "1302083",
+"cate_1" : "생활용품",
+"cate_2" : "생활잡화",
+"cate_3" : "금고"
+},{
+"admin_category_id": "1302084",
+"cate_1" : "생활용품",
+"cate_2" : "생활잡화",
+"cate_3" : "반짇고리/수선용품"
+},{
+"admin_category_id": "1302085",
+"cate_1" : "생활용품",
+"cate_2" : "생활잡화",
+"cate_3" : "의자발캡/소음방지커버"
+},{
+"admin_category_id": "1302086",
+"cate_1" : "생활용품",
+"cate_2" : "생활잡화",
+"cate_3" : "이미용위생용품"
+},{
+"admin_category_id": "1302087",
+"cate_1" : "생활용품",
+"cate_2" : "생활잡화",
+"cate_3" : "이불밀림방지"
+},{
+"admin_category_id": "1303001",
+"cate_1" : "생활용품",
+"cate_2" : "세탁용품",
+"cate_3" : "다리미판"
+},{
+"admin_category_id": "1303002",
+"cate_1" : "생활용품",
+"cate_2" : "세탁용품",
+"cate_3" : "다림질용품"
+},{
+"admin_category_id": "1303003",
+"cate_1" : "생활용품",
+"cate_2" : "세탁용품",
+"cate_3" : "분무기"
+},{
+"admin_category_id": "1303004",
+"cate_1" : "생활용품",
+"cate_2" : "세탁용품",
+"cate_3" : "빨래건조대"
+},{
+"admin_category_id": "1303006",
+"cate_1" : "생활용품",
+"cate_2" : "세탁용품",
+"cate_3" : "빨래솥"
+},{
+"admin_category_id": "1303007",
+"cate_1" : "생활용품",
+"cate_2" : "세탁용품",
+"cate_3" : "빨래줄/빨래집게"
+},{
+"admin_category_id": "1303008",
+"cate_1" : "생활용품",
+"cate_2" : "세탁용품",
+"cate_3" : "빨래판"
+},{
+"admin_category_id": "1303009",
+"cate_1" : "생활용품",
+"cate_2" : "세탁용품",
+"cate_3" : "세탁기거름망/필터"
+},{
+"admin_category_id": "1303010",
+"cate_1" : "생활용품",
+"cate_2" : "세탁용품",
+"cate_3" : "세탁망"
+},{
+"admin_category_id": "1303011",
+"cate_1" : "생활용품",
+"cate_2" : "세탁용품",
+"cate_3" : "세탁볼/건조기볼"
+},{
+"admin_category_id": "1303012",
+"cate_1" : "생활용품",
+"cate_2" : "세탁용품",
+"cate_3" : "세탁솔"
+},{
+"admin_category_id": "1304002",
+"cate_1" : "생활용품",
+"cate_2" : "욕실용품",
+"cate_3" : "변기용품"
+},{
+"admin_category_id": "1304003",
+"cate_1" : "생활용품",
+"cate_2" : "욕실용품",
+"cate_3" : "변기용품"
+},{
+"admin_category_id": "1304004",
+"cate_1" : "생활용품",
+"cate_2" : "욕실용품",
+"cate_3" : "변기용품"
+},{
+"admin_category_id": "1304005",
+"cate_1" : "생활용품",
+"cate_2" : "욕실용품",
+"cate_3" : "변기용품"
+},{
+"admin_category_id": "1304009",
+"cate_1" : "생활용품",
+"cate_2" : "욕실용품",
+"cate_3" : "샤워기/샤워기필터"
+},{
+"admin_category_id": "1304010",
+"cate_1" : "생활용품",
+"cate_2" : "욕실용품",
+"cate_3" : "샤워기/샤워기필터"
+},{
+"admin_category_id": "1304011",
+"cate_1" : "생활용품",
+"cate_2" : "욕실용품",
+"cate_3" : "샤워기/샤워기필터"
+},{
+"admin_category_id": "1304012",
+"cate_1" : "생활용품",
+"cate_2" : "욕실용품",
+"cate_3" : "샤워기/샤워기필터"
+},{
+"admin_category_id": "1304019",
+"cate_1" : "생활용품",
+"cate_2" : "욕실용품",
+"cate_3" : "샤워커튼/샤워봉"
+},{
+"admin_category_id": "1304020",
+"cate_1" : "생활용품",
+"cate_2" : "욕실용품",
+"cate_3" : "샤워커튼/샤워봉"
+},{
+"admin_category_id": "1304021",
+"cate_1" : "생활용품",
+"cate_2" : "욕실용품",
+"cate_3" : "샤워커튼/샤워봉"
+},{
+"admin_category_id": "1304023",
+"cate_1" : "생활용품",
+"cate_2" : "욕실용품",
+"cate_3" : "수건/타월"
+},{
+"admin_category_id": "1304024",
+"cate_1" : "생활용품",
+"cate_2" : "욕실용품",
+"cate_3" : "수건/타월"
+},{
+"admin_category_id": "1304025",
+"cate_1" : "생활용품",
+"cate_2" : "욕실용품",
+"cate_3" : "수건/타월"
+},{
+"admin_category_id": "1304026",
+"cate_1" : "생활용품",
+"cate_2" : "욕실용품",
+"cate_3" : "수건/타월"
+},{
+"admin_category_id": "1304027",
+"cate_1" : "생활용품",
+"cate_2" : "욕실용품",
+"cate_3" : "수건/타월"
+},{
+"admin_category_id": "1304028",
+"cate_1" : "생활용품",
+"cate_2" : "욕실용품",
+"cate_3" : "수건/타월"
+},{
+"admin_category_id": "1304030",
+"cate_1" : "생활용품",
+"cate_2" : "욕실용품",
+"cate_3" : "욕실매트"
+},{
+"admin_category_id": "1304031",
+"cate_1" : "생활용품",
+"cate_2" : "욕실용품",
+"cate_3" : "욕실매트"
+},{
+"admin_category_id": "1304033",
+"cate_1" : "생활용품",
+"cate_2" : "욕실용품",
+"cate_3" : "욕실수납/정리"
+},{
+"admin_category_id": "1304034",
+"cate_1" : "생활용품",
+"cate_2" : "욕실용품",
+"cate_3" : "욕실수납/정리"
+},{
+"admin_category_id": "1304035",
+"cate_1" : "생활용품",
+"cate_2" : "욕실용품",
+"cate_3" : "욕실수납/정리"
+},{
+"admin_category_id": "1304036",
+"cate_1" : "생활용품",
+"cate_2" : "욕실용품",
+"cate_3" : "욕실수납/정리"
+},{
+"admin_category_id": "1304037",
+"cate_1" : "생활용품",
+"cate_2" : "욕실용품",
+"cate_3" : "욕실수납/정리"
+},{
+"admin_category_id": "1304038",
+"cate_1" : "생활용품",
+"cate_2" : "욕실용품",
+"cate_3" : "욕실수납/정리"
+},{
+"admin_category_id": "1304039",
+"cate_1" : "생활용품",
+"cate_2" : "욕실용품",
+"cate_3" : "욕실수납/정리"
+},{
+"admin_category_id": "1304040",
+"cate_1" : "생활용품",
+"cate_2" : "욕실용품",
+"cate_3" : "욕실수납/정리"
+},{
+"admin_category_id": "1304041",
+"cate_1" : "생활용품",
+"cate_2" : "욕실용품",
+"cate_3" : "욕실수납/정리"
+},{
+"admin_category_id": "1304042",
+"cate_1" : "생활용품",
+"cate_2" : "욕실용품",
+"cate_3" : "욕실수납/정리"
+},{
+"admin_category_id": "1304044",
+"cate_1" : "생활용품",
+"cate_2" : "욕실용품",
+"cate_3" : "욕실잡화"
+},{
+"admin_category_id": "1304045",
+"cate_1" : "생활용품",
+"cate_2" : "욕실용품",
+"cate_3" : "욕실잡화"
+},{
+"admin_category_id": "1304046",
+"cate_1" : "생활용품",
+"cate_2" : "욕실용품",
+"cate_3" : "욕실잡화"
+},{
+"admin_category_id": "1304047",
+"cate_1" : "생활용품",
+"cate_2" : "욕실용품",
+"cate_3" : "욕실잡화"
+},{
+"admin_category_id": "1304048",
+"cate_1" : "생활용품",
+"cate_2" : "욕실용품",
+"cate_3" : "욕실잡화"
+},{
+"admin_category_id": "1304050",
+"cate_1" : "생활용품",
+"cate_2" : "욕실용품",
+"cate_3" : "욕조/좌욕/족욕기"
+},{
+"admin_category_id": "1304051",
+"cate_1" : "생활용품",
+"cate_2" : "욕실용품",
+"cate_3" : "욕조/좌욕/족욕기"
+},{
+"admin_category_id": "1304052",
+"cate_1" : "생활용품",
+"cate_2" : "욕실용품",
+"cate_3" : "욕조/좌욕/족욕기"
+},{
+"admin_category_id": "1304053",
+"cate_1" : "생활용품",
+"cate_2" : "욕실용품",
+"cate_3" : "욕조/좌욕/족욕기"
+},{
+"admin_category_id": "1304054",
+"cate_1" : "생활용품",
+"cate_2" : "욕실용품",
+"cate_3" : "욕조/좌욕/족욕기"
+},{
+"admin_category_id": "1304056",
+"cate_1" : "생활용품",
+"cate_2" : "욕실용품",
+"cate_3" : "샤워기/샤워기필터"
+},{
+"admin_category_id": "1304057",
+"cate_1" : "생활용품",
+"cate_2" : "욕실용품",
+"cate_3" : "하수구트랩"
+},{
+"admin_category_id": "1304058",
+"cate_1" : "생활용품",
+"cate_2" : "욕실용품",
+"cate_3" : "욕실청소용품"
+},{
+"admin_category_id": "1305002",
+"cate_1" : "생활용품",
+"cate_2" : "청소용품",
+"cate_3" : "걸레/밀대/청소포"
+},{
+"admin_category_id": "1305003",
+"cate_1" : "생활용품",
+"cate_2" : "청소용품",
+"cate_3" : "걸레/밀대/청소포"
+},{
+"admin_category_id": "1305004",
+"cate_1" : "생활용품",
+"cate_2" : "청소용품",
+"cate_3" : "걸레/밀대/청소포"
+},{
+"admin_category_id": "1305005",
+"cate_1" : "생활용품",
+"cate_2" : "청소용품",
+"cate_3" : "걸레/밀대/청소포"
+},{
+"admin_category_id": "1305006",
+"cate_1" : "생활용품",
+"cate_2" : "청소용품",
+"cate_3" : "걸레/밀대/청소포"
+},{
+"admin_category_id": "1305007",
+"cate_1" : "생활용품",
+"cate_2" : "청소용품",
+"cate_3" : "걸레/밀대/청소포"
+},{
+"admin_category_id": "1305009",
+"cate_1" : "생활용품",
+"cate_2" : "청소용품",
+"cate_3" : "먼지제거/클리너"
+},{
+"admin_category_id": "1305010",
+"cate_1" : "생활용품",
+"cate_2" : "청소용품",
+"cate_3" : "먼지제거/클리너"
+},{
+"admin_category_id": "1305011",
+"cate_1" : "생활용품",
+"cate_2" : "청소용품",
+"cate_3" : "먼지제거/클리너"
+},{
+"admin_category_id": "1305012",
+"cate_1" : "생활용품",
+"cate_2" : "청소용품",
+"cate_3" : "먼지제거/클리너"
+},{
+"admin_category_id": "1305014",
+"cate_1" : "생활용품",
+"cate_2" : "청소용품",
+"cate_3" : "빗자루/쓰레받기"
+},{
+"admin_category_id": "1305015",
+"cate_1" : "생활용품",
+"cate_2" : "청소용품",
+"cate_3" : "빗자루/쓰레받기"
+},{
+"admin_category_id": "1305016",
+"cate_1" : "생활용품",
+"cate_2" : "청소용품",
+"cate_3" : "빗자루/쓰레받기"
+},{
+"admin_category_id": "1305017",
+"cate_1" : "생활용품",
+"cate_2" : "청소용품",
+"cate_3" : "유리청소용품"
+},{
+"admin_category_id": "1305019",
+"cate_1" : "생활용품",
+"cate_2" : "청소용품",
+"cate_3" : "호스/분사기"
+},{
+"admin_category_id": "1305021",
+"cate_1" : "생활용품",
+"cate_2" : "청소용품",
+"cate_3" : "휴지통/분리수거함"
+},{
+"admin_category_id": "1305022",
+"cate_1" : "생활용품",
+"cate_2" : "청소용품",
+"cate_3" : "휴지통/분리수거함"
+},{
+"admin_category_id": "1310002",
+"cate_1" : "생활용품",
+"cate_2" : "자동차용품",
+"cate_3" : "세차/관리용품"
+},{
+"admin_category_id": "1310003",
+"cate_1" : "생활용품",
+"cate_2" : "자동차용품",
+"cate_3" : "세차/관리용품"
+},{
+"admin_category_id": "1310004",
+"cate_1" : "생활용품",
+"cate_2" : "자동차용품",
+"cate_3" : "세차/관리용품"
+},{
+"admin_category_id": "1310005",
+"cate_1" : "생활용품",
+"cate_2" : "자동차용품",
+"cate_3" : "세차/관리용품"
+},{
+"admin_category_id": "1310006",
+"cate_1" : "생활용품",
+"cate_2" : "자동차용품",
+"cate_3" : "세차/관리용품"
+},{
+"admin_category_id": "1310007",
+"cate_1" : "생활용품",
+"cate_2" : "자동차용품",
+"cate_3" : "세차/관리용품"
+},{
+"admin_category_id": "1310008",
+"cate_1" : "생활용품",
+"cate_2" : "자동차용품",
+"cate_3" : "세차/관리용품"
+},{
+"admin_category_id": "1310010",
+"cate_1" : "생활용품",
+"cate_2" : "자동차용품",
+"cate_3" : "익스테리어용품"
+},{
+"admin_category_id": "1310011",
+"cate_1" : "생활용품",
+"cate_2" : "자동차용품",
+"cate_3" : "익스테리어용품"
+},{
+"admin_category_id": "1310012",
+"cate_1" : "생활용품",
+"cate_2" : "자동차용품",
+"cate_3" : "익스테리어용품"
+},{
+"admin_category_id": "1310014",
+"cate_1" : "생활용품",
+"cate_2" : "자동차용품",
+"cate_3" : "익스테리어용품"
+},{
+"admin_category_id": "1310015",
+"cate_1" : "생활용품",
+"cate_2" : "자동차용품",
+"cate_3" : "인테리어용품"
+},{
+"admin_category_id": "1310016",
+"cate_1" : "생활용품",
+"cate_2" : "자동차용품",
+"cate_3" : "인테리어용품"
+},{
+"admin_category_id": "1310017",
+"cate_1" : "생활용품",
+"cate_2" : "자동차용품",
+"cate_3" : "인테리어용품"
+},{
+"admin_category_id": "1310018",
+"cate_1" : "생활용품",
+"cate_2" : "자동차용품",
+"cate_3" : "인테리어용품"
+},{
+"admin_category_id": "1310019",
+"cate_1" : "생활용품",
+"cate_2" : "자동차용품",
+"cate_3" : "인테리어용품"
+},{
+"admin_category_id": "1310020",
+"cate_1" : "생활용품",
+"cate_2" : "자동차용품",
+"cate_3" : "인테리어용품"
+},{
+"admin_category_id": "1310021",
+"cate_1" : "생활용품",
+"cate_2" : "자동차용품",
+"cate_3" : "인테리어용품"
+},{
+"admin_category_id": "1310023",
+"cate_1" : "생활용품",
+"cate_2" : "자동차용품",
+"cate_3" : "차량소모품"
+},{
+"admin_category_id": "1310024",
+"cate_1" : "생활용품",
+"cate_2" : "자동차용품",
+"cate_3" : "차량소모품"
+},{
+"admin_category_id": "1310025",
+"cate_1" : "생활용품",
+"cate_2" : "자동차용품",
+"cate_3" : "차량소모품"
+},{
+"admin_category_id": "1310026",
+"cate_1" : "생활용품",
+"cate_2" : "자동차용품",
+"cate_3" : "차량소모품"
+},{
+"admin_category_id": "1310027",
+"cate_1" : "생활용품",
+"cate_2" : "자동차용품",
+"cate_3" : "차량소모품"
+},{
+"admin_category_id": "1310028",
+"cate_1" : "생활용품",
+"cate_2" : "자동차용품",
+"cate_3" : "차량소모품"
+},{
+"admin_category_id": "1310029",
+"cate_1" : "생활용품",
+"cate_2" : "자동차용품",
+"cate_3" : "차량소모품"
+},{
+"admin_category_id": "1310030",
+"cate_1" : "생활용품",
+"cate_2" : "자동차용품",
+"cate_3" : "차량소모품"
+},{
+"admin_category_id": "1310032",
+"cate_1" : "생활용품",
+"cate_2" : "자동차용품",
+"cate_3" : "차량전자기기"
+},{
+"admin_category_id": "1310033",
+"cate_1" : "생활용품",
+"cate_2" : "자동차용품",
+"cate_3" : "차량전자기기"
+},{
+"admin_category_id": "1310034",
+"cate_1" : "생활용품",
+"cate_2" : "자동차용품",
+"cate_3" : "차량전자기기"
+},{
+"admin_category_id": "1310035",
+"cate_1" : "생활용품",
+"cate_2" : "자동차용품",
+"cate_3" : "차량전자기기"
+},{
+"admin_category_id": "1310037",
+"cate_1" : "생활용품",
+"cate_2" : "자동차용품",
+"cate_3" : "타이어/휠"
+},{
+"admin_category_id": "1310038",
+"cate_1" : "생활용품",
+"cate_2" : "자동차용품",
+"cate_3" : "타이어/휠"
+},{
+"admin_category_id": "1310039",
+"cate_1" : "생활용품",
+"cate_2" : "자동차용품",
+"cate_3" : "타이어/휠"
+}]}
