@@ -1,0 +1,1046 @@
+{ "API_cate_HomeAppliances_p7" : [{
+"admin_category_id": "1102002",
+"cate_1" : "가전",
+"cate_2" : "계절가전",
+"cate_3" : "가습기"
+},{
+"admin_category_id": "1102003",
+"cate_1" : "가전",
+"cate_2" : "계절가전",
+"cate_3" : "가습기"
+},{
+"admin_category_id": "1102004",
+"cate_1" : "가전",
+"cate_2" : "계절가전",
+"cate_3" : "가습기"
+},{
+"admin_category_id": "1102005",
+"cate_1" : "가전",
+"cate_2" : "계절가전",
+"cate_3" : "가습기"
+},{
+"admin_category_id": "1102006",
+"cate_1" : "가전",
+"cate_2" : "계절가전",
+"cate_3" : "가습기"
+},{
+"admin_category_id": "1102012",
+"cate_1" : "가전",
+"cate_2" : "계절가전",
+"cate_3" : "공기청정기"
+},{
+"admin_category_id": "1102015",
+"cate_1" : "가전",
+"cate_2" : "계절가전",
+"cate_3" : "선풍기/서큘레이터"
+},{
+"admin_category_id": "1102016",
+"cate_1" : "가전",
+"cate_2" : "계절가전",
+"cate_3" : "선풍기/서큘레이터"
+},{
+"admin_category_id": "1102017",
+"cate_1" : "가전",
+"cate_2" : "계절가전",
+"cate_3" : "선풍기/서큘레이터"
+},{
+"admin_category_id": "1102018",
+"cate_1" : "가전",
+"cate_2" : "계절가전",
+"cate_3" : "선풍기/서큘레이터"
+},{
+"admin_category_id": "1102019",
+"cate_1" : "가전",
+"cate_2" : "계절가전",
+"cate_3" : "선풍기/서큘레이터"
+},{
+"admin_category_id": "1102021",
+"cate_1" : "가전",
+"cate_2" : "계절가전",
+"cate_3" : "손난로/발난로"
+},{
+"admin_category_id": "1102022",
+"cate_1" : "가전",
+"cate_2" : "계절가전",
+"cate_3" : "손난로/발난로"
+},{
+"admin_category_id": "1102031",
+"cate_1" : "가전",
+"cate_2" : "계절가전",
+"cate_3" : "에어컨"
+},{
+"admin_category_id": "1102033",
+"cate_1" : "가전",
+"cate_2" : "계절가전",
+"cate_3" : "냉/온수매트"
+},{
+"admin_category_id": "1102037",
+"cate_1" : "가전",
+"cate_2" : "계절가전",
+"cate_3" : "제습기"
+},{
+"admin_category_id": "1102038",
+"cate_1" : "가전",
+"cate_2" : "계절가전",
+"cate_3" : "제습기"
+},{
+"admin_category_id": "1102040",
+"cate_1" : "가전",
+"cate_2" : "계절가전",
+"cate_3" : "난방가전"
+},{
+"admin_category_id": "1102041",
+"cate_1" : "가전",
+"cate_2" : "계절가전",
+"cate_3" : "난방가전"
+},{
+"admin_category_id": "1102042",
+"cate_1" : "가전",
+"cate_2" : "계절가전",
+"cate_3" : "난방가전"
+},{
+"admin_category_id": "1102043",
+"cate_1" : "가전",
+"cate_2" : "계절가전",
+"cate_3" : "난방가전"
+},{
+"admin_category_id": "1102044",
+"cate_1" : "가전",
+"cate_2" : "계절가전",
+"cate_3" : "난방가전"
+},{
+"admin_category_id": "1102046",
+"cate_1" : "가전",
+"cate_2" : "계절가전",
+"cate_3" : "난방가전"
+},{
+"admin_category_id": "1102047",
+"cate_1" : "가전",
+"cate_2" : "계절가전",
+"cate_3" : "난방가전"
+},{
+"admin_category_id": "1102048",
+"cate_1" : "가전",
+"cate_2" : "계절가전",
+"cate_3" : "기타계절가전"
+},{
+"admin_category_id": "1102051",
+"cate_1" : "가전",
+"cate_2" : "계절가전",
+"cate_3" : "해충퇴치기"
+},{
+"admin_category_id": "1102052",
+"cate_1" : "가전",
+"cate_2" : "계절가전",
+"cate_3" : "가습기"
+},{
+"admin_category_id": "1102054",
+"cate_1" : "가전",
+"cate_2" : "계절가전",
+"cate_3" : "공기청정기"
+},{
+"admin_category_id": "1102055",
+"cate_1" : "가전",
+"cate_2" : "계절가전",
+"cate_3" : "공기청정기"
+},{
+"admin_category_id": "1102056",
+"cate_1" : "가전",
+"cate_2" : "계절가전",
+"cate_3" : "공기청정기"
+},{
+"admin_category_id": "1102057",
+"cate_1" : "가전",
+"cate_2" : "계절가전",
+"cate_3" : "공기청정기"
+},{
+"admin_category_id": "1102058",
+"cate_1" : "가전",
+"cate_2" : "계절가전",
+"cate_3" : "선풍기/서큘레이터"
+},{
+"admin_category_id": "1102059",
+"cate_1" : "가전",
+"cate_2" : "계절가전",
+"cate_3" : "선풍기/서큘레이터"
+},{
+"admin_category_id": "1102060",
+"cate_1" : "가전",
+"cate_2" : "계절가전",
+"cate_3" : "선풍기/서큘레이터"
+},{
+"admin_category_id": "1102061",
+"cate_1" : "가전",
+"cate_2" : "계절가전",
+"cate_3" : "에어컨"
+},{
+"admin_category_id": "1102062",
+"cate_1" : "가전",
+"cate_2" : "계절가전",
+"cate_3" : "에어컨"
+},{
+"admin_category_id": "1102063",
+"cate_1" : "가전",
+"cate_2" : "계절가전",
+"cate_3" : "에어컨"
+},{
+"admin_category_id": "1102064",
+"cate_1" : "가전",
+"cate_2" : "계절가전",
+"cate_3" : "냉풍기"
+},{
+"admin_category_id": "1102065",
+"cate_1" : "가전",
+"cate_2" : "계절가전",
+"cate_3" : "냉/온수매트"
+},{
+"admin_category_id": "1102067",
+"cate_1" : "가전",
+"cate_2" : "계절가전",
+"cate_3" : "전기매트/전기장판"
+},{
+"admin_category_id": "1102068",
+"cate_1" : "가전",
+"cate_2" : "계절가전",
+"cate_3" : "전기매트/전기장판"
+},{
+"admin_category_id": "1102069",
+"cate_1" : "가전",
+"cate_2" : "계절가전",
+"cate_3" : "전기매트/전기장판"
+},{
+"admin_category_id": "1102070",
+"cate_1" : "가전",
+"cate_2" : "계절가전",
+"cate_3" : "전기매트/전기장판"
+},{
+"admin_category_id": "1102071",
+"cate_1" : "가전",
+"cate_2" : "계절가전",
+"cate_3" : "전기매트/전기장판"
+},{
+"admin_category_id": "1102072",
+"cate_1" : "가전",
+"cate_2" : "계절가전",
+"cate_3" : "전기매트/전기장판"
+},{
+"admin_category_id": "1102074",
+"cate_1" : "가전",
+"cate_2" : "계절가전",
+"cate_3" : "전기요/담요/방석"
+},{
+"admin_category_id": "1102075",
+"cate_1" : "가전",
+"cate_2" : "계절가전",
+"cate_3" : "전기요/담요/방석"
+},{
+"admin_category_id": "1102076",
+"cate_1" : "가전",
+"cate_2" : "계절가전",
+"cate_3" : "전기요/담요/방석"
+},{
+"admin_category_id": "1102077",
+"cate_1" : "가전",
+"cate_2" : "계절가전",
+"cate_3" : "난방가전"
+},{
+"admin_category_id": "1102078",
+"cate_1" : "가전",
+"cate_2" : "계절가전",
+"cate_3" : "온수기"
+},{
+"admin_category_id": "1102079",
+"cate_1" : "가전",
+"cate_2" : "계절가전",
+"cate_3" : "에어컨"
+},{
+"admin_category_id": "1102080",
+"cate_1" : "가전",
+"cate_2" : "계절가전",
+"cate_3" : "에어컨"
+},{
+"admin_category_id": "1102081",
+"cate_1" : "가전",
+"cate_2" : "계절가전",
+"cate_3" : "에어컨"
+},{
+"admin_category_id": "1102082",
+"cate_1" : "가전",
+"cate_2" : "계절가전",
+"cate_3" : "에어컨"
+},{
+"admin_category_id": "1102083",
+"cate_1" : "가전",
+"cate_2" : "계절가전",
+"cate_3" : "에어컨"
+},{
+"admin_category_id": "1102084",
+"cate_1" : "가전",
+"cate_2" : "계절가전",
+"cate_3" : "에어컨"
+},{
+"admin_category_id": "1105001",
+"cate_1" : "가전",
+"cate_2" : "생활가전",
+"cate_3" : "기타생활가전"
+},{
+"admin_category_id": "1105003",
+"cate_1" : "가전",
+"cate_2" : "생활가전",
+"cate_3" : "다리미"
+},{
+"admin_category_id": "1105006",
+"cate_1" : "가전",
+"cate_2" : "생활가전",
+"cate_3" : "다리미"
+},{
+"admin_category_id": "1105007",
+"cate_1" : "가전",
+"cate_2" : "생활가전",
+"cate_3" : "다리미"
+},{
+"admin_category_id": "1105008",
+"cate_1" : "가전",
+"cate_2" : "생활가전",
+"cate_3" : "다리미"
+},{
+"admin_category_id": "1105014",
+"cate_1" : "가전",
+"cate_2" : "생활가전",
+"cate_3" : "미싱"
+},{
+"admin_category_id": "1105015",
+"cate_1" : "가전",
+"cate_2" : "생활가전",
+"cate_3" : "미싱"
+},{
+"admin_category_id": "1105016",
+"cate_1" : "가전",
+"cate_2" : "생활가전",
+"cate_3" : "비데"
+},{
+"admin_category_id": "1105018",
+"cate_1" : "가전",
+"cate_2" : "생활가전",
+"cate_3" : "안마/찜질기"
+},{
+"admin_category_id": "1105019",
+"cate_1" : "가전",
+"cate_2" : "생활가전",
+"cate_3" : "안마/찜질기"
+},{
+"admin_category_id": "1105020",
+"cate_1" : "가전",
+"cate_2" : "생활가전",
+"cate_3" : "안마/찜질기"
+},{
+"admin_category_id": "1105021",
+"cate_1" : "가전",
+"cate_2" : "생활가전",
+"cate_3" : "욕실환풍기"
+},{
+"admin_category_id": "1105026",
+"cate_1" : "가전",
+"cate_2" : "생활가전",
+"cate_3" : "전화기"
+},{
+"admin_category_id": "1105027",
+"cate_1" : "가전",
+"cate_2" : "생활가전",
+"cate_3" : "체중계"
+},{
+"admin_category_id": "1105031",
+"cate_1" : "가전",
+"cate_2" : "생활가전",
+"cate_3" : "안마/찜질기"
+},{
+"admin_category_id": "1105032",
+"cate_1" : "가전",
+"cate_2" : "생활가전",
+"cate_3" : "보풀제거기"
+},{
+"admin_category_id": "1105033",
+"cate_1" : "가전",
+"cate_2" : "생활가전",
+"cate_3" : "구강세정기"
+},{
+"admin_category_id": "1105035",
+"cate_1" : "가전",
+"cate_2" : "생활가전",
+"cate_3" : "전동칫솔"
+},{
+"admin_category_id": "1105036",
+"cate_1" : "가전",
+"cate_2" : "생활가전",
+"cate_3" : "전동칫솔"
+},{
+"admin_category_id": "1105037",
+"cate_1" : "가전",
+"cate_2" : "생활가전",
+"cate_3" : "칫솔살균기"
+},{
+"admin_category_id": "1105038",
+"cate_1" : "가전",
+"cate_2" : "생활가전",
+"cate_3" : "전해수기"
+},{
+"admin_category_id": "1105039",
+"cate_1" : "가전",
+"cate_2" : "생활가전",
+"cate_3" : "살균소독기"
+},{
+"admin_category_id": "1105040",
+"cate_1" : "가전",
+"cate_2" : "생활가전",
+"cate_3" : "전신건조기"
+},{
+"admin_category_id": "1105041",
+"cate_1" : "가전",
+"cate_2" : "생활가전",
+"cate_3" : "연수기"
+},{
+"admin_category_id": "1105042",
+"cate_1" : "가전",
+"cate_2" : "생활가전",
+"cate_3" : "무전기"
+},{
+"admin_category_id": "1108002",
+"cate_1" : "가전",
+"cate_2" : "이미용가전",
+"cate_3" : "헤어스타일러"
+},{
+"admin_category_id": "1108003",
+"cate_1" : "가전",
+"cate_2" : "이미용가전",
+"cate_3" : "헤어스타일러"
+},{
+"admin_category_id": "1108004",
+"cate_1" : "가전",
+"cate_2" : "이미용가전",
+"cate_3" : "헤어스타일러"
+},{
+"admin_category_id": "1108006",
+"cate_1" : "가전",
+"cate_2" : "이미용가전",
+"cate_3" : "드라이어"
+},{
+"admin_category_id": "1108007",
+"cate_1" : "가전",
+"cate_2" : "이미용가전",
+"cate_3" : "드라이어"
+},{
+"admin_category_id": "1108009",
+"cate_1" : "가전",
+"cate_2" : "이미용가전",
+"cate_3" : "면도기/제모기/이발기"
+},{
+"admin_category_id": "1108010",
+"cate_1" : "가전",
+"cate_2" : "이미용가전",
+"cate_3" : "면도기/제모기/이발기"
+},{
+"admin_category_id": "1108011",
+"cate_1" : "가전",
+"cate_2" : "이미용가전",
+"cate_3" : "면도기/제모기/이발기"
+},{
+"admin_category_id": "1108012",
+"cate_1" : "가전",
+"cate_2" : "이미용가전",
+"cate_3" : "면도기/제모기/이발기"
+},{
+"admin_category_id": "1108013",
+"cate_1" : "가전",
+"cate_2" : "이미용가전",
+"cate_3" : "셋팅롤/에어브러쉬"
+},{
+"admin_category_id": "1108014",
+"cate_1" : "가전",
+"cate_2" : "이미용가전",
+"cate_3" : "피부케어"
+},{
+"admin_category_id": "1108015",
+"cate_1" : "가전",
+"cate_2" : "이미용가전",
+"cate_3" : "헤어스타일러"
+},{
+"admin_category_id": "1108016",
+"cate_1" : "가전",
+"cate_2" : "이미용가전",
+"cate_3" : "헤어스타일러"
+},{
+"admin_category_id": "1108017",
+"cate_1" : "가전",
+"cate_2" : "이미용가전",
+"cate_3" : "헤어스타일러"
+},{
+"admin_category_id": "1108018",
+"cate_1" : "가전",
+"cate_2" : "이미용가전",
+"cate_3" : "두피케어"
+},{
+"admin_category_id": "1108020",
+"cate_1" : "가전",
+"cate_2" : "이미용가전",
+"cate_3" : "손발케어"
+},{
+"admin_category_id": "1111001",
+"cate_1" : "가전",
+"cate_2" : "청소기",
+"cate_3" : "로봇청소기"
+},{
+"admin_category_id": "1111002",
+"cate_1" : "가전",
+"cate_2" : "청소기",
+"cate_3" : "물걸레청소기"
+},{
+"admin_category_id": "1111003",
+"cate_1" : "가전",
+"cate_2" : "청소기",
+"cate_3" : "스팀청소기"
+},{
+"admin_category_id": "1111013",
+"cate_1" : "가전",
+"cate_2" : "청소기",
+"cate_3" : "청소기액세서리"
+},{
+"admin_category_id": "1111014",
+"cate_1" : "가전",
+"cate_2" : "청소기",
+"cate_3" : "침구청소기"
+},{
+"admin_category_id": "1111015",
+"cate_1" : "가전",
+"cate_2" : "청소기",
+"cate_3" : "무선청소기"
+},{
+"admin_category_id": "1111016",
+"cate_1" : "가전",
+"cate_2" : "청소기",
+"cate_3" : "유선청소기"
+},{
+"admin_category_id": "1111017",
+"cate_1" : "가전",
+"cate_2" : "청소기",
+"cate_3" : "차량용청소기"
+},{
+"admin_category_id": "1111018",
+"cate_1" : "가전",
+"cate_2" : "청소기",
+"cate_3" : "고압세척기"
+},{
+"admin_category_id": "1117001",
+"cate_1" : "가전",
+"cate_2" : "냉장고",
+"cate_3" : "기타전용냉장고"
+},{
+"admin_category_id": "1117003",
+"cate_1" : "가전",
+"cate_2" : "냉장고",
+"cate_3" : "김치냉장고"
+},{
+"admin_category_id": "1117004",
+"cate_1" : "가전",
+"cate_2" : "냉장고",
+"cate_3" : "김치냉장고"
+},{
+"admin_category_id": "1117005",
+"cate_1" : "가전",
+"cate_2" : "냉장고",
+"cate_3" : "냉동고"
+},{
+"admin_category_id": "1117006",
+"cate_1" : "가전",
+"cate_2" : "냉장고",
+"cate_3" : "미니냉장고"
+},{
+"admin_category_id": "1117007",
+"cate_1" : "가전",
+"cate_2" : "냉장고",
+"cate_3" : "양문형냉장고"
+},{
+"admin_category_id": "1117008",
+"cate_1" : "가전",
+"cate_2" : "냉장고",
+"cate_3" : "업소용냉장고/쇼케이스"
+},{
+"admin_category_id": "1117009",
+"cate_1" : "가전",
+"cate_2" : "냉장고",
+"cate_3" : "와인셀러"
+},{
+"admin_category_id": "1117010",
+"cate_1" : "가전",
+"cate_2" : "냉장고",
+"cate_3" : "일반냉장고"
+},{
+"admin_category_id": "1118003",
+"cate_1" : "가전",
+"cate_2" : "세탁기/건조기",
+"cate_3" : "세탁기"
+},{
+"admin_category_id": "1118004",
+"cate_1" : "가전",
+"cate_2" : "세탁기/건조기",
+"cate_3" : "세탁기"
+},{
+"admin_category_id": "1118005",
+"cate_1" : "가전",
+"cate_2" : "세탁기/건조기",
+"cate_3" : "세탁기"
+},{
+"admin_category_id": "1118007",
+"cate_1" : "가전",
+"cate_2" : "세탁기/건조기",
+"cate_3" : "세탁기"
+},{
+"admin_category_id": "1118008",
+"cate_1" : "가전",
+"cate_2" : "세탁기/건조기",
+"cate_3" : "세탁기"
+},{
+"admin_category_id": "1118009",
+"cate_1" : "가전",
+"cate_2" : "세탁기/건조기",
+"cate_3" : "건조기"
+},{
+"admin_category_id": "1118010",
+"cate_1" : "가전",
+"cate_2" : "세탁기/건조기",
+"cate_3" : "탈수기"
+},{
+"admin_category_id": "1118011",
+"cate_1" : "가전",
+"cate_2" : "세탁기/건조기",
+"cate_3" : "세탁기건조기세트"
+},{
+"admin_category_id": "1118012",
+"cate_1" : "가전",
+"cate_2" : "세탁기/건조기",
+"cate_3" : "의류관리기"
+},{
+"admin_category_id": "1119002",
+"cate_1" : "가전",
+"cate_2" : "영상가전",
+"cate_3" : "빔/프로젝터"
+},{
+"admin_category_id": "1119003",
+"cate_1" : "가전",
+"cate_2" : "영상가전",
+"cate_3" : "빔/프로젝터"
+},{
+"admin_category_id": "1119005",
+"cate_1" : "가전",
+"cate_2" : "영상가전",
+"cate_3" : "DVD/블루레이/DivX"
+},{
+"admin_category_id": "1119006",
+"cate_1" : "가전",
+"cate_2" : "영상가전",
+"cate_3" : "DVD/블루레이/DivX"
+},{
+"admin_category_id": "1119007",
+"cate_1" : "가전",
+"cate_2" : "영상가전",
+"cate_3" : "DVD/블루레이/DivX"
+},{
+"admin_category_id": "1120001",
+"cate_1" : "가전",
+"cate_2" : "TV",
+"cate_3" : "TV"
+},{
+"admin_category_id": "1120002",
+"cate_1" : "가전",
+"cate_2" : "TV",
+"cate_3" : "TV"
+},{
+"admin_category_id": "1120003",
+"cate_1" : "가전",
+"cate_2" : "TV",
+"cate_3" : "TV"
+},{
+"admin_category_id": "1120004",
+"cate_1" : "가전",
+"cate_2" : "TV",
+"cate_3" : "TV"
+},{
+"admin_category_id": "1120005",
+"cate_1" : "가전",
+"cate_2" : "TV",
+"cate_3" : "TV"
+},{
+"admin_category_id": "1120006",
+"cate_1" : "가전",
+"cate_2" : "TV",
+"cate_3" : "TV액세서리"
+},{
+"admin_category_id": "1121002",
+"cate_1" : "가전",
+"cate_2" : "주방가전",
+"cate_3" : "가스레인지"
+},{
+"admin_category_id": "1121003",
+"cate_1" : "가전",
+"cate_2" : "주방가전",
+"cate_3" : "가스레인지"
+},{
+"admin_category_id": "1121004",
+"cate_1" : "가전",
+"cate_2" : "주방가전",
+"cate_3" : "가스레인지"
+},{
+"admin_category_id": "1121006",
+"cate_1" : "가전",
+"cate_2" : "주방가전",
+"cate_3" : "전기레인지"
+},{
+"admin_category_id": "1121007",
+"cate_1" : "가전",
+"cate_2" : "주방가전",
+"cate_3" : "전기레인지"
+},{
+"admin_category_id": "1121008",
+"cate_1" : "가전",
+"cate_2" : "주방가전",
+"cate_3" : "전기레인지"
+},{
+"admin_category_id": "1121009",
+"cate_1" : "가전",
+"cate_2" : "주방가전",
+"cate_3" : "전기레인지"
+},{
+"admin_category_id": "1121012",
+"cate_1" : "가전",
+"cate_2" : "주방가전",
+"cate_3" : "믹서/착즙/반죽기"
+},{
+"admin_category_id": "1121013",
+"cate_1" : "가전",
+"cate_2" : "주방가전",
+"cate_3" : "믹서/착즙/반죽기"
+},{
+"admin_category_id": "1121014",
+"cate_1" : "가전",
+"cate_2" : "주방가전",
+"cate_3" : "믹서/착즙/반죽기"
+},{
+"admin_category_id": "1121015",
+"cate_1" : "가전",
+"cate_2" : "주방가전",
+"cate_3" : "믹서/착즙/반죽기"
+},{
+"admin_category_id": "1121016",
+"cate_1" : "가전",
+"cate_2" : "주방가전",
+"cate_3" : "믹서/착즙/반죽기"
+},{
+"admin_category_id": "1121017",
+"cate_1" : "가전",
+"cate_2" : "주방가전",
+"cate_3" : "믹서/착즙/반죽기"
+},{
+"admin_category_id": "1121019",
+"cate_1" : "가전",
+"cate_2" : "주방가전",
+"cate_3" : "식기세척/살균건조기"
+},{
+"admin_category_id": "1121021",
+"cate_1" : "가전",
+"cate_2" : "주방가전",
+"cate_3" : "식기세척/살균건조기"
+},{
+"admin_category_id": "1121022",
+"cate_1" : "가전",
+"cate_2" : "주방가전",
+"cate_3" : "식기세척/살균건조기"
+},{
+"admin_category_id": "1121023",
+"cate_1" : "가전",
+"cate_2" : "주방가전",
+"cate_3" : "식기세척/살균건조기"
+},{
+"admin_category_id": "1121026",
+"cate_1" : "가전",
+"cate_2" : "주방가전",
+"cate_3" : "오븐/전자레인지"
+},{
+"admin_category_id": "1121027",
+"cate_1" : "가전",
+"cate_2" : "주방가전",
+"cate_3" : "오븐/전자레인지"
+},{
+"admin_category_id": "1121028",
+"cate_1" : "가전",
+"cate_2" : "주방가전",
+"cate_3" : "오븐/전자레인지"
+},{
+"admin_category_id": "1121029",
+"cate_1" : "가전",
+"cate_2" : "주방가전",
+"cate_3" : "오븐/전자레인지"
+},{
+"admin_category_id": "1121031",
+"cate_1" : "가전",
+"cate_2" : "주방가전",
+"cate_3" : "오븐/전자레인지"
+},{
+"admin_category_id": "1121032",
+"cate_1" : "가전",
+"cate_2" : "주방가전",
+"cate_3" : "오븐/전자레인지"
+},{
+"admin_category_id": "1121033",
+"cate_1" : "가전",
+"cate_2" : "주방가전",
+"cate_3" : "음식물분쇄기/처리기"
+},{
+"admin_category_id": "1121035",
+"cate_1" : "가전",
+"cate_2" : "주방가전",
+"cate_3" : "전기밥솥"
+},{
+"admin_category_id": "1121036",
+"cate_1" : "가전",
+"cate_2" : "주방가전",
+"cate_3" : "전기밥솥"
+},{
+"admin_category_id": "1121037",
+"cate_1" : "가전",
+"cate_2" : "주방가전",
+"cate_3" : "전기밥솥"
+},{
+"admin_category_id": "1121038",
+"cate_1" : "가전",
+"cate_2" : "주방가전",
+"cate_3" : "전기밥솥"
+},{
+"admin_category_id": "1121040",
+"cate_1" : "가전",
+"cate_2" : "주방가전",
+"cate_3" : "전기주전자/전기포트"
+},{
+"admin_category_id": "1121041",
+"cate_1" : "가전",
+"cate_2" : "주방가전",
+"cate_3" : "전기주전자/전기포트"
+},{
+"admin_category_id": "1121042",
+"cate_1" : "가전",
+"cate_2" : "주방가전",
+"cate_3" : "전기주전자/전기포트"
+},{
+"admin_category_id": "1121043",
+"cate_1" : "가전",
+"cate_2" : "주방가전",
+"cate_3" : "주방환풍기/레인지후드"
+},{
+"admin_category_id": "1121045",
+"cate_1" : "가전",
+"cate_2" : "주방가전",
+"cate_3" : "커피메이커/머신"
+},{
+"admin_category_id": "1121046",
+"cate_1" : "가전",
+"cate_2" : "주방가전",
+"cate_3" : "커피메이커/머신"
+},{
+"admin_category_id": "1121047",
+"cate_1" : "가전",
+"cate_2" : "주방가전",
+"cate_3" : "커피메이커/머신"
+},{
+"admin_category_id": "1121048",
+"cate_1" : "가전",
+"cate_2" : "주방가전",
+"cate_3" : "커피메이커/머신"
+},{
+"admin_category_id": "1121049",
+"cate_1" : "가전",
+"cate_2" : "주방가전",
+"cate_3" : "커피메이커/머신"
+},{
+"admin_category_id": "1121051",
+"cate_1" : "가전",
+"cate_2" : "주방가전",
+"cate_3" : "토스터"
+},{
+"admin_category_id": "1121052",
+"cate_1" : "가전",
+"cate_2" : "주방가전",
+"cate_3" : "토스터"
+},{
+"admin_category_id": "1121053",
+"cate_1" : "가전",
+"cate_2" : "주방가전",
+"cate_3" : "기타주방가전"
+},{
+"admin_category_id": "1121055",
+"cate_1" : "가전",
+"cate_2" : "주방가전",
+"cate_3" : "진공포장기"
+},{
+"admin_category_id": "1121056",
+"cate_1" : "가전",
+"cate_2" : "주방가전",
+"cate_3" : "커피메이커/머신"
+},{
+"admin_category_id": "1121057",
+"cate_1" : "가전",
+"cate_2" : "주방가전",
+"cate_3" : "빙수기/제빙기"
+},{
+"admin_category_id": "1121059",
+"cate_1" : "가전",
+"cate_2" : "주방가전",
+"cate_3" : "유아동주방가전"
+},{
+"admin_category_id": "1121060",
+"cate_1" : "가전",
+"cate_2" : "주방가전",
+"cate_3" : "유아동주방가전"
+},{
+"admin_category_id": "1121061",
+"cate_1" : "가전",
+"cate_2" : "주방가전",
+"cate_3" : "유아동주방가전"
+},{
+"admin_category_id": "1121062",
+"cate_1" : "가전",
+"cate_2" : "주방가전",
+"cate_3" : "유아동주방가전"
+},{
+"admin_category_id": "1121064",
+"cate_1" : "가전",
+"cate_2" : "주방가전",
+"cate_3" : "식품/간식제조기"
+},{
+"admin_category_id": "1121065",
+"cate_1" : "가전",
+"cate_2" : "주방가전",
+"cate_3" : "식품/간식제조기"
+},{
+"admin_category_id": "1121066",
+"cate_1" : "가전",
+"cate_2" : "주방가전",
+"cate_3" : "식품/간식제조기"
+},{
+"admin_category_id": "1121067",
+"cate_1" : "가전",
+"cate_2" : "주방가전",
+"cate_3" : "식품/간식제조기"
+},{
+"admin_category_id": "1121068",
+"cate_1" : "가전",
+"cate_2" : "주방가전",
+"cate_3" : "식품/간식제조기"
+},{
+"admin_category_id": "1121069",
+"cate_1" : "가전",
+"cate_2" : "주방가전",
+"cate_3" : "식품/간식제조기"
+},{
+"admin_category_id": "1121070",
+"cate_1" : "가전",
+"cate_2" : "주방가전",
+"cate_3" : "식품/간식제조기"
+},{
+"admin_category_id": "1121071",
+"cate_1" : "가전",
+"cate_2" : "주방가전",
+"cate_3" : "식품/간식제조기"
+},{
+"admin_category_id": "1121072",
+"cate_1" : "가전",
+"cate_2" : "주방가전",
+"cate_3" : "식품/간식제조기"
+},{
+"admin_category_id": "1121073",
+"cate_1" : "가전",
+"cate_2" : "주방가전",
+"cate_3" : "식품/간식제조기"
+},{
+"admin_category_id": "1121074",
+"cate_1" : "가전",
+"cate_2" : "주방가전",
+"cate_3" : "식품/간식제조기"
+},{
+"admin_category_id": "1121076",
+"cate_1" : "가전",
+"cate_2" : "주방가전",
+"cate_3" : "에어프라이어"
+},{
+"admin_category_id": "1121077",
+"cate_1" : "가전",
+"cate_2" : "주방가전",
+"cate_3" : "에어프라이어"
+},{
+"admin_category_id": "1121078",
+"cate_1" : "가전",
+"cate_2" : "주방가전",
+"cate_3" : "에어프라이어"
+},{
+"admin_category_id": "1121079",
+"cate_1" : "가전",
+"cate_2" : "주방가전",
+"cate_3" : "전기그릴/팬"
+},{
+"admin_category_id": "1121080",
+"cate_1" : "가전",
+"cate_2" : "주방가전",
+"cate_3" : "전기찜기"
+},{
+"admin_category_id": "1121081",
+"cate_1" : "가전",
+"cate_2" : "주방가전",
+"cate_3" : "전기쿠커"
+},{
+"admin_category_id": "1121082",
+"cate_1" : "가전",
+"cate_2" : "주방가전",
+"cate_3" : "튀김기"
+},{
+"admin_category_id": "1121083",
+"cate_1" : "가전",
+"cate_2" : "주방가전",
+"cate_3" : "수비드머신"
+},{
+"admin_category_id": "1121084",
+"cate_1" : "가전",
+"cate_2" : "주방가전",
+"cate_3" : "정수기"
+},{
+"admin_category_id": "1121085",
+"cate_1" : "가전",
+"cate_2" : "주방가전",
+"cate_3" : "정수기"
+},{
+"admin_category_id": "1121086",
+"cate_1" : "가전",
+"cate_2" : "주방가전",
+"cate_3" : "정수기"
+},{
+"admin_category_id": "1121087",
+"cate_1" : "가전",
+"cate_2" : "주방가전",
+"cate_3" : "정수기"
+},{
+"admin_category_id": "1121088",
+"cate_1" : "가전",
+"cate_2" : "주방가전",
+"cate_3" : "정수기"
+},{
+"admin_category_id": "1121089",
+"cate_1" : "가전",
+"cate_2" : "주방가전",
+"cate_3" : "정수기"
+},{
+"admin_category_id": "1121090",
+"cate_1" : "가전",
+"cate_2" : "주방가전",
+"cate_3" : "정수기"
+},{
+"admin_category_id": "1121091",
+"cate_1" : "가전",
+"cate_2" : "주방가전",
+"cate_3" : "정수기"
+}]}
