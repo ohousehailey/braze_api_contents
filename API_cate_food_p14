@@ -1,0 +1,756 @@
+{ "API_cate_food_p14" : [{
+"admin_category_id": "2301001",
+"cate_1" : "식품",
+"cate_2" : "베이커리/떡",
+"cate_3" : "식사빵/식빵"
+},{
+"admin_category_id": "2301002",
+"cate_1" : "식품",
+"cate_2" : "베이커리/떡",
+"cate_3" : "샌드위치"
+},{
+"admin_category_id": "2301003",
+"cate_1" : "식품",
+"cate_2" : "베이커리/떡",
+"cate_3" : "케이크"
+},{
+"admin_category_id": "2301004",
+"cate_1" : "식품",
+"cate_2" : "베이커리/떡",
+"cate_3" : "잼/스프레드"
+},{
+"admin_category_id": "2301005",
+"cate_1" : "식품",
+"cate_2" : "베이커리/떡",
+"cate_3" : "냉동생지"
+},{
+"admin_category_id": "2301006",
+"cate_1" : "식품",
+"cate_2" : "베이커리/떡",
+"cate_3" : "떡"
+},{
+"admin_category_id": "2301007",
+"cate_1" : "식품",
+"cate_2" : "베이커리/떡",
+"cate_3" : "기타베이커리"
+},{
+"admin_category_id": "2301008",
+"cate_1" : "식품",
+"cate_2" : "베이커리/떡",
+"cate_3" : "파이"
+},{
+"admin_category_id": "2301009",
+"cate_1" : "식품",
+"cate_2" : "베이커리/떡",
+"cate_3" : "간식빵/디저트"
+},{
+"admin_category_id": "2302002",
+"cate_1" : "식품",
+"cate_2" : "간식/과자/아이스크림",
+"cate_3" : "스낵/쿠키/시리얼"
+},{
+"admin_category_id": "2302003",
+"cate_1" : "식품",
+"cate_2" : "간식/과자/아이스크림",
+"cate_3" : "스낵/쿠키/시리얼"
+},{
+"admin_category_id": "2302004",
+"cate_1" : "식품",
+"cate_2" : "간식/과자/아이스크림",
+"cate_3" : "스낵/쿠키/시리얼"
+},{
+"admin_category_id": "2302005",
+"cate_1" : "식품",
+"cate_2" : "간식/과자/아이스크림",
+"cate_3" : "스낵/쿠키/시리얼"
+},{
+"admin_category_id": "2302006",
+"cate_1" : "식품",
+"cate_2" : "간식/과자/아이스크림",
+"cate_3" : "스낵/쿠키/시리얼"
+},{
+"admin_category_id": "2302007",
+"cate_1" : "식품",
+"cate_2" : "간식/과자/아이스크림",
+"cate_3" : "스낵/쿠키/시리얼"
+},{
+"admin_category_id": "2302009",
+"cate_1" : "식품",
+"cate_2" : "간식/과자/아이스크림",
+"cate_3" : "초콜릿/캔디/젤리/껌"
+},{
+"admin_category_id": "2302010",
+"cate_1" : "식품",
+"cate_2" : "간식/과자/아이스크림",
+"cate_3" : "초콜릿/캔디/젤리/껌"
+},{
+"admin_category_id": "2302011",
+"cate_1" : "식품",
+"cate_2" : "간식/과자/아이스크림",
+"cate_3" : "아이스크림"
+},{
+"admin_category_id": "2302012",
+"cate_1" : "식품",
+"cate_2" : "간식/과자/아이스크림",
+"cate_3" : "전통간식"
+},{
+"admin_category_id": "2302014",
+"cate_1" : "식품",
+"cate_2" : "간식/과자/아이스크림",
+"cate_3" : "원물간식/육포/견과류"
+},{
+"admin_category_id": "2302015",
+"cate_1" : "식품",
+"cate_2" : "간식/과자/아이스크림",
+"cate_3" : "원물간식/육포/견과류"
+},{
+"admin_category_id": "2302016",
+"cate_1" : "식품",
+"cate_2" : "간식/과자/아이스크림",
+"cate_3" : "원물간식/육포/견과류"
+},{
+"admin_category_id": "2302017",
+"cate_1" : "식품",
+"cate_2" : "간식/과자/아이스크림",
+"cate_3" : "기타간식/과자"
+},{
+"admin_category_id": "2302018",
+"cate_1" : "식품",
+"cate_2" : "간식/과자/아이스크림",
+"cate_3" : "스낵/쿠키/시리얼"
+},{
+"admin_category_id": "2302019",
+"cate_1" : "식품",
+"cate_2" : "간식/과자/아이스크림",
+"cate_3" : "초콜릿/캔디/젤리/껌"
+},{
+"admin_category_id": "2302020",
+"cate_1" : "식품",
+"cate_2" : "간식/과자/아이스크림",
+"cate_3" : "초콜릿/캔디/젤리/껌"
+},{
+"admin_category_id": "2303002",
+"cate_1" : "식품",
+"cate_2" : "간편식/반찬",
+"cate_3" : "간편식"
+},{
+"admin_category_id": "2303003",
+"cate_1" : "식품",
+"cate_2" : "간편식/반찬",
+"cate_3" : "간편식"
+},{
+"admin_category_id": "2303004",
+"cate_1" : "식품",
+"cate_2" : "간편식/반찬",
+"cate_3" : "간편식"
+},{
+"admin_category_id": "2303005",
+"cate_1" : "식품",
+"cate_2" : "간편식/반찬",
+"cate_3" : "간편식"
+},{
+"admin_category_id": "2303006",
+"cate_1" : "식품",
+"cate_2" : "간편식/반찬",
+"cate_3" : "간편식"
+},{
+"admin_category_id": "2303007",
+"cate_1" : "식품",
+"cate_2" : "간편식/반찬",
+"cate_3" : "간편식"
+},{
+"admin_category_id": "2303008",
+"cate_1" : "식품",
+"cate_2" : "간편식/반찬",
+"cate_3" : "간편식"
+},{
+"admin_category_id": "2303009",
+"cate_1" : "식품",
+"cate_2" : "간편식/반찬",
+"cate_3" : "간편식"
+},{
+"admin_category_id": "2303010",
+"cate_1" : "식품",
+"cate_2" : "간편식/반찬",
+"cate_3" : "간편식"
+},{
+"admin_category_id": "2303011",
+"cate_1" : "식품",
+"cate_2" : "간편식/반찬",
+"cate_3" : "간편식"
+},{
+"admin_category_id": "2303012",
+"cate_1" : "식품",
+"cate_2" : "간편식/반찬",
+"cate_3" : "간편식"
+},{
+"admin_category_id": "2303013",
+"cate_1" : "식품",
+"cate_2" : "간편식/반찬",
+"cate_3" : "간편식"
+},{
+"admin_category_id": "2303014",
+"cate_1" : "식품",
+"cate_2" : "간편식/반찬",
+"cate_3" : "간편식"
+},{
+"admin_category_id": "2303015",
+"cate_1" : "식품",
+"cate_2" : "간편식/반찬",
+"cate_3" : "간편식"
+},{
+"admin_category_id": "2303017",
+"cate_1" : "식품",
+"cate_2" : "간편식/반찬",
+"cate_3" : "반찬"
+},{
+"admin_category_id": "2303018",
+"cate_1" : "식품",
+"cate_2" : "간편식/반찬",
+"cate_3" : "반찬"
+},{
+"admin_category_id": "2303019",
+"cate_1" : "식품",
+"cate_2" : "간편식/반찬",
+"cate_3" : "반찬"
+},{
+"admin_category_id": "2303020",
+"cate_1" : "식품",
+"cate_2" : "간편식/반찬",
+"cate_3" : "간편식"
+},{
+"admin_category_id": "2303021",
+"cate_1" : "식품",
+"cate_2" : "간편식/반찬",
+"cate_3" : "간편식"
+},{
+"admin_category_id": "2303022",
+"cate_1" : "식품",
+"cate_2" : "간편식/반찬",
+"cate_3" : "간편식"
+},{
+"admin_category_id": "2303023",
+"cate_1" : "식품",
+"cate_2" : "간편식/반찬",
+"cate_3" : "간편식"
+},{
+"admin_category_id": "2303024",
+"cate_1" : "식품",
+"cate_2" : "간편식/반찬",
+"cate_3" : "간편식"
+},{
+"admin_category_id": "2303025",
+"cate_1" : "식품",
+"cate_2" : "간편식/반찬",
+"cate_3" : "간편식"
+},{
+"admin_category_id": "2303026",
+"cate_1" : "식품",
+"cate_2" : "간편식/반찬",
+"cate_3" : "간편식"
+},{
+"admin_category_id": "2303027",
+"cate_1" : "식품",
+"cate_2" : "간편식/반찬",
+"cate_3" : "간편식"
+},{
+"admin_category_id": "2303028",
+"cate_1" : "식품",
+"cate_2" : "간편식/반찬",
+"cate_3" : "간편식"
+},{
+"admin_category_id": "2303029",
+"cate_1" : "식품",
+"cate_2" : "간편식/반찬",
+"cate_3" : "반찬"
+},{
+"admin_category_id": "2303030",
+"cate_1" : "식품",
+"cate_2" : "간편식/반찬",
+"cate_3" : "반찬"
+},{
+"admin_category_id": "2303031",
+"cate_1" : "식품",
+"cate_2" : "간편식/반찬",
+"cate_3" : "반찬"
+},{
+"admin_category_id": "2304001",
+"cate_1" : "식품",
+"cate_2" : "밀키트",
+"cate_3" : "국/탕/찌개/전골"
+},{
+"admin_category_id": "2304002",
+"cate_1" : "식품",
+"cate_2" : "밀키트",
+"cate_3" : "구이/꼬치류"
+},{
+"admin_category_id": "2304003",
+"cate_1" : "식품",
+"cate_2" : "밀키트",
+"cate_3" : "파스타/면"
+},{
+"admin_category_id": "2304004",
+"cate_1" : "식품",
+"cate_2" : "밀키트",
+"cate_3" : "스테이크/고기"
+},{
+"admin_category_id": "2304005",
+"cate_1" : "식품",
+"cate_2" : "밀키트",
+"cate_3" : "샌드위치/샐러드"
+},{
+"admin_category_id": "2304006",
+"cate_1" : "식품",
+"cate_2" : "밀키트",
+"cate_3" : "비빔밥/덮밥/볶음밥"
+},{
+"admin_category_id": "2304007",
+"cate_1" : "식품",
+"cate_2" : "밀키트",
+"cate_3" : "중식요리"
+},{
+"admin_category_id": "2304008",
+"cate_1" : "식품",
+"cate_2" : "밀키트",
+"cate_3" : "분식요리"
+},{
+"admin_category_id": "2304009",
+"cate_1" : "식품",
+"cate_2" : "밀키트",
+"cate_3" : "기타밀키트"
+},{
+"admin_category_id": "2304010",
+"cate_1" : "식품",
+"cate_2" : "밀키트",
+"cate_3" : "감바스"
+},{
+"admin_category_id": "2304011",
+"cate_1" : "식품",
+"cate_2" : "밀키트",
+"cate_3" : "아시안/일식요리"
+},{
+"admin_category_id": "2305001",
+"cate_1" : "식품",
+"cate_2" : "생수/음료/커피/차",
+"cate_3" : "생수"
+},{
+"admin_category_id": "2305003",
+"cate_1" : "식품",
+"cate_2" : "생수/음료/커피/차",
+"cate_3" : "음료"
+},{
+"admin_category_id": "2305004",
+"cate_1" : "식품",
+"cate_2" : "생수/음료/커피/차",
+"cate_3" : "음료"
+},{
+"admin_category_id": "2305005",
+"cate_1" : "식품",
+"cate_2" : "생수/음료/커피/차",
+"cate_3" : "음료"
+},{
+"admin_category_id": "2305006",
+"cate_1" : "식품",
+"cate_2" : "생수/음료/커피/차",
+"cate_3" : "음료"
+},{
+"admin_category_id": "2305008",
+"cate_1" : "식품",
+"cate_2" : "생수/음료/커피/차",
+"cate_3" : "음료"
+},{
+"admin_category_id": "2305009",
+"cate_1" : "식품",
+"cate_2" : "생수/음료/커피/차",
+"cate_3" : "음료"
+},{
+"admin_category_id": "2305010",
+"cate_1" : "식품",
+"cate_2" : "생수/음료/커피/차",
+"cate_3" : "음료"
+},{
+"admin_category_id": "2305011",
+"cate_1" : "식품",
+"cate_2" : "생수/음료/커피/차",
+"cate_3" : "음료"
+},{
+"admin_category_id": "2305012",
+"cate_1" : "식품",
+"cate_2" : "생수/음료/커피/차",
+"cate_3" : "음료"
+},{
+"admin_category_id": "2305013",
+"cate_1" : "식품",
+"cate_2" : "생수/음료/커피/차",
+"cate_3" : "음료"
+},{
+"admin_category_id": "2305015",
+"cate_1" : "식품",
+"cate_2" : "생수/음료/커피/차",
+"cate_3" : "커피/차"
+},{
+"admin_category_id": "2305016",
+"cate_1" : "식품",
+"cate_2" : "생수/음료/커피/차",
+"cate_3" : "커피/차"
+},{
+"admin_category_id": "2305017",
+"cate_1" : "식품",
+"cate_2" : "생수/음료/커피/차",
+"cate_3" : "커피/차"
+},{
+"admin_category_id": "2305018",
+"cate_1" : "식품",
+"cate_2" : "생수/음료/커피/차",
+"cate_3" : "커피/차"
+},{
+"admin_category_id": "2305019",
+"cate_1" : "식품",
+"cate_2" : "생수/음료/커피/차",
+"cate_3" : "커피/차"
+},{
+"admin_category_id": "2305020",
+"cate_1" : "식품",
+"cate_2" : "생수/음료/커피/차",
+"cate_3" : "커피/차"
+},{
+"admin_category_id": "2305021",
+"cate_1" : "식품",
+"cate_2" : "생수/음료/커피/차",
+"cate_3" : "음료"
+},{
+"admin_category_id": "2306002",
+"cate_1" : "식품",
+"cate_2" : "우유/유가공품/두유",
+"cate_3" : "우유"
+},{
+"admin_category_id": "2306003",
+"cate_1" : "식품",
+"cate_2" : "우유/유가공품/두유",
+"cate_3" : "우유"
+},{
+"admin_category_id": "2306005",
+"cate_1" : "식품",
+"cate_2" : "우유/유가공품/두유",
+"cate_3" : "유가공품"
+},{
+"admin_category_id": "2306006",
+"cate_1" : "식품",
+"cate_2" : "우유/유가공품/두유",
+"cate_3" : "유가공품"
+},{
+"admin_category_id": "2306007",
+"cate_1" : "식품",
+"cate_2" : "우유/유가공품/두유",
+"cate_3" : "유가공품"
+},{
+"admin_category_id": "2306008",
+"cate_1" : "식품",
+"cate_2" : "우유/유가공품/두유",
+"cate_3" : "유가공품"
+},{
+"admin_category_id": "2306009",
+"cate_1" : "식품",
+"cate_2" : "우유/유가공품/두유",
+"cate_3" : "유가공품"
+},{
+"admin_category_id": "2306010",
+"cate_1" : "식품",
+"cate_2" : "우유/유가공품/두유",
+"cate_3" : "두유"
+},{
+"admin_category_id": "2307002",
+"cate_1" : "식품",
+"cate_2" : "식재료",
+"cate_3" : "가루/조미료/오일"
+},{
+"admin_category_id": "2307003",
+"cate_1" : "식품",
+"cate_2" : "식재료",
+"cate_3" : "가루/조미료/오일"
+},{
+"admin_category_id": "2307004",
+"cate_1" : "식품",
+"cate_2" : "식재료",
+"cate_3" : "가루/조미료/오일"
+},{
+"admin_category_id": "2307006",
+"cate_1" : "식품",
+"cate_2" : "식재료",
+"cate_3" : "소스/드레싱/장/식초"
+},{
+"admin_category_id": "2307007",
+"cate_1" : "식품",
+"cate_2" : "식재료",
+"cate_3" : "소스/드레싱/장/식초"
+},{
+"admin_category_id": "2307008",
+"cate_1" : "식품",
+"cate_2" : "식재료",
+"cate_3" : "소스/드레싱/장/식초"
+},{
+"admin_category_id": "2307009",
+"cate_1" : "식품",
+"cate_2" : "식재료",
+"cate_3" : "소스/드레싱/장/식초"
+},{
+"admin_category_id": "2307010",
+"cate_1" : "식품",
+"cate_2" : "식재료",
+"cate_3" : "소스/드레싱/장/식초"
+},{
+"admin_category_id": "2307011",
+"cate_1" : "식품",
+"cate_2" : "식재료",
+"cate_3" : "소스/드레싱/장/식초"
+},{
+"admin_category_id": "2307013",
+"cate_1" : "식품",
+"cate_2" : "식재료",
+"cate_3" : "면류"
+},{
+"admin_category_id": "2307014",
+"cate_1" : "식품",
+"cate_2" : "식재료",
+"cate_3" : "면류"
+},{
+"admin_category_id": "2307016",
+"cate_1" : "식품",
+"cate_2" : "식재료",
+"cate_3" : "육가공류/통조림"
+},{
+"admin_category_id": "2307017",
+"cate_1" : "식품",
+"cate_2" : "식재료",
+"cate_3" : "육가공류/통조림"
+},{
+"admin_category_id": "2307019",
+"cate_1" : "식품",
+"cate_2" : "식재료",
+"cate_3" : "두부/어묵/냉장식재료"
+},{
+"admin_category_id": "2307020",
+"cate_1" : "식품",
+"cate_2" : "식재료",
+"cate_3" : "두부/어묵/냉장식재료"
+},{
+"admin_category_id": "2308001",
+"cate_1" : "식품",
+"cate_2" : "신선식품",
+"cate_3" : "과일"
+},{
+"admin_category_id": "2308002",
+"cate_1" : "식품",
+"cate_2" : "신선식품",
+"cate_3" : "채소"
+},{
+"admin_category_id": "2308003",
+"cate_1" : "식품",
+"cate_2" : "신선식품",
+"cate_3" : "양곡"
+},{
+"admin_category_id": "2308004",
+"cate_1" : "식품",
+"cate_2" : "신선식품",
+"cate_3" : "수산"
+},{
+"admin_category_id": "2308007",
+"cate_1" : "식품",
+"cate_2" : "신선식품",
+"cate_3" : "축산/계란"
+},{
+"admin_category_id": "2308008",
+"cate_1" : "식품",
+"cate_2" : "신선식품",
+"cate_3" : "축산/계란"
+},{
+"admin_category_id": "2308009",
+"cate_1" : "식품",
+"cate_2" : "신선식품",
+"cate_3" : "축산/계란"
+},{
+"admin_category_id": "2308010",
+"cate_1" : "식품",
+"cate_2" : "신선식품",
+"cate_3" : "축산/계란"
+},{
+"admin_category_id": "2308011",
+"cate_1" : "식품",
+"cate_2" : "신선식품",
+"cate_3" : "축산/계란"
+},{
+"admin_category_id": "2309009",
+"cate_1" : "식품",
+"cate_2" : "건강식품",
+"cate_3" : "영양제"
+},{
+"admin_category_id": "2309010",
+"cate_1" : "식품",
+"cate_2" : "건강식품",
+"cate_3" : "영양제"
+},{
+"admin_category_id": "2309011",
+"cate_1" : "식품",
+"cate_2" : "건강식품",
+"cate_3" : "영양제"
+},{
+"admin_category_id": "2309012",
+"cate_1" : "식품",
+"cate_2" : "건강식품",
+"cate_3" : "영양제"
+},{
+"admin_category_id": "2309013",
+"cate_1" : "식품",
+"cate_2" : "건강식품",
+"cate_3" : "영양제"
+},{
+"admin_category_id": "2309014",
+"cate_1" : "식품",
+"cate_2" : "건강식품",
+"cate_3" : "영양제"
+},{
+"admin_category_id": "2309015",
+"cate_1" : "식품",
+"cate_2" : "건강식품",
+"cate_3" : "영양제"
+},{
+"admin_category_id": "2309016",
+"cate_1" : "식품",
+"cate_2" : "건강식품",
+"cate_3" : "영양제"
+},{
+"admin_category_id": "2309018",
+"cate_1" : "식품",
+"cate_2" : "건강식품",
+"cate_3" : "전통건강식품"
+},{
+"admin_category_id": "2309020",
+"cate_1" : "식품",
+"cate_2" : "건강식품",
+"cate_3" : "전통건강식품"
+},{
+"admin_category_id": "2309021",
+"cate_1" : "식품",
+"cate_2" : "건강식품",
+"cate_3" : "전통건강식품"
+},{
+"admin_category_id": "2309022",
+"cate_1" : "식품",
+"cate_2" : "건강식품",
+"cate_3" : "전통건강식품"
+},{
+"admin_category_id": "2309023",
+"cate_1" : "식품",
+"cate_2" : "건강식품",
+"cate_3" : "전통건강식품"
+},{
+"admin_category_id": "2309025",
+"cate_1" : "식품",
+"cate_2" : "건강식품",
+"cate_3" : "헬스/다이어트식품"
+},{
+"admin_category_id": "2309026",
+"cate_1" : "식품",
+"cate_2" : "건강식품",
+"cate_3" : "헬스/다이어트식품"
+},{
+"admin_category_id": "2309027",
+"cate_1" : "식품",
+"cate_2" : "건강식품",
+"cate_3" : "헬스/다이어트식품"
+},{
+"admin_category_id": "2309028",
+"cate_1" : "식품",
+"cate_2" : "건강식품",
+"cate_3" : "영양식/선식"
+},{
+"admin_category_id": "2310000",
+"cate_1" : "식품",
+"cate_2" : "주류",
+"cate_3" : "주류"
+},{
+"admin_category_id": "2311002",
+"cate_1" : "식품",
+"cate_2" : "건강기능식품(인증필)",
+"cate_3" : "영양제"
+},{
+"admin_category_id": "2311003",
+"cate_1" : "식품",
+"cate_2" : "건강기능식품(인증필)",
+"cate_3" : "영양제"
+},{
+"admin_category_id": "2311004",
+"cate_1" : "식품",
+"cate_2" : "건강기능식품(인증필)",
+"cate_3" : "영양제"
+},{
+"admin_category_id": "2311005",
+"cate_1" : "식품",
+"cate_2" : "건강기능식품(인증필)",
+"cate_3" : "영양제"
+},{
+"admin_category_id": "2311006",
+"cate_1" : "식품",
+"cate_2" : "건강기능식품(인증필)",
+"cate_3" : "영양제"
+},{
+"admin_category_id": "2311007",
+"cate_1" : "식품",
+"cate_2" : "건강기능식품(인증필)",
+"cate_3" : "영양제"
+},{
+"admin_category_id": "2311008",
+"cate_1" : "식품",
+"cate_2" : "건강기능식품(인증필)",
+"cate_3" : "영양제"
+},{
+"admin_category_id": "2311009",
+"cate_1" : "식품",
+"cate_2" : "건강기능식품(인증필)",
+"cate_3" : "영양제"
+},{
+"admin_category_id": "2311011",
+"cate_1" : "식품",
+"cate_2" : "건강기능식품(인증필)",
+"cate_3" : "전통건강기능식품"
+},{
+"admin_category_id": "2311013",
+"cate_1" : "식품",
+"cate_2" : "건강기능식품(인증필)",
+"cate_3" : "전통건강기능식품"
+},{
+"admin_category_id": "2311014",
+"cate_1" : "식품",
+"cate_2" : "건강기능식품(인증필)",
+"cate_3" : "전통건강기능식품"
+},{
+"admin_category_id": "2311015",
+"cate_1" : "식품",
+"cate_2" : "건강기능식품(인증필)",
+"cate_3" : "전통건강기능식품"
+},{
+"admin_category_id": "2311016",
+"cate_1" : "식품",
+"cate_2" : "건강기능식품(인증필)",
+"cate_3" : "전통건강기능식품"
+},{
+"admin_category_id": "2311018",
+"cate_1" : "식품",
+"cate_2" : "건강기능식품(인증필)",
+"cate_3" : "헬스/다이어트식품"
+},{
+"admin_category_id": "2311019",
+"cate_1" : "식품",
+"cate_2" : "건강기능식품(인증필)",
+"cate_3" : "헬스/다이어트식품"
+},{
+"admin_category_id": "2311020",
+"cate_1" : "식품",
+"cate_2" : "건강기능식품(인증필)",
+"cate_3" : "헬스/다이어트식품"
+},{
+"admin_category_id": "2311021",
+"cate_1" : "식품",
+"cate_2" : "건강기능식품(인증필)",
+"cate_3" : "영양식/선식"
+}]}
